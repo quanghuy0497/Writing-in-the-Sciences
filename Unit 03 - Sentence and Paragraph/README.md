@@ -16,7 +16,7 @@
 + Increasing formality:
 	+ Dash => Parentheses => Other (Comma, colon,...)
 
-+ Semicolon `;`: 
++ ***Semicolon*** `;`
 	- Connects two INDEPENDENT clauses.
 	  	- ***Example***: *Kennedy could be a cold and vain main, and he led a life of privilege. But he knew something about the world; he also cared about it.*
 
@@ -24,22 +24,25 @@
 	  	- ***Example***: *It happened because people organized and voted for better prospects; because leaders enacted smart, forward-looking policies; because people's perspectives opened up, and with them, societies did too.*
 		=> **Separate clauses that have internal comma**
 
-+ Parentheses `()`:
++ ***Parentheses*** `()`
 	- Insert an afterthought or explanation (a word, phrase, or sentence) that is not essential into a passage that is grammatically complete without it.  ***=> This is also an example.***
+
 	- The sentence's main point should not change if the material within the parentheses is removed. They give the reader permission to skip over the material.
 		- ***Example***: *His knowledge of Portuguese is limited to obrigado (thank you) and adeus (goodbye).*
 
-+ Colon `:`:
++ ***Colon*** `:`
 	- Introduce a list, quote, explanation, conclusion, amplification.
 		- ***Examples***: 
 			- *The hydrogen bonds are made as follows: purine position 1 to pyrimdine position1; purine position 6 to pyrimdine position 6.* ***=> list***
 			- *That's one reason why I'm so optimistic about the future: the constant churn of scientific progress.* ***=> explanation***
 			- *The woman suggests from lack of explanation and a chronic Democratic disease: compound sentences.* ***=> amplification***
+
 	- Join two independent clauses if the second amplifies or extends the first. The first clause sets up for the second.
 		- ***Example***: 'Companies use Marsh for the same reason that home sellers use real-estate agents: The agent's knowledge and experience is supposed to help the client get the right deal at the right price.''
 
-+ Dash `—` *(-- in LaTex)*:
++ ***Dash*** `—` *(-- in LaTex)*
 	- Add emphasis or to insert an abrupt definition or description almost anywhere in the sentence.
+	
 	- Just don't overuse it, or it loses its impact
 		- ***Examples***:
 			- *But my fellow Americans, whatever mix of motives led us to create an Electoral College majority for Donald Trump to become president — and overlook his lack of preparation, his record of indecent personal behavior, his madcap midnight tweeting, his casual lying about issues like “millions” of people casting illegal votes in this election, the purveying of fake news by his national security adviser, his readiness to appoint climate change deniers without even getting a single briefing from the world’s greatest climate scientists in the government he’ll soon lead and his cavalier dismissal of the C.I.A.’s conclusions about Russian hacking of our election — have no doubt about one thing: We as a country have just done something incredibly reckless.*
@@ -57,6 +60,7 @@
 		    	- *Use parentheses instead*: ***buries the information.***
 
 	- *"A dash is a mark of separation stronger than a comma, less formal than a colon, and more relaxed than parentheses."* - The Elements of Style
+
 	- **Note**: You can violate the *"not to put so too much space between subject and the main verb"* if you use dash. You can find the verb.
 
 
@@ -68,7 +72,7 @@
 	- ***Finally, the lessons of clinical epidemiology is not limited to academic physician-epidemiologists — who sometimes have more interest in analyzing data than caring for patients — provides clinicians with the tools to improve their patients' outcomes.***  *(Sometimes use negative construction "not limited" is better than the possitive one "extended". It is more suitable with passive verb.)*
 
 
-### Parallelism: 
+### 3. Parallelism: 
 + Pair of ideals joined by `and`, `or`, or `but` should be written in parallel form.
  	- ***Examples***:
 		- *The velocity decrease by 50% but the pressure decreased by 10%.*
@@ -80,43 +84,98 @@
 		- *Locusts denuded fields in Utah, torrents washed away rural Iowa, and blazing heat shriveled Arizona's cotton.*
 		- *She enjoys running by the lake, playing with her dog, and hiking tall mountains.*
 
-+ How to make a parallelism: Make a choice (grammar structure) and stick to it!
++ How to create parallelism: Make a choice (grammar structure) and stick to it!
 	- ***Example***: *NASA's intrepid Mars rover, Curiosity, has been through a lot in the past year. It flew 354 million miles, blasted through the Mars atmosphere, deployed a supersonic parachute, unfurled a giant sky crane, and touched down gently on the surface of Mars.* ***=> starts with a verb, uses past tense, and deploys nice verbs.***
 
-+ Other examples:
++ ***Other examples***:
 	- *If you want to be a good doctor, you must study hard, critically think about the medical literature, and you should be a good listener.*
 		- ***If you want to be a good doctor, you must study hard, listen well, and think critically about medical literature.*** => parallel with verb
 	    - ***If you want to be a good doctor, you must be a good student, a good listener, and a critical thinker about the medical.*** => parallel with noun
 
-	- *This research follows four distinct phases: (1) establishing measurement instruments, (2) pattern measurement, (3) developing interventions and (4) the dissemination of successful interventions to other settings and institutions.*
-		- ***This research follows four distinct phases: (1) establishing measurement instruments, (2) measuring pattern, (3) developing interventions and (4) disseminating successful interventions to other settings and institutions.***
+	- *This research follows four distinct phases: (1) establishing measurement instruments, (2) pattern measurement, (3) developing interventions, and (4) the dissemination of successful interventions to other settings and institutions.*
+		- ***This research follows four distinct phases: (1) establishing measurement instruments, (2) measuring pattern, (3) developing interventions, and (4) disseminating successful interventions to other settings and institutions.***
 
 	- *Bates describes the five principles for the success of decision support systems in clinical settings: speed, real-time delivery, integration into workflow, simplicity and to avoid data entry.*
-		- ***Bates describes the five principles for the success of decision support systems in clinical settings: speed, real-time delivery, integration into workflow, simplicity and the avoidance of data entry.***
+		- ***Bates describes the five principles for the success of decision support systems in clinical settings: speed, real-time delivery, integration into workflow, simplicity, and the avoidance of data entry.***
 ### 4. Paragraph:
 + 1 paragraph = 1 single idea
-+ Paragraph shoud be short => more forcus, provide a lot of white space on the page (less tedious)
++ Paragraph should be short => more focus, provide a lot of white space on the page (less tedious)
 + We should give away the punch line (main point) early
 + Paragraph flow is helped by:
 	- logical flow of idea
 	- parallel sentence structure
 	- Don't rely on transition words. Only use it when necessary.
-+ Reader remenbers the *first* and *last* sentence best => make it memorable, emphasis
++ Reader remembers the *first* and *last* sentence best => make it memorable, emphasis
 + Logical flow of ideas:
 	- Sequential in time 
 	- General => specific
 	- Logical arguments (if `a` then `b`; `a`, therefore `b`)
 
 + ***Exemplary example***:
-	```
-	"This kind of progress hasn’t happened on its own. It happened because people organized and voted for better prospects; because leaders enacted smart, forward-looking policies; because people’s perspectives opened up, and with them, societies did too. But this progress also happened because we scienced the heck out of our challenges. Science is how we were able to combat acid rain and the AIDS epidemic. Technology is what allowed us to communicate across oceans and empathize with one another when a wall came down in Berlin or a TV personality came out. Without Norman Borlaug’s wheat, we could not feed the world’s hungry. Without Grace Hopper’s code, we might still be analyzing data with pencil and paper."
-	```
+>"This kind of progress hasn’t happened on its own. It happened because people organized and voted for better prospects; because leaders enacted smart, forward-looking policies; because people’s perspectives opened up, and with them, societies did too. But this progress also happened because we scienced the heck out of our challenges. Science is how we were able to combat acid rain and the AIDS epidemic. Technology is what allowed us to communicate across oceans and empathize with one another when a wall came down in Berlin or a TV personality came out. Without Norman Borlaug’s wheat, we could not feed the world’s hungry. Without Grace Hopper’s code, we might still be analyzing data with pencil and paper."
+- ***Analyze***:
 	+ Only use 1 transition word ***But***
-	+ The main idea is the third sentence - `"But this progress..."` => ***Right in the middle.***
+	+ The main idea is the third sentence - *"But this progress..."* => ***Right in the middle***
 	+ Paragraph flow: ***General to Specific***
-	+ Parallel struction: the last four sentences. => ***poetic, move the paragraph along.***
+	+ Parallel structure: the last four sentences. => ***poetic, move the paragraph along.***
+### 5. Paragraph editing 1:
++ ***Original paragraph***:
+> "Most scents remain constant in their quality over orders of magnitude of concentration (12). Nevertheless, at high concentrations, quality tends to be negatively correlated with intensity, as was the case, for example, for the cinnamon oil used in this study. Hence, reliability of absolute scorings was achieved by calibrating the amount of perfume ingredients with initial ratings for intensity against a reference substance of known concentration. The final concentrations were in principal chosen in a way such that individual ratings showed variance among participants within the sliding scale between 0 and 10 (meaning that people could decide whether they liked a scent or not). This procedure seemed successful for most scents; however, the concentrations for bergamot (highest average ratings) and vetiver (lowest average rating) could probably been reduced even more, as both scents did not show any discriminating power at the level of common alleles (people agreed largely on the quality of these two scents) (see Table 2). Interestingly, the pooled rare alleles showed discriminating power for..."  
+>*[212 words]*
 
++ ***Outline***:
+	- *Main idea*: Were the perfume concentration in the experiment appropriate.
+	- *Point 1*: If the concentration is too high, the smell may be too overpowering and affect quality rating => not a problem because we standardized intensity
+	- *Point 2*: The concentration is appropriate if they produce sufficient variability in quality rating. => true for most scents with 2 exceptions.
 
++ ***Edited paragraph***:
+> Perfume intensity and quality are negatively correlated at high concentrations: If the scent is too strong, people will rate it unfavorably. Hence, we chose the final concentration of each perfume ingredient so that it had similar intensity to a reference scent (1-butanol). The resulting concentrations appeared appropriate for most scents, as participants' preferences varied along the sliding scale between 0 and 10. However, participants largely agreed on bergamot (highest average ratings) and vetiver (lowest average ratings), so lower or higher concentrations may have been needed for these scents.  
+>*[91 words]*
+
++ Notes: *Watch the video lecture for another example.*
+
+### Paragraph editing 2:
++ ***Original paragraph***:
+> "The concept of chocolate having potential therapeutic benefits for people with diabetes mellitus, especially type 2 diabetes mellitus, presents a number of intellectual challenges, from both clinical and sociological perspectives. It seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise. However, a large volume of mechanistic and animal model studies has been undertaken demonstrating the potential benefits of cocoa and chocolate for both glucose regulation and modification of complications associated with diabetes. Cesar Fraga in the American Journal of Clinical Nutrition first proposed the potential of chocolate for people with diabetes in 2005. It was suggested that we should consume more cocoa and chocolate to reduce the burdens of hypertension and diabetes.(1) Grassi and colleagues (2) further reinforced this potential for its antihypertensive and insulin-sensitizing effect with the mechanistic data. However, the hypothesis of chocolate having a beneficial effect remains counterintuitive to the average consumer and has yet to gain support among the wider medical and healthcare community."  
+>*[177 words]*
+
++ ***Original outline***: 
+  	- It's surprising that chocolate might be healthy. ***=> move to end***
+  	- It's counterintuitive that chocolate might be healthy. ***=> move to end***
+  	- Many studies suggest that chocolate is healthy.
+  	- The first of these studies was in 2005.
+  	- The study showed benefits for hypertension and diabetes.
+  	- Another study showed benefits for hypertension and diabetes.
+  	- It's counterintuitive that cholerant might be healthy, so medical professionals are skeptical.
+
++ ***Edited outline***:
+  	- Many studies suggest that chocolate is healthy.
+  	- The first of these studies was in 2005.
+  	- ***These studies show*** benefits for hypertension and diabetes.
+  	- ~~Another study showed benefits for hypertension and diabetes.~~
+  	- ~~It's counterintuitive that cholerant might be healthy, so~~ Medical professionals are skeptical.
+  	- ~~It's surprising that chocolate might be healthy.~~ ***(moved)***
+  	- It's counterintuitive that chocolate might be healthy. ***(moved)***
+
++ ***Edited paragraph***:
+> Many mechanistic and animal studies suggest health benefits for cocoa and chocolate, particularly for patients with hypertension and type 2 diabetes mellitus. These studies suggest that cocoa and chocolate can lower blood pressure, improve glucose regulation, improve insulin sensitivity, and reduce complications from diabetes. But the idea of chocolate as medicine has yet to gain widespread support among consumers or among the wider medical and healthcare community. It seems counterintuitive that a high-sugar, energy-dense food — one often seen as a treat or "dietary sin" — could promote health.  
+>*[87 words]*
+
++ Notes: *Watch the video lecture for another example.*
+
+### A few more tips:
++ Repetition:
+	- Before reaching thesaurus to avoid using a word twice, ask:
+		- (1) Is the second instance of the word even necessary?
+		- (2) If the word is needed, is a synonym really better than just repeating the word?
+	- However, it's OK to repeat a word! (Sometimes it better than using an awkward synonym)
++ Keyword:
+	 - Keywords need to be repeated **(Essential)**
++ Acronyms:
+	- Don't abbreviate words just because they recur frequently
+	- Only use standard, well-known acronyms (like DNA)
+	- Define them separately within each section. For long papers, redefine occasionally
+	
 ### Notes:
 + Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
 
