@@ -168,14 +168,14 @@
 + Notes: *Watch the video lecture for another example.*
 
 ### 7. A few more tips:
-+ Repetition:
++ **Repetition**:
 	- Before reaching thesaurus to avoid using a word twice, ask:
 		- (1) Is the second instance of the word even necessary?
 		- (2) If the word is needed, is a synonym really better than just repeating the word?
 	- However, it's OK to repeat a word! (Sometimes it better than using an awkward synonym)
-+ Keyword:
++ **Keyword**:
 	 - Keywords need to be repeated **(Essential)**
-+ Acronyms:
++ **Acronyms**:
 	- Don't abbreviate words just because they recur frequently
 	- Only use standard, well-known acronyms (like DNA)
 	- Define them separately within each section. For long papers, redefine occasionally
