@@ -6,7 +6,7 @@
 * [3. Active voice practice](#3-Active-voice-practice)
 * [4. Write with verbs](#4-Write-with-verbs)
 * [5. Practice examples](#5-Practice-examples)
-* [6. A few grammar tips](#6-A-few-grammar-tip)
+* [6. A few grammar tips](#6-A-few-grammar-tips)
 * [Notes](#Notes)
 
 ### 1. Active voice:
@@ -88,7 +88,7 @@
 
 + _It was assumed that due to reduced work at the joints of the lower limbs and less energy loss in the prosthetics leg, running with the dedicated prostheses allows for maximum sprinting at lower metabolic costs than in the healthy ankle joint complex._
 	- ***The prosthetics leg reduces work and energy loss comparing with a healthy ankle joint, which may lead to lower metabolic costs during maximum sprinting.***
-### 6. Practice cutting clutter:
+### 6. A few grammar tips:
 + The word `data` is plural: `Data are`, not `Data is`
 + Affect vs. effect:
 	- `Affect` is the verb `to influence`. 
