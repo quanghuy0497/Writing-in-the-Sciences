@@ -138,7 +138,7 @@
 
 + Notes: *Watch the video lecture for another example.*
 
-### 6.Paragraph editing 2:
+### 6. Paragraph editing 2:
 + ***Original paragraph***:
 > "The concept of chocolate having potential therapeutic benefits for people with diabetes mellitus, especially type 2 diabetes mellitus, presents a number of intellectual challenges, from both clinical and sociological perspectives. It seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise. However, a large volume of mechanistic and animal model studies has been undertaken demonstrating the potential benefits of cocoa and chocolate for both glucose regulation and modification of complications associated with diabetes. Cesar Fraga in the American Journal of Clinical Nutrition first proposed the potential of chocolate for people with diabetes in 2005. It was suggested that we should consume more cocoa and chocolate to reduce the burdens of hypertension and diabetes.(1) Grassi and colleagues (2) further reinforced this potential for its antihypertensive and insulin-sensitizing effect with the mechanistic data. However, the hypothesis of chocolate having a beneficial effect remains counterintuitive to the average consumer and has yet to gain support among the wider medical and healthcare community."  
 >*[177 words]*
