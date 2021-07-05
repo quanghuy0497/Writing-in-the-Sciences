@@ -1,15 +1,18 @@
 ## Unit 3 - Sentence and Paragraph
 
 ### Table of contents
-* [1. Punctuation](#1-Punctuation) 
-* [2. Practice, colon and dash](#2-Practice,-colon-and-dash)
-* [3. Parallelism](#3-Parallelism)
-* [4. Paragraph](#4-Paragraph)
-* [5. Paragraph editing 1](#5-Paragraph-editing-1)
-* [6. Paragraph editing 2](#6-Paragraph-editing-2)
-* [7. A few more tips](#7-A-few-more-tips)
+* [I. Sentence](#I-Sentence)
+	* [1. Punctuation](#1-Punctuation) 
+	* [2. Practice, colon and dash](#2-Practice,-colon-and-dash)
+	* [3. Parallelism](#3-Parallelism)
+* [II. Paragraph](#II. Paragraph)	
+	* [4. Paragraph](#4-Paragraph)
+	* [5. Paragraph editing 1](#5-Paragraph-editing-1)
+	* [6. Paragraph editing 2](#6-Paragraph-editing-2)
+	* [7. A few more tips](#7-A-few-more-tips)
 * [Notes](#Notes)
 
+## I. Sentence
 ### 1. Punctuation:
 + Increasing power to seperate:
 	+ Comma => Colon => Dash => Parentheses => Semicolon => Period
@@ -95,6 +98,8 @@
 
 	- *Bates describes the five principles for the success of decision support systems in clinical settings: speed, real-time delivery, integration into workflow, simplicity and to avoid data entry.*
 		- ***Bates describes the five principles for the success of decision support systems in clinical settings: speed, real-time delivery, integration into workflow, simplicity, and the avoidance of data entry.***
+
+## II. Paragraph
 ### 4. Paragraph:
 + 1 paragraph = 1 single idea
 + Paragraph should be short => more focus, provide a lot of white space on the page (less tedious)
