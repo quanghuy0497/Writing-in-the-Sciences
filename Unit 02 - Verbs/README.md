@@ -1,19 +1,13 @@
 ## Unit 2 - Verbs
 
 ### Table of contents
-[1. Active voice](#1-Active-voice) 
-
-[2. Personal pronouns ("We" or "I")](#2-Personal-pronouns-We-or-I)
-
-[3. Active voice practice](#3-Active-voice-practice)
-
-[4. Write with verbs](#4-Write-with-verbs)
-
-[5. Practice examples](#5-Practice-examples)
-
-[6. A few grammar tips](#6-A-few-grammar-tip)
-
-[Notes](#Notes)
+* [1. Active voice](#1-Active-voice) 
+* [2. Personal pronouns ("We" or "I")](#2-Personal-pronouns-We-or-I)
+* [3. Active voice practice](#3-Active-voice-practice)
+* [4. Write with verbs](#4-Write-with-verbs)
+* [5. Practice examples](#5-Practice-examples)
+* [6. A few grammar tips](#6-A-few-grammar-tip)
+* [Notes](#Notes)
 
 ### 1. Active voice:
 + Active voice is the natural way to talk and write.
