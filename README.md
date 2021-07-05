@@ -1,6 +1,8 @@
 # Writing in the Science - Coursera
 
-[Writing in the Science - Stanford University](https://www.coursera.org/learn/sciwrite). Taught by Dr. `Kristin Sainani`
+[Writing in the Science - Stanford University](https://www.coursera.org/learn/sciwrite).
+
+Taught by Dr. `Kristin Sainani`
 
 
 ## Syllabus:
