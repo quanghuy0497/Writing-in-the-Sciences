@@ -191,7 +191,7 @@
 + **Punctuation**:
 	+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
 + **The rules of three**: 
-	+ ***3*** is the pleasing number to introduce a list/examples
+	+ ***THREE*** is the pleasing number to introduce a list/examples
 		+ Enough to make a point, but not so much to overwhelm the reader. 
 		+ You don't always have to use three, but when in doubt, three examples is the default.
 + **Transition words**:
