@@ -121,7 +121,7 @@
 	+ Only use 1 transition word - ***"But"***
 	+ The main idea is the third sentence => ***Placed right in the middle***
 	+ Paragraph flow: ***General to Specific***
-	+ Parallel structure:
+	+ Parallel structures:
 		+ > Science is how we were able to combat acid rain and the AIDS epidemic.  
 		  > Technology is what allowed us to communicate across oceans and empathize with one another when a wall came down in Berlin or a TV personality came out.
 		+ > Without Norman Borlaug’s wheat, we could not feed the world’s hungry.  
