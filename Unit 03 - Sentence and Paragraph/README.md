@@ -5,7 +5,7 @@
 	* [1. Punctuation](#1-Punctuation) 
 	* [2. Practice, colon and dash](#2-Practice,-colon-and-dash)
 	* [3. Parallelism](#3-Parallelism)
-* [II. Paragraph](#II. Paragraph)	
+* [II. Paragraph](#II-Paragraph)	
 	* [4. Paragraph](#4-Paragraph)
 	* [5. Paragraph editing 1](#5-Paragraph-editing-1)
 	* [6. Paragraph editing 2](#6-Paragraph-editing-2)
