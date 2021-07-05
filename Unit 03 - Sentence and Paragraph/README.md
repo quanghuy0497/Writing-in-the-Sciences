@@ -74,18 +74,18 @@
 	- ***Finally, the lessons of clinical epidemiology is not limited to academic physician-epidemiologists — who sometimes have more interest in analyzing data than caring for patients — provides clinicians with the tools to improve their patients' outcomes.***  *(Sometimes use negative construction "not limited" is better than the possitive one "extended". It is more suitable with passive verb.)*
 
 ### 3. Parallelism: 
-+ Pair of ideals joined by `and`, `or`, or `but` should be written in parallel form.
++ **Pair of ideals** joined by `and`, `or`, or `but` should be written in parallel form.
  	- ***Examples***:
 		- *The velocity decrease by 50% but the pressure decreased by 10%.*
 		- *We aimed to increase the resolution and to improve picture quality.*
 		- *Infinities phrase and infinitive phrase.*
 
-+ Lists of ideas should be written in parallel form. 
++ **Lists of ideas** should be written in parallel form. 
 	- ***Examples***:
 		- *Locusts denuded fields in Utah, torrents washed away rural Iowa, and blazing heat shriveled Arizona's cotton.*
 		- *She enjoys running by the lake, playing with her dog, and hiking tall mountains.*
 
-+ How to create parallelism: Make a choice (grammar structure) and stick to it!
++ How to create parallelism: **_Make a choice (grammar structure) and stick to it!_**
 	- ***Example***: *NASA's intrepid Mars rover, Curiosity, has been through a lot in the past year. It flew 354 million miles, blasted through the Mars atmosphere, deployed a supersonic parachute, unfurled a giant sky crane, and touched down gently on the surface of Mars.* ***=> starts with a verb, uses past tense, and deploys nice verbs.***
 
 + ***Other examples***:
