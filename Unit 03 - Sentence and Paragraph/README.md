@@ -176,9 +176,9 @@
 
 ### 7. A few more tips:
 + **Repetition**:
-	- Before reaching thesaurus to avoid using a word twice, ask:
-		- (1) Is the second instance of the word even necessary?
-		- (2) If the word is needed, is a synonym really better than just repeating the word?
+	- Before reaching thesaurus to avoid using a word twice within a sentence/paragraph, ask:
+		- (1) Is the second instance of the word even **necessary**?
+		- (2) If the word is needed, is a synonym **really better** than just repeating the word?
 	- However, it's OK to repeat a word! (Sometimes it better than using an awkward synonym)
 + **Keyword**:
 	 - Keywords need to be repeated **(Essential)**
