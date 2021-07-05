@@ -2,7 +2,7 @@
 
 ### Table of contents
 * [1. Active voice](#1-Active-voice) 
-* [2. Personal pronouns ("We" or "I")](#2-Examples-of-what-not-to-do)
+* [2. Personal pronouns ("We" or "I")](#2-Personal-pronouns-We-or-I)
 * [3. Active voice practice](#3-Active-voice-practice)
 * [4. Write with verbs](#4-Write-with-verbs)
 * [5. Practice examples](#5-Practice-examples)
