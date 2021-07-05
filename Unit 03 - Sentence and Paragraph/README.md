@@ -115,11 +115,11 @@
 	- Logical arguments (if `a` then `b`; `a`, therefore `b`)
 
 + ***Exemplary example***:
->"This kind of progress hasn’t happened on its own. It happened because people organized and voted for better prospects; because leaders enacted smart, forward-looking policies; because people’s perspectives opened up, and with them, societies did too. BUT this progress also happened because we scienced the heck out of our challenges. Science is how we were able to combat acid rain and the AIDS epidemic. Technology is what allowed us to communicate across oceans and empathize with one another when a wall came down in Berlin or a TV personality came out. Without Norman Borlaug’s wheat, we could not feed the world’s hungry. Without Grace Hopper’s code, we might still be analyzing data with pencil and paper." - Obama
+>"This kind of progress hasn’t happened on its own. It happened because people organized and voted for better prospects; because leaders enacted smart, forward-looking policies; because people’s perspectives opened up, and with them, societies did too. **BUT this progress also happened because we scienced the heck out of our challenges. Science is how we were able to combat acid rain and the AIDS epidemic.** Technology is what allowed us to communicate across oceans and empathize with one another when a wall came down in Berlin or a TV personality came out. Without Norman Borlaug’s wheat, we could not feed the world’s hungry. Without Grace Hopper’s code, we might still be analyzing data with pencil and paper." - Obama
 
 - ***Analyze the paragraph***:
 	+ Only use 1 transition word - ***"But"***
-	+ The main idea is the third sentence - *"But this progress..."* => ***Placed right in the middle***
+	+ The main idea is the third sentence => ***Placed right in the middle***
 	+ Paragraph flow: ***General to Specific***
 	+ Parallel structure:
 		+ > Science is how we were able to combat acid rain and the AIDS epidemic.  
