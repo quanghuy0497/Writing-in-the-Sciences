@@ -101,7 +101,7 @@
 
 ## II. Paragraph
 ### 4. Paragraph:
-+ 1 paragraph = 1 single idea
++ One paragraph represents for one single idea
 + Paragraph should be short => more focus, provide a lot of white space on the page (less tedious)
 + We should give away the punch line (main point) early
 + Paragraph flow is helped by:
