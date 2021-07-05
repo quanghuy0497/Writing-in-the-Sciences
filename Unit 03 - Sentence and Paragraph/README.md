@@ -191,9 +191,9 @@
 + **Punctuation**:
 	+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
 + **The rules of three**: 
-	+ **Three*** is the pleasing number to introduce a list
+	+ ***3*** is the pleasing number to introduce a list/examples
 		+ Enough to make a point, but not so much to overwhelm the reader. 
-		+ You don't always have to use three, but when in doubt, three is the default.
+		+ You don't always have to use three, but when in doubt, three examples is the default.
 + **Transition words**:
 	+ Transition words aren't strong enough to fix underlying logic that's not sound.
 	+ Professional writer **only** use AND/OR (for tacking on additional information) and BUT/HOWEVER (for changing gear).
