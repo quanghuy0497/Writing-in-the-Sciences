@@ -188,16 +188,19 @@
 	- Define them separately within each section. For long papers, redefine occasionally
 	
 ### Notes:
-+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
++ **Punctuation**:
+	+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
+	+ 
++ **The rules of three**: 
+	+ **Three*** is the pleasing number to introduce a list
+		+ Enough to make a point, but not so much to overwhelm the reader. 
+		+ You don't always have to use three, but when in doubt, three is the default.
 
-+ The rules of three's (lists, examples): **Three*** is the pleasing number to introduce a list
-	+ Enough to make a point, but not so much to overwhelm the reader. 
-	+ You don't always have to use three, but when in doubt, three is the default.
-
-+ Transition words aren't strong enough to fix underlying logic that's not sound.
-+ Professional writer **only** use AND/OR (for tacking on additional information) and BUT/HOWEVER (for changing gear).
-
-+ Paragraphs can flow beautifully without relying on transition words.
-+ Parallel structure helps make paragraph flows.
-+ Editing paragraph: the outline is needed to think through the logic carefully in head
++ **Transition words**:
+	+ Transition words aren't strong enough to fix underlying logic that's not sound.
+	+ Professional writer **only** use AND/OR (for tacking on additional information) and BUT/HOWEVER (for changing gear).
++ **Paragraph**:
+	+ Paragraphs can flow beautifully without relying on transition words.
+	+ Parallel structure helps make paragraph flows.
+	+ Editing paragraph: the outline is needed to think through the logic carefully in head
 + Sometimes, use synonym leads the reader to think you are referring to a different instrument, model, group, variable.
