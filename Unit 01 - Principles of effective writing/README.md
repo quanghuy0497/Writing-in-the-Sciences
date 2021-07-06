@@ -45,7 +45,11 @@
 
 ### 5. Small tricks to cut the clutters
 + **Eliminate negatives.**
-  + You can **always** turn negative words into the positive ones, you just have to be clever 
+  + You can **always** turn negative words into the positive ones, you just have to be clever
+  + ***Example***: *She was not often right.*
+  	+ ***She was usually wrong.***
+  + Some few examples of elimiating negatives:
+
   	| Netagive                 | Positive    |
 	|--------------------------|-------------|
 	| Not honest               | dishonest   |
@@ -55,15 +59,13 @@
 	| Did not remember         | forgot      |
 	| Did not pay attention to | ignored     |
 	| Did not succeed          | failed      |
-  + ***Example***: *She was not often right.*
-    + ***She was usually wrong.***
 + **Eliminate there are/is.**
   + ***Example***: *The data confirm that there is an association between vegetables and cancer.*
-    + ***The data confirm an association between vegetables and cancer.***
+  	+ ***The data confirm an association between vegetables and cancer.***
 
 + **Omit needless prepositions ("that", "on",...)**
   + ***Example***: *They agreed that it was true.*
-    + ***They agreed it was true.***
+  	+ ***They agreed it was true.***
 
 ### 6. Practice cutting clutter:
 + _Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease._
