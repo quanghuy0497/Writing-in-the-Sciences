@@ -132,6 +132,5 @@
 		- ***All students worry about their grades.***
 ***
 ### Notes:
-+ Becareful with "hedge" word (`no appreciable change`, `it is suppected that`,...).
-	+ They often unnecessary and raise all sorts of questions.
-+ ***`Careful writers, watchful for small conveniences, go which-hunting, remove the defining whiches, and by doing so improve their work.`*** - Strunk and White
++ Be careful with "hedge" words (`no appreciable change`, `it is suppected that`,...). They often unnecessary and raise all sorts of questions.
++ Wise word: ***`Careful writers, watchful for small conveniences, go which-hunting, remove the defining whiches, and by doing so improve their work.`*** - Strunk and White
