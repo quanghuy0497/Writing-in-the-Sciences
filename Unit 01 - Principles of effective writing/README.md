@@ -45,6 +45,7 @@
 
 ### 5. Small tricks to cut the clutters
 + **Eliminate negatives.**
+  + You can **always** turn negative words into the positive ones, you just have to be clever 
   	| Netagive                 | Positive    |
 	|--------------------------|-------------|
 	| Not honest               | dishonest   |
