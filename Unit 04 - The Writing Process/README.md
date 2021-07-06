@@ -162,10 +162,10 @@
 	+ **Do the verb check**
 		+ Underline the main verb in each sentence
 		+ Think carefully about the verb choices
-		+ Watch for:
-			(1) Lackluster verbs (e.g., `are`, `is`, `was`, `be`, `then`, `am`)
-			(2) Passive verbs
-			(3) Burried verbs
+		+ Watch for:  
+			(1) Lackluster verbs (e.g., `are`, `is`, `was`, `be`, `then`, `am`)  
+			(2) Passive verbs  
+			(3) Burried verbs  
 		+ Just chaning a few verb to make them more spunky  
 		***=> making the writing more lively and accessible***
 	+ **Cut clutter**
