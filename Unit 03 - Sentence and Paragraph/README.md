@@ -190,10 +190,17 @@
 ### Notes:
 + **Punctuation**:
 	+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
-+ **The rules of three**: 
-	+ ***THREE*** is the pleasing number to introduce a list/examples
++ [**The rule of three**](https://en.wikipedia.org/wiki/Rule_of_three_(writing)): 
+	+ Things happen in threes. 
+	+ **THREE** is the pleasing number to introduce a list/examples
 		+ Enough to make a point, but not so much to overwhelm the reader. 
 		+ You don't always have to use three, but when in doubt, three examples is the default.
+	+ ***Examples***:
+		+ *"Veni, vidi, vici (I came, I saw, I conquered)."* - Julius Caesar
+		+ *"Government of the people, by the people, for the people."* - Abram Lincoln (Gettysburg Address)
+		+ *"We can not dedicate — we can not consecrate — we can not hallow — this ground."* - Abraham Lincoln (Gettysburg Address)
+		+ *"Never in the history of human endeavor has so much been owed by so many to so few."* - Winston Churchil (Wartime Speech)
+		+ *"Three things your spouse wants you to do in the event of an argument—take a breath, take a hint, and take a hike."* — Joslyn Chase
 + **Transition words**:
 	+ Transition words aren't strong enough to fix underlying logic that's not sound.
 	+ Professional writer **only** use AND/OR (for tacking on additional information) and BUT/HOWEVER (for changing gear).
