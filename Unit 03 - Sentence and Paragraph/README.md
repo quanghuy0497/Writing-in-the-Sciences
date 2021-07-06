@@ -192,7 +192,7 @@
 	+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
 + [**The rule of three**](https://en.wikipedia.org/wiki/Rule_of_three_(writing)): 
 	+ Things happen in threes. 
-	+ **THREE** is the pleasing number to introduce a list/examples
+	+ THREE is the pleasing number to introduce a list/examples
 		+ Enough to make a point, but not so much to overwhelm the reader. 
 		+ You don't always have to use three, but when in doubt, three examples is the default.
 	+ ***Examples***:
