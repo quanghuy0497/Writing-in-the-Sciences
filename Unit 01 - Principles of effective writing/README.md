@@ -40,7 +40,7 @@
 + Empty words and phrases (`important`, `methodologic`, `basic tenets of....`)
 + Long words or phrases that could be shorted
 + Unnecessary jargon and acronyms
-+ Repeated words or phrases (`studies/examples`, `illustrate/demonstrate`, `challenge/difficulties`, `successful solutions`)
++ Repeated words or phrases (`studies/examples`, `illustrate/demonstrate`, `challenge/difficulties`, `successful solutions` - solution already success)
 + Adverbs `(very, really, quite, basically, generally, etc...)` are suitable for speaking  but weak for writing
 
 ### 5. Small tricks to cut the clutters
