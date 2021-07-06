@@ -4,7 +4,7 @@
 * [1. More paragraph practice](#1-More-paragraph-practice) 
 * [2. Overview of the writing process](#2-Overview-of-the-writing-process)
 * [3. The pre-writing step](#3-The-pre-writing-step)
-* [4. The writing step](#4-The-writing-step)
+* [4. The first draft writing step](#4-The-first-draft-writing-step)
 * [5. Revision](#5-Revision)
 * [6. Checklist for the final draft](#6-Checklist-for-the-final-draft)
 
@@ -109,7 +109,7 @@
 			+ Put all the **pro arguments** first
 			+ Then present all the **counter-arguments**
 			+ Finally, present all the **rebuttals**
-### 4. The writing step 
+### 4. The first draft writing step 
 + The hardest step for most people
 + Tips for writing the first draft
 	+ Don't be a perfectionist!
@@ -117,7 +117,7 @@
 	+ Focus on **logical organization** more than sentence-level details.
 	+ Minimize the pain by writing the first draft **quickly** and **efficiently**.
 + **Example 1**:
-	+ **_First-draft_**:
+	+ **_First draft_**:
 	> Errors in publication occur when the authors have typos, omissions, or such poor writing of the methods that others can't figure out what they did or reproduce their tables and figures. Sometimes there's just so much to write up that errors will occur in almost every case.  
 
 	=> boring verbs, unnecessary `there is`   
@@ -127,7 +127,7 @@
 	
 	=> More clear, concise, to the point
 + ***Example 2***:
-	+ **_First-draft_**:
+	+ **_First draft_**:
 	> The finding of these HLA alleles may have some practical implications as well. Now we all divide up into those who carry archaic DNA and those who don't. A potential implication is that people who carry archaic HLAs could be more prone to autoimmunity. Autoimmunity is associated with HLA factors. There could be downsides to archaic HLAs. Since we've evolved separately from Neanterdals for a few hundred thousand years, we may have evolved important differences in the proteins that interact with HLA. The archaic HLAs may interact more poorly with some of these proteins, potentially causing mistakes, like autoimmunity. "This is all just speculation. But we have been apart for all this time, so it would be very surprising if there weren't differences," Parham says. "It would solve a long-standing puzzle."  
 	
 	=> boring verbs, boring sentence structure, messy  
@@ -138,7 +138,7 @@
 	=> Same ideas with the original  
 	=> More succinct and clear and elegant
 + ***Example 3***:
-	+ **_First-draft_**:
+	+ **_First draft_**:
 	> It's also difficult to study the biology because the brain is so inaccessible. Cancer scientists can take out a tumor and look directly at the cells, but autism researchers cannot directly study brain cells (except on autopsy), let alone developing brain cells. Stanford is on the cutting edge of solving this problem — in fact, Dolmetsch's solution is so innovative it seems straight out of a science fiction novel.  
 	
 	=> boring verbs, wordy, start with `it is`
@@ -215,7 +215,7 @@
 	+ ***Always double-check the references***
 
 ### Notes
-+ It is okay for the first-draft to violate many rules for good writing.
++ It is okay for the first draft to violate many rules for good writing.
 	+ You can fix all of that later as long as **the ideas are clearly laid out** and you know **what you want to go** in each paragraph.
 	+ The sentence-level editing happens in the revision.
 + Use [Thesaurus](http://www.thesaurus.com/) to find a good verb.
