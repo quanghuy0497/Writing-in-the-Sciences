@@ -130,6 +130,7 @@
 		- *Each student worries about their grade.*
 		- *Each student worries about her grade.*
 		- ***All students worry about their grades.***
+***
 ### Notes:
 + Becareful with "hedge" word (`no appreciable change`, `it is suppected that`,...).
 	+ They often unnecessary and raise all sorts of questions.
