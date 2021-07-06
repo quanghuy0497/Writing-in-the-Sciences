@@ -57,20 +57,20 @@
     + ***They agreed it was true.***
 
 ### 6. Practice cutting clutter:
-+ _Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease._
+1. _Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease._
   + ***Anti-inflammatory drugs may protect against Alzheimer's Disease.***
 
-+ _Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population._
+2. _Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population._
   + ***Clinical seizures occur in 0.5% to 2.3% of newborns.***
   
-+ _Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility._
+3. _Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility._
   + ***Besides preventing cancer, P53 also plays role in aging, differentiation, and fertility.***
   
-+ _Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically._
+4. _Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically._
   + ***Brain and spinal cord damage are among the most devastating and expensive.***
   
-+ _An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities._
+5. _An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities._
   + ***IQ test measures an individual's verbal, reasoning, or motor and spatial capabilities.***
 
-+ _As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy._
+6. _As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy._
   + ***Figure 2 shows a return kinetic energy less than 3.2 Up yields two electron trajectories.***
