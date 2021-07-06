@@ -36,7 +36,7 @@
 
 + **Practice 3:**
 	+ ***Original paragraph***:
-	> "Previous studies have consistently reported increased risk of subsequent drug use associated with conduct problems and antisocial behavior in childhood (1-5), and an association of drug dependence with conduct problems was found in a general survey of young adults (9). Furthermore, long-term relationships between aggressive, unconventional, and impulsive behaviors have also been found with drug use involvement generally (10-12). However, different pathways between early childhood misbehavior and drug involvement may exist. Psychiatric symptoms and cognitive disabilities may be manifest as aggressive behaviors and drug use may be a response to impulsive tendencies that often co-occur with aggression or misbehavior. Distress and failure to adopt responsible conventional roles and behaviors may be important mediators linking childhood misbehavior to late drug dependence (13,14)." 
+	> "Previous studies have consistently reported increased risk of subsequent drug use associated with conduct problems and antisocial behavior in childhood (1-5), and an association of drug dependence with conduct problems was found in a general survey of young adults (9). Furthermore, long-term relationships between aggressive, unconventional, and impulsive behaviors have also been found with drug use involvement generally (10-12). However, different pathways between early childhood misbehavior and drug involvement may exist. Psychiatric symptoms and cognitive disabilities may be manifest as aggressive behaviors and drug use may be a response to impulsive tendencies that often co-occur with aggression or misbehavior. Distress and failure to adopt responsible conventional roles and behaviors may be important mediators linking childhood misbehavior to late drug dependence (13,14)."  
 	+ ***Original outline***:
 		+ Idea 1: Previous studies have linked early childhood conduct problems with subsequent drug use.
 		+ Idea 2: There might be other pathways to explain this link.
@@ -47,7 +47,116 @@
 	+ ***Edit paragraph 2***: Remove unrelated material (Adult)
 	> Previous studies have linked early childhood conduct problems—including aggressive, unconventional, and impulsive—with subsequent drug use (1-5). Several pathways may explain this link: aggressive children may have underlying psychiatric disorders or cognitive disabilities that increase their risk of drug use; misbehavior tends to co-occur with impulsivity, which increases the risk of drug use; and childhood misbehavior may lead to long-term problems, such as persistent distress or a failure to ever adopt conventional roles or behaviors, which may lead to drug dependence(13,14).
 
-### Notes
+### 2. Overview of the writing process
++ One of the major problems scientists have when writing is that they convoluted these 3 steps => makes writing harder, less efficient, and reduces the quality of the final product.
++ Three steps in the writing process:
+	1. **Pre-writing** (The essential one)
+		+ Collect, synthesize, and organize information 
+		+ Brainstorm take-home messages
+		+ Work out ideas away from the computer
+		+ Develop a road map/outline
+	2. **Writing the first draft** (The hardest one)
+		+ Putting your facts and ideas together in organized prose
+		+ Writing quickly and efficiently. Just write the ideas down and then go back and revise later.
+	3. **Revision** 
+		+ Read your work out loud
+		+ Ged rid of clutter
+		+ Do a verb check
+		+ Get feedback from others
++ Time should spend (roughly!): 
+	+ Pre-writing: ***70%***
+		+ The majority of your time should be spent in the pre-writing stage.
+	+ Writing the first draft: ***10%***
+		+ Writing prose takes the most focus and energy.
+		+ So it's more efficient and less painful if spend less time in that step.
+	+ Revision: ***20%***
+		+ Revision is where elegance happens in writing
+		+ We should spend more time revising than writing the first draft.
 
-+ One exemplary paragraph with wonderful punctuations:  
-	*"Supersymmetry relates each particle of the standard model to another particle called its superpartner; the symmetry is about spin — a standard-model fermion has a bosonic superpartner, and vice versa. By convention, superpartner of fermions gain a prefix 's' (such as selectron, squark and sneutrino), and those related to bosons gain the suffix 'ino'. The prime candidate for dark matter among all of these superparticles is the so-called neutralino — which is a mixture (technically, a mass eigenstate) formed by the superpartners (zino, photino, and higgsino) of standard-model bosons. Other candidates are sneutrinos, and gravitinos, which are related to the gravitaion (although, strictly speaking, gravitinos belong to extended versions of supersymmetric models, known as supergravity models, in which gravity is included)."*  
+### 3. The pre-writing step
++ **Get organized first!**
+	+ Don't try to write and gather information simultaneously!
+	+ Gather and organize information BEFORE writing the first draft.
++ Organizing system:
+	+ Create one that suits you!
+	+ Spend more time organizing and less time writing. It's just plain less painful!
++ Develop a road-map:
+	+ Arrange key facts and citations from the literature into a crude road map/outline BEFORE writing
+	+ Think in paragraphs and sections...
+	+ Example of a road map:
+	![](Images/02.png)
+		+ Just throw things into the Word document as they come along
+		+ Highlight favorite information, which could make it into the final article
+		+ Information comes with details about the day, name, details, examples...  
+		=> Make writing efficient.
++ Brainstorm while away from the computer
+	+ A lot of pre-writing can be done away from the computer while you're multitasking.
+	+ Brainstorm when the brain is free
+		+ Utilize the exercising, driving, or waiting time when the brain just wanders 
+			+ Think about how a piece is gonna be structured
+			+ Think about what the main take-home messages are
+		+ Sometimes it comes up with new ideas or new connections.
+	+ Work out take-home messages
+	+ Organize your paper
+	+ Write memorable lines  
+
++ Organization:
+	+ Like ideas should be grouped
+	+ Like paragraphs should be grouped
+	+ Don't "Bait-and-switch" (pros and cons) the reader too many times
+		+ Better way to organize discussion:
+			+ Put all the **pro arguments** first
+			+ Then present all the **counter-arguments**
+			+ Finally, present all the **rebuttals**
+### 4. The writing step 
++ The hardest step for most people
++ Tips for writing the first draft
+	+ Don't be a perfectionist!
+	+ The goal is to **get the ideas down** in complete sentences in order.
+	+ Focus on **logical organization** more than sentence-level details.
+	+ Minimize the pain by writing the first draft **quickly** and **efficiently**.
++ **Example1**:
+	+ **_First-draft_**:
+	> Errors in publication occur when the authors have typos, omissions, or such poor writing of the methods that others can't figure out what they did or reproduce their tables and figures. Sometimes there's just so much to write up that errors will occur in almost every case.  
+
+	=> boring verbs, unnecessary `there is`   
+	=> but have all the details and completed sentences.  
+	+ **_Revised version_**:  
+	> Published papers frequently have typos, omissions, and otherwise poor documentation of methods. These errors make it impossible to figure out exactly what was done or to reproduce the results.  
+	
+	=> More clear, concise, to the point
++ ***Example2***:
+	+ **_First-draft_**:
+	> The finding of these HLA alleles may have some practical implications as well. Now we all divide up into those who carry archaic DNA and those who don't. A potential implication is that people who carry archaic HLAs could be more prone to autoimmunity. Autoimmunity is associated with HLA factors. There could be downsides to archaic HLAs. Since we've evolved separately from Neanterdals for a few hundred thousand years, we may have evolved important differences in the proteins that interact with HLA. The archaic HLAs may interact more poorly with some of these proteins, potentially causing mistakes, like autoimmunity. "This is all just speculation. But we have been apart for all this time, so it would be very surprising if there weren't differences," Parham says. "It would solve a long-standing puzzle."  
+	
+	=> boring verbs, boring sentence structure, messy  
+	=> but have all the idea
+	+ **_Revised version_**:
+	> Neanderthal (or Denisovan) proteins continue to live on and function inside us; and this may also have a downside, Parham notes. Neanderthals elegance separately from us for a few hundred thousand years, so their proteins may be somewhat mismatched to our immune systems and could play a role in autoimmune disease. Autoimmunity is poorly understood by known to be related to HLA types. "This is all just speculation. But we have been apart for all this time, so it would be very surprising if there weren't differences," Parham says. "It would solve a long-standing puzzle."  
+	
+	=> Same ideas with the original  
+	=> More succinct and clear and elegant
++ ***Example3***:
+	+ **_First-draft_**:
+	> It's also difficult to study the biology because the brain is so inaccessible. Cancer scientists can take out a tumor and look directly at the cells, but autism researchers cannot directly study brain cells (except on autopsy), let alone developing brain cells. Stanford is on the cutting edge of solving this problem — in fact, Dolmetsch's solution is so innovative it seems straight out of a science fiction novel.  
+	
+	=> boring verbs, wordy, start with `it is`
+	+ **_Revised version_**
+	> It's also difficult to access the brain. Scientists can slice cancer cells out of a tumor and directly study them, but they can't just scoop cells out of the brain, let alone the developing brain. Standford is on the cutting edge of solving this problem — in fact, Dolmetsch's solution seems straight out of a science fiction novel.  
+	
+	=> nice verbs (`slice`, `scoop`)  
+	=> cut extra words to make it more succinct  
+	+ **_Final version (after outside editing!)_**:
+	> Another impediment: access to the brain. Scientists can slice cancer cells out of a tumor and study them directly, but they can't just scoop cells out of the brain. Stanford is on the forefront of solving this problem—in fact, Dolmetsch's solution seems straight out of a science fiction novel.  
+	
+	=> Colon: emphasis  
+	=> More clear and elegant
+### 5. Revision
+
+### 6. Checklist for the final draft
+
+
+### Notes
++ It is okay for the first-draft to violate many rules for good writing.
+	+ You can fix all of that later as long as **the ideas are clearly laid out** and you know **what you want to go** in each paragraph.
+	+ The sentence-level editing happens in the revision.
