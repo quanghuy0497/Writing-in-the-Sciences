@@ -83,7 +83,7 @@
 + Develop a road-map:
 	+ Arrange key facts and citations from the literature into a crude road map/outline BEFORE writing
 	+ Think in paragraphs and sections...
-	+ Example of a road map:
+	+ Example of a road map:  
 	![](Images/02.png)
 		+ Just throw things into the Word document as they come along
 		+ Highlight favorite information, which could make it into the final article
