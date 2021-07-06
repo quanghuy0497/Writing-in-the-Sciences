@@ -125,11 +125,12 @@
 		- *The vial, which contained her RNA, was lost.*
 			- ***The RNA is not essential. There is only one vial.***
 + Singular antencedents:
-	- Do not use `they` or `their` when the subject is singular. To avoid gender choice, turn to a plural.
+	- Do not use `they` or `their` when the subject is singular.
+	- To avoid gender choice, turn to a plural.
 	- ***Examples***:
 		- *Each student worries about their grade.*
 		- *Each student worries about her grade.*
-		- ***All students worry about their grades.***
+			- ***All students worry about their grades.***
 ***
 ### Notes:
 + Be careful with "hedge" words (`no appreciable change`, `it is suppected that`,...). They often unnecessary and raise all sorts of questions.
