@@ -208,7 +208,7 @@
 		+ Reference ***cites a secondary source*** rather than a primary source => lose important pieces of information, things often get completely garbled
 		+ Author misnumbered the references, or put the right reference in the wrong place 
 	+ ***Always double-check the references***
-
+***
 ### Notes
 + It is okay for the first draft to violate many rules for good writing.
 	+ You can fix all of that later as long as **the ideas are clearly laid out** and you know **what you want to go** in each paragraph.
