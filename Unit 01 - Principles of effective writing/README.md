@@ -20,7 +20,7 @@
 + **Verb moves the sentences along, whereas nouns slow them down.**
 
 ### 3. Principles of effective writing
-+ ***Example***: *Dysregulation of physiologic microRNA (miR) activity has been shown to play an important role in tumor initiation and progression, including gliomagenesis. Therefore, molecular species that can regulate miR activity on their target RNAs without affecting the expression of relevant mature miRs may play equally relevant roles in cancer.*
++ ***Exemplary example***: *Dysregulation of physiologic microRNA (miR) activity has been shown to play an important role in tumor initiation and progression, including gliomagenesis. Therefore, molecular species that can regulate miR activity on their target RNAs without affecting the expression of relevant mature miRs may play equally relevant roles in cancer.*
 	+ Nouns instead of verbs (`Dysregulation`, `initiation`, `progression`, `expression`) ***=> slow the reader down***
 	+ Vague words (`physiologic`, `molecular species`): too broad, does not bring a concrete picture of what the author is talking about. ***=> Don't add anything***
 	+ Unnecessary jargon and acronyms (`miR`, `gliomagenesis`) ***=> slow the reading down*** unless they are standard terms that everybody is familiar with.
@@ -28,7 +28,7 @@
 	+ Distance between the subject `molecular species` and the main verb `may play` ***=> difficult to follow the sentence***  
   ***=> Changes in microRNA expression play a role in cancer, including glioma. Therefore, events that disrupt microRNAs from binding to their target RNAs may also promote cancer.***
 
-+ Principle of effective writing:
++ **Principle of effective writing**:
 	+ Cut **unnecessary** words and phrases; learn to part with your words!
 	+ Use the **active voice** rather than passive voice
 	+ Use the **strong verbs**
