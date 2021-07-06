@@ -163,7 +163,7 @@
 		+ Underline the main verb in each sentence
 		+ Think carefully about the verb choices
 		+ Watch for:  
-			(1) Lackluster verbs (e.g., `are`, `is`, `was`, `be`, `then`, `am`)  
+			(1) Lackluster verbs (_"to be"_ verbs)  
 			(2) Passive verbs  
 			(3) Burried verbs  
 		+ Just chaning a few verb to make them more spunky  
