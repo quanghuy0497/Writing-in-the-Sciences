@@ -165,7 +165,7 @@
 ***	
 ### Notes:
 + **Punctuation**:
-	+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
+	+ For more guidances and examples of using punctuation, read [**here**](https://www.thepunctuationguide.com/)
 	+ One exemplary paragraph with wonderful punctuations:  
 	*"Supersymmetry relates each particle of the standard model to another particle called its superpartner; the symmetry is about spin — a standard-model fermion has a bosonic superpartner, and vice versa. By convention, superpartner of fermions gain a prefix 's' (such as selectron, squark and sneutrino), and those related to bosons gain the suffix 'ino'. The prime candidate for dark matter among all of these superparticles is the so-called neutralino — which is a mixture (technically, a mass eigenstate) formed by the superpartners (zino, photino, and higgsino) of standard-model bosons. Other candidates are sneutrinos, and gravitinos, which are related to the gravitaion (although, strictly speaking, gravitinos belong to extended versions of supersymmetric models, known as supergravity models, in which gravity is included)."*  
 + [**The rule of three**](https://en.wikipedia.org/wiki/Rule_of_three_(writing)): 
