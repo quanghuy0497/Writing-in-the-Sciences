@@ -58,7 +58,7 @@
 	2. **Writing the first draft** (The hardest one)
 		+ Putting your facts and ideas together in organized prose
 		+ Writing quickly and efficiently. Just write the ideas down and then go back and revise later.
-	3. **Revision** 
+	3. **Revision** (The important one)
 		+ Read your work out loud
 		+ Ged rid of clutter
 		+ Do a verb check
@@ -74,9 +74,10 @@
 		+ We should spend more time revising than writing the first draft.
 
 ### 3. The pre-writing step
-+ **Get organized first!**
++ Tips for the pre-writing
+	+ **Get organized first!**
 	+ Don't try to write and gather information simultaneously!
-	+ Gather and organize information BEFORE writing the first draft.
+	+ Gather and organize information ***BEFORE*** writing the first draft.
 + Organizing system:
 	+ Create one that suits you!
 	+ Spend more time organizing and less time writing. It's just plain less painful!
@@ -115,7 +116,7 @@
 	+ The goal is to **get the ideas down** in complete sentences in order.
 	+ Focus on **logical organization** more than sentence-level details.
 	+ Minimize the pain by writing the first draft **quickly** and **efficiently**.
-+ **Example1**:
++ **Example 1**:
 	+ **_First-draft_**:
 	> Errors in publication occur when the authors have typos, omissions, or such poor writing of the methods that others can't figure out what they did or reproduce their tables and figures. Sometimes there's just so much to write up that errors will occur in almost every case.  
 
@@ -125,7 +126,7 @@
 	> Published papers frequently have typos, omissions, and otherwise poor documentation of methods. These errors make it impossible to figure out exactly what was done or to reproduce the results.  
 	
 	=> More clear, concise, to the point
-+ ***Example2***:
++ ***Example 2***:
 	+ **_First-draft_**:
 	> The finding of these HLA alleles may have some practical implications as well. Now we all divide up into those who carry archaic DNA and those who don't. A potential implication is that people who carry archaic HLAs could be more prone to autoimmunity. Autoimmunity is associated with HLA factors. There could be downsides to archaic HLAs. Since we've evolved separately from Neanterdals for a few hundred thousand years, we may have evolved important differences in the proteins that interact with HLA. The archaic HLAs may interact more poorly with some of these proteins, potentially causing mistakes, like autoimmunity. "This is all just speculation. But we have been apart for all this time, so it would be very surprising if there weren't differences," Parham says. "It would solve a long-standing puzzle."  
 	
@@ -136,7 +137,7 @@
 	
 	=> Same ideas with the original  
 	=> More succinct and clear and elegant
-+ ***Example3***:
++ ***Example 3***:
 	+ **_First-draft_**:
 	> It's also difficult to study the biology because the brain is so inaccessible. Cancer scientists can take out a tumor and look directly at the cells, but autism researchers cannot directly study brain cells (except on autopsy), let alone developing brain cells. Stanford is on the cutting edge of solving this problem — in fact, Dolmetsch's solution is so innovative it seems straight out of a science fiction novel.  
 	
@@ -152,11 +153,71 @@
 	=> Colon: emphasis  
 	=> More clear and elegant
 ### 5. Revision
-
++ This is where the elegance comes in writing
++ Tips for the revision:
+	+ **Read the work out loud**
+		+ The brain processes the spoken word differently than the written word!
+		+ Help pick up where things don't sound good  
+		=> Identify the awkwardness, the repetition or the wordiness
+	+ **Do the verb check**
+		+ Underline the main verb in each sentence
+		+ Think carefully about the verb choices
+		+ Watch for:
+			(1) Lackluster verbs (e.g., `are`, `is`, `was`, `be`, `then`, `am`)
+			(2) Passive verbs
+			(3) Burried verbs
+		+ Just chaning a few verb to make them more spunky  
+		***=> making the writing more lively and accessible***
+	+ **Cut clutter**
+		+ Watch for:
+			+ Dead weight words and phrases (e.g., it should be emphasized that, my opinion)
+			+ Empty words and phrases (e.g., basic tenets of, important)
+			+ Long words or phrases that could be short (e.g., muscular and cardiorespiratory performance => fitness)
+			+ Unnecessary jargon and acronyms
+			+ Repetitive words or phrases (e.g., teaches/guides)
+			+ Adverbs (e.g., `very`, `really`, `quite`, `basically`)
+	+ **Do an organizational review**
+		+ In the margins, tag each paragraph with a phrase or sentence that ***sums up the main point***
+		+ Then move paragraphs around to improve the ***logical flow*** and bring similar ideas together.
+		+ Even combine those paragraphs to reduce repetition.  
+		***=> Helps assess the logical flow***
+	+ **Get feedback from others**
+		+ Ask someoone outside to read the manuscript
+			+ They don't have to be a people in the field
+			+ Just sombody who intelligent enough to be able to read scientific manuscript
+		+ With out any technical background, they can and should easily graps (without any problem):
+			+ The main findings
+			+ Take-home messages
+			+ Significant of your work
+		+ If they are struggling, ask them to point out particularly hard-to-read sentences and paragraphs  
+		=> These are places where you can ***focus your revision effots***  
+		=> Make the writing more clear, succinct and engaging
+	+ **Get editing help**
+		+ Find a good editor to edit writing
+		+ They should know how to do some sentence-level editing
 ### 6. Checklist for the final draft
-
++ **Check for consistency**
+	+ Make sure that the manuscript doesn't have things that are ***contradictory*** in different places/sections
+	+ Example:
+		+ Methods section: "We followed participants for a minimum of 2 years."
+		+ Results section: "The average follow-up time was 1.5 years."
++ **Check for numerical consistency**
+	+ Does the numbers in abstract ***match*** the numbers in tables/figures/text?
+	+ Does the numbers in the text ***match*** those in the tables/figures?
+	+ Does the numbers in each table/figure ***match*** those in other tables/figures?
++ **Check your references**
+	+ Make sure to don't have "references to nowhere"
+		+ Reference ***does not contain*** the promised information that the authors indicated
+	+ Refenece does not provide the indicated information/fact
+		+ Authors ***misinterpreted or exxagerated*** the findings form the original source.
+		+ Reference ***cites a secondary source*** rather than a primary source => lose important pieces of information, things often get completely garbled
+		+ Author misnumbered the references, or put the right reference in the wrong place 
+	+ ***Always double-check the references***
 
 ### Notes
 + It is okay for the first-draft to violate many rules for good writing.
 	+ You can fix all of that later as long as **the ideas are clearly laid out** and you know **what you want to go** in each paragraph.
 	+ The sentence-level editing happens in the revision.
++ Use [Thesaurus](http://www.thesaurus.com/) to find a good verb.
++ Always cite/go back to the ***primary sources***!
++ Assume that other authors have made errors in citing sources!
