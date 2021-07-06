@@ -36,8 +36,8 @@
 	+ **Don't bury** the main verb! 
 
 ### 4. Some common clutter that needs to be cut:
-+ Dead words and phrases (As it is well known, as it has been shown, it can be regarded that, it should be emphasized that...)
-+ Empty words and phrases (important, methodologic, basic tenets of....)
++ Dead words and phrases (`As it is well known`, `as it has been shown`, `it can be regarded that`, `it should be emphasized that...`)
++ Empty words and phrases (`important`, `methodologic`, `basic tenets of....`)
 + Long words or phrases that could be shorted
 + Unnecessary jargon and acronyms
 + Repeated words or phrases (`studies/examples`, `illustrate/demonstrate`, `challenge/difficulties`, `successful solutions`)
