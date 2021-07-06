@@ -6,7 +6,7 @@
 * [3. Principles of effective writing](#3-Principles-of-effective-writing)
 * [4. Some common clutters that need to be cut](#4-Some-common-clutter-that-need-to-be-cut)
 * [5. Small tricks to cut the clutters](#5-Small-tricks-to-cut-the-clutters)
-* [6. Practice cutting clutter](#6-Practice-cut-the-clutter)
+* [6. Practice cutting clutter](#6-Practice-cutting-clutter)
 
 
 ### 1. What makes a good writing:
