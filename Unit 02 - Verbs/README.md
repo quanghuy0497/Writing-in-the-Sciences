@@ -45,14 +45,29 @@
 + _Therefore, the hypothesis that the overall kinetics of a double transtibial amputee athlete and an able-bodied sprinter at the same level of performances are not different was rejected._
 	+ ***Therefore, we rejected the hypothesis that... at the same level of performance are comparable.***
 ### 4. Write with verbs: 
-+ Verbs make sentences go!
-+ Use strong verbs:
-	- Try to avoid the use of adverbs, pick the right verb that already has the adverb embedded in the verb.
-		- ***Example***: `report that approximately` => *`estimates`* => **`projects`**
-	- Use "to be" verbs purposefully and sparingly. Don't make it to be the predominant verbs
-+ Don't turn verbs into nouns: 
++ **Verbs make sentences go!**
+	+ _Loud music came form speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feed._
+		+ ***Loud music exploded form speakers embedded in the walls, and the entire arena shook as the hungry crowd leaped to its feed.***  
+		=> make the sentence so vivid, draws the reader in, brings the sentence to life
++ **Use strong verbs**
+	+ Try to avoid the use of adverbs, **pick the right verb** that already has the adverb embedded in the verb.
+		- _The WHO *reports* that *approximately* two-thirds of the world's diabetics are found in developing countries, and *estimates* that the number of diabetics in these countries will double in the next 25 years._
+			- ***The WHO *estimates* that two-thirds of the world's diabetics are found in developing countries, and *projects* that the number of diabetics in these countries will double in the next 25 years.***  
+			=> Stronger verbs. The verb ***"project"*** embraces the idea of future
+	+ Use **_"to be"_** verbs **purposefully** and **sparingly**.
+		- Highly oversused in scientific writing and they're boring
+		- Can't avoid it, but they should not be the predominant verbs 
+		- Try to substitute those "to be" verbs with something a little bit more exciting, a little bit stronger
+		- ***Examples***:
+			- _He is a student who is intelligent and confident. He is always completing assignments on time._
+				- ***The intelligent, confident student always completes assignments on time.*** 
+			- _It was difficult to get out of bed at 6:00 a.m. each morning._
+				- ***The student faced the difficulty and got out of bed at 6:00 a.m. each morning.***
+			- _Bill is going to start bringing all of his books to the group session for studying._
+				- ***Bill decided to bring all of his books to the group study session.***
++ **Don't turn verbs into nouns**
 	- Make it more ambiguous, lack of action, slow the reader down
-		- Example: *During DNA damage, recognition of H3K4me3 by ING2 results in recruitment of Sin3/HDAC and repression of cell proliferation genes.*
+		- *During DNA damage, recognition of H3K4me3 by ING2 results in recruitment of Sin3/HDAC and repression of cell proliferation genes.*
 			- ***During DNA damage, H3K4me2 recruits ING2 and Sin3/HDAC, which together repress cell proliferation genes.***
 	- Common thing in academic writing: take a nice spunky verb, turn it into a boring noun, and pair it with a weak verb
 		- ***Examples***:
@@ -60,7 +75,7 @@
 			- `has seen an expansion in` => ***`expand`***
 			- `provides a methodologic emphasis` => ***`emphasizes methodology`***
 			- `offer confirmation of` => ***`decide`***
-+ Don't bury the main verb
++ **Don't bury the main verb**
 	- Keep the subject and main verb close together at the start of the sentence.
 		- ***Examples***: *One study of XXX found that only YYY*
 	  		- ***One study found that, of XXX, only YYY.***
