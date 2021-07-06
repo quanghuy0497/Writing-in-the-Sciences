@@ -14,16 +14,26 @@
 + Elegant and stylist ***(no so important)***
 
 ### 2. Examples of what not to do:
-+ Verb moves the sentences along, whereas nouns slow them down.
-+ Vague words: cannot make the reader get a concrete picture in their head of what the author is talking about. ***=> Don't add anything***
-+ Unnecessary jargon and acronyms slow the reading down unless they are standard terms that everybody is familiar with.
-+ Passive voice: awkward, hard to read as this is not the way we talk.
-+ Distance between the subject and the main verb makes the reader difficult to follow the sentence
++ Always ask yourself:
+	+ Is this sentence easy to understand?
+	+ Is this sentence enjoyable and interesting to read?
++ **Verb moves the sentences along, whereas nouns slow them down.**
 
 ### 3. Principles of effective writing
-+ Cut unnecessary words and phrases; learn to part with your words!
-+ Use the active voice rather than passive voice
-+ Use the strong verbs, avoid turning verbs into nouns, and don't bury the main verb! 
++ ***Example***: *Dysregulation of physiologic microRNA (miR) activity has been shown to play an important role in tumor initiation and progression, including gliomagenesis. Therefore, molecular species that can regulate miR activity on their target RNAs without affecting the expression of relevant mature miRs may play equally relevant roles in cancer.*
+	+ Nouns instead of verbs (`Dysregulation`, `initiation`, `progression`, `expression`) ***=> slow the reader down***
+	+ Vague words (`physiologic`, `molecular species`): too broad, does not bring a concrete picture of what the author is talking about. ***=> Don't add anything***
+	+ Unnecessary jargon and acronyms (`miR`, `gliomagenesis`) ***=> slow the reading down*** unless they are standard terms that everybody is familiar with.
+	+ Passive voice `has been shown` ***=> awkward, hard to read*** as this is not the way we talk.
+	+ Distance between the subject `molecular species` and the main verb `may play` ***=> difficult to follow the sentence***  
+  ***=> Changes in microRNA expression play a role in cancer, including glioma. Therefore, events that disrupt microRNAs from binding to their target RNAs may also promote cancer.***
+
++ Principle of effective writing:
+	+ Cut **unnecessary** words and phrases; learn to part with your words!
+	+ Use the **active voice** rather than passive voice
+	+ Use the **strong verbs**
+	+ **Avoid turning verbs into nouns**
+	+ **Don't bury** the main verb! 
 
 ### 4. Some common clutter that needs to be cut:
 + Dead words and phrases (As it is well known, as it has been shown, it can be regarded that, it should be emphasized that...)
