@@ -45,17 +45,17 @@
 
 ### 5. Small tricks to cut the clutters
 + **Eliminate negatives.**
+  	| Netagive                 | Positive    |
+	|--------------------------|-------------|
+	| Not honest               | dishonest   |
+	| Not harmful              | safe        |
+	| Not important            | unimportant |
+	| Does not have            | lacks       |
+	| Did not remember         | forgot      |
+	| Did not pay attention to | ignored     |
+	| Did not succeed          | failed      |
   + ***Example***: *She was not often right.*
-    + ***She was usually wrong.***  
-| Netagive                 | Positive    |
-|--------------------------|-------------|
-| Not honest               | dishonest   |
-| Not harmful              | safe        |
-| Not important            | unimportant |
-| Does not have            | lacks       |
-| Did not remember         | forgot      |
-| Did not pay attention to | ignored     |
-| Did not succeed          | failed      |
+    + ***She was usually wrong.***
 + **Eliminate there are/is.**
   + ***Example***: *The data confirm that there is an association between vegetables and cancer.*
     + ***The data confirm an association between vegetables and cancer.***
