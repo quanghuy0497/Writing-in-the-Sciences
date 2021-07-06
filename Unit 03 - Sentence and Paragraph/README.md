@@ -166,7 +166,7 @@
 	- Don't abbreviate words just because they recur frequently
 	- Only use standard, well-known acronyms (like DNA)
 	- Define them separately within each section. For long papers, redefine occasionally
-	
+***	
 ### Notes:
 + **Punctuation**:
 	+ Guidances and examples of using punctuation: https://www.thepunctuationguide.com/
