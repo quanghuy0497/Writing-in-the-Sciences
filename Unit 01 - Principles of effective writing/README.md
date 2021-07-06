@@ -46,8 +46,14 @@
 ### 5. Small tricks to cut the clutters
 + **Eliminate negatives.**
   + You can **always** turn negative words into the positive ones, you just have to be clever
-  + ***Example***: *She was not often right.*
-  	+ ***She was usually wrong.***
+  + It's usually much cleare when using the possitive contruction
+  + ***Examples***:
+ 	+ *I am not crazy about the movie but for its aesthetic elements.*
+  		+ ***I only like the movie’s aesthetic elements.***
+  	+ *I will not go to the market unless I have to.*
+  		+ ***I will only go to the market if necessary.***
+  	+ *She did not want to perform the experiment incorrectly.*
+  		+ ***She wanted to perform the experiment correctly.*** 
   + Some few examples of elimiating negatives:
 
   	| Netagive                 | Positive    |
@@ -59,13 +65,27 @@
 	| Did not remember         | forgot      |
 	| Did not pay attention to | ignored     |
 	| Did not succeed          | failed      |
-+ **Eliminate there are/is.**
-  + ***Example***: *The data confirm that there is an association between vegetables and cancer.*
-  	+ ***The data confirm an association between vegetables and cancer.***
+  + There are many ways to avoid negative sentences and strengthen the writing. You can read it in [**here**](https://wordvice.com/grammar-avoid-double-negatives/).
++ **Eliminate there are/there is.**
+  + Pay attention to the superfluous uses of `there are`, `there is`, `there was`,...
+  + By get rid of these *"there are/there is/there was"*, we get a much more exciting verb, rather than the *"to be"* ones
+  + ***Examples***:
+  	+ *There are many ways in which we can arrange the pulleys.*
+  		+ ***We can arrange the pulleys in many ways.*** 
+  	+ *There was a long line of bacteria on the plate.*
+  		+ ***Bacteria lined the plate.*** 
+	+ *The data confirm that there is an association between vegetables and cancer.*
+  		+ ***The data confirm an association between vegetables and cancer.***
 
 + **Omit needless prepositions ("that", "on",...)**
-  + ***Example***: *They agreed that it was true.*
-  	+ ***They agreed it was true.***
+  + Often prepositions like `that` and `on` are completely unnecessary, they are superfluous
+  + Makes every words count, especially in the abstract
+  + You might think you need them, but you actually don't
+  + ***Examples***:
+ 	+ *The meeting happened on Monday.*
+ 		+ ***The meeting happened Monday.*** 
+	+ *They agreed that it was true.*
+  		+ ***They agreed it was true.***
 
 ### 6. Practice cutting clutter:
 + _Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease._
