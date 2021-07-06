@@ -8,7 +8,7 @@
 * [5. Revision](#5-Revision)
 * [6. Checklist for the final draft](#6-Checklist-for-the-final-draft)
 
-### More paragraph practice
+### 1. More paragraph practice
 + **Practice 1:**
 	+ ***Original paragraph***: 
 	> "In assessing the quality of an instrument we distinguish three quality domains, i.e. reliability, validity, and responsiveness. Each domain contains one or more measurement properties. The domain reliability contains three measurement properties: internal consistency, reliability, and measurement error. The domain validity also contains three measurement properties: content validity, construct validity, and criterion validity. The domain responsiveness contains only one measurement property, which is also called responsiveness. The term and definition of the domain and measurement property responsiveness are actually the same, but they are distinguished in the taxonomy for reasons of clarity. Some measurement properties contain one or more aspects, that were defined separately: Content validity includes face validity, and construct validity include structural validity, hypotheses testing, and cross-cultural validity."
