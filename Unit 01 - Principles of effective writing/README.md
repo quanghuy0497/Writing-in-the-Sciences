@@ -27,7 +27,6 @@
 	+ Passive voice `has been shown` ***=> awkward, hard to read*** as this is not the way we talk.
 	+ Distance between the subject `molecular species` and the main verb `may play` ***=> difficult to follow the sentence***  
   ***=> Changes in microRNA expression play a role in cancer, including glioma. Therefore, events that disrupt microRNAs from binding to their target RNAs may also promote cancer.***
-
 + **Principle of effective writing**:
 	+ Cut **unnecessary** words and phrases; learn to part with your words!
 	+ Use the **active voice** rather than passive voice
