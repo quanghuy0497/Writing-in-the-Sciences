@@ -46,12 +46,12 @@
 	+ ***Therefore, we rejected the hypothesis that... at the same level of performance are comparable.***
 ### 4. Write with verbs: 
 + **Verbs make sentences go!**
-	+ _Loud music came form speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feed._
+	+ ***Example***: _Loud music came form speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feed._
 		+ ***Loud music exploded form speakers embedded in the walls, and the entire arena shook as the hungry crowd leaped to its feed.***  
 		=> make the sentence so vivid, draws the reader in, brings the sentence to life
 + **Use strong verbs**
 	+ Try to avoid the use of adverbs, **pick the right verb** that already has the adverb embedded in the verb.
-		- _The WHO *reports* that *approximately* two-thirds of the world's diabetics are found in developing countries, and *estimates* that the number of diabetics in these countries will double in the next 25 years._
+		- ***Example***: _The WHO *reports* that *approximately* two-thirds of the world's diabetics are found in developing countries, and *estimates* that the number of diabetics in these countries will double in the next 25 years._
 			- ***The WHO *estimates* that two-thirds of the world's diabetics are found in developing countries, and *projects* that the number of diabetics in these countries will double in the next 25 years.***  
 			=> Stronger verbs. The verb ***"project"*** embraces the idea of future
 	+ Use **_"to be"_** verbs **purposefully** and **sparingly**.
@@ -77,7 +77,7 @@
 			- `offer confirmation of` => ***`decide`***
 + **Don't bury the main verb**
 	- Keep the subject and main verb close together at the start of the sentence.
-		- ***Examples***: *One study of XXX found that only YYY*
+		- ***Example***: *One study of XXX found that only YYY*
 	  		- ***One study found that, of XXX, only YYY.***
 ### 5. Practice examples:
 + _The fear expressed by some teachers that students would not learn statistics well if they were permitted to use canned computer programs has not been realized in our experience. A careful monitoring of achievement levels before and after the introduction of computers in the teaching of our course revealed no appreciable change in students’ performances._
