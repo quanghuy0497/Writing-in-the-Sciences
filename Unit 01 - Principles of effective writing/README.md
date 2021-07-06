@@ -44,7 +44,7 @@
 + Adverbs `(very, really, quite, basically, generally, etc...)` are suitable for speaking  but weak for writing
 
 ### 5. Small tricks to cut the clutters
-+ **Eliminate negatives.**
++ **Eliminate the negatives.**
   + You can **always** turn negative words into the positive ones, you just have to be clever
   + It's usually much cleare when using the possitive contruction
   + ***Examples***:
@@ -54,8 +54,7 @@
   		+ ***I will only go to the market if necessary.***
   	+ *She did not want to perform the experiment incorrectly.*
   		+ ***She wanted to perform the experiment correctly.*** 
-  + Some few examples of elimiating negatives:
-
+  + Some few examples of elimiating negatives:  
   	| Netagive                 | Positive    |
 	|--------------------------|-------------|
 	| Not honest               | dishonest   |
@@ -66,6 +65,7 @@
 	| Did not pay attention to | ignored     |
 	| Did not succeed          | failed      |
   + There are many ways to avoid negative sentences and strengthen the writing. You can read it in [**here**](https://wordvice.com/grammar-avoid-double-negatives/).
+
 + **Eliminate there are/there is.**
   + Pay attention to the superfluous uses of `there are`, `there is`, `there was`,...
   + By get rid of these *"there are/there is/there was"*, we get a much more exciting verb, rather than the *"to be"* ones
@@ -94,7 +94,7 @@
 + _Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population._
   + ***Clinical seizures occur in 0.5% to 2.3% of newborns.***
   
-+ _Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility._
++ _Ultimately P53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility._
   + ***Besides preventing cancer, P53 also plays role in aging, differentiation, and fertility.***
   
 + _Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically._
