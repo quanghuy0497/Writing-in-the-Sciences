@@ -112,7 +112,7 @@
 ### 5. Paragraph editing 1:
 + ***Original paragraph***:
 	> "Most scents remain constant in their quality over orders of magnitude of concentration (12). Nevertheless, at high concentrations, quality tends to be negatively correlated with intensity, as was the case, for example, for the cinnamon oil used in this study. Hence, reliability of absolute scorings was achieved by calibrating the amount of perfume ingredients with initial ratings for intensity against a reference substance of known concentration. The final concentrations were in principal chosen in a way such that individual ratings showed variance among participants within the sliding scale between 0 and 10 (meaning that people could decide whether they liked a scent or not). This procedure seemed successful for most scents; however, the concentrations for bergamot (highest average ratings) and vetiver (lowest average rating) could probably been reduced even more, as both scents did not show any discriminating power at the level of common alleles (people agreed largely on the quality of these two scents) (see Table 2). Interestingly, the pooled rare alleles showed discriminating power for..."  
->*[212 words]*
+	>*[212 words]*
 
 + ***Outline***:
 	- *Main idea*: Were the perfume concentration in the experiment appropriate.
@@ -121,14 +121,12 @@
 
 + ***Edited paragraph***:
 	> Perfume intensity and quality are negatively correlated at high concentrations: If the scent is too strong, people will rate it unfavorably. Hence, we chose the final concentration of each perfume ingredient so that it had similar intensity to a reference scent (1-butanol). The resulting concentrations appeared appropriate for most scents, as participants' preferences varied along the sliding scale between 0 and 10. However, participants largely agreed on bergamot (highest average ratings) and vetiver (lowest average ratings), so lower or higher concentrations may have been needed for these scents.  
->*[91 words]*
-
-+ Notes: *Watch the video lecture for another example.*
+	>*[91 words]*
 
 ### 6. Paragraph editing 2:
 + ***Original paragraph***:
 	> "The concept of chocolate having potential therapeutic benefits for people with diabetes mellitus, especially type 2 diabetes mellitus, presents a number of intellectual challenges, from both clinical and sociological perspectives. It seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise. However, a large volume of mechanistic and animal model studies has been undertaken demonstrating the potential benefits of cocoa and chocolate for both glucose regulation and modification of complications associated with diabetes. Cesar Fraga in the American Journal of Clinical Nutrition first proposed the potential of chocolate for people with diabetes in 2005. It was suggested that we should consume more cocoa and chocolate to reduce the burdens of hypertension and diabetes.(1) Grassi and colleagues (2) further reinforced this potential for its antihypertensive and insulin-sensitizing effect with the mechanistic data. However, the hypothesis of chocolate having a beneficial effect remains counterintuitive to the average consumer and has yet to gain support among the wider medical and healthcare community."  
->*[177 words]*
+	>*[177 words]*
 
 + ***Original outline***: 
   	- It's surprising that chocolate might be healthy. ***=> move to end***
@@ -150,9 +148,7 @@
 
 + ***Edited paragraph***:
 	> Many mechanistic and animal studies suggest health benefits for cocoa and chocolate, particularly for patients with hypertension and type 2 diabetes mellitus. These studies suggest that cocoa and chocolate can lower blood pressure, improve glucose regulation, improve insulin sensitivity, and reduce complications from diabetes. But the idea of chocolate as medicine has yet to gain widespread support among consumers or among the wider medical and healthcare community. It seems counterintuitive that a high-sugar, energy-dense food — one often seen as a treat or "dietary sin" — could promote health.  
->*[87 words]*
-
-+ Notes: *Watch the video lecture for another example.*
+	>*[87 words]*
 
 ### 7. A few more tips:
 + **Repetition**:
