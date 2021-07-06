@@ -20,8 +20,9 @@
 	> We assess each instrument based on reliability, validity, and responsiveness. These domains may be subdivided into measurement properties: Reliability includes internal consistency, reliability, and measurement error; validity includes content validity, construct validity, and criterion validity; responsiveness is both a domain and a measurement property. Some measurement properties additionally contain multiple aspects; for example, construct validity includes structural validity, hypotheses testing, and cross-cultural validity.
 
 + **Practice 2:**
-	+ ***Original paragraph***:
+	+ ***Original paragraphs***:
 	> "The church’s record-keeping system and its high level of accuracy have been previously reported (2). Briefly, the church creates and maintains a church record for each individual who is baptized into the church. These records are created at the congregation level at the time of baptism and then forwarded to the general church level where the membership record is added to the church membership database. These records contain minimal information including name, date of birth, parents’ names, dates of church ordinances, and current address. Each congregation has a lay membership clerk who is responsible for updating the membership records for the members of the congregation. Such updates would include dates of ordinances received after baptism (e.g., priesthood ordination or marriage), name of spouse when a member marries, change of current address and date of death.  
+	> 
 	> While the accuracy of the church record is dependent upon lay clerks within each congregation, each member has an opportunity to review their membership record once a year to check it for accuracy. For this reason and because the church emphasizes accurate record keeping, the information available from the church records is quite reliable, especially for members who are actively involved in the church. When a member dies and the clerk reports his/her death to the Church Membership Council, the membership record is updated and then archived in the church’s deceased membership file."
 
 	+ ***Original outline***:
