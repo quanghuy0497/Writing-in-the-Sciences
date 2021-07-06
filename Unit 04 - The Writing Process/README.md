@@ -7,6 +7,7 @@
 * [4. The first draft writing step](#4-The-first-draft-writing-step)
 * [5. Revision](#5-Revision)
 * [6. Checklist for the final draft](#6-Checklist-for-the-final-draft)
+* [Notes](#Notes)
 
 ### 1. More paragraph practice
 + **Practice 1:**
