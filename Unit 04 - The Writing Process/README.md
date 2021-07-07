@@ -25,10 +25,10 @@
 		> While the accuracy of the church record is dependent upon lay clerks within each congregation, each member has an opportunity to review their membership record once a year to check it for accuracy. For this reason and because the church emphasizes accurate record keeping, the information available from the church records is quite reliable, especially for members who are actively involved in the church. When a member dies and the clerk reports his/her death to the Church Membership Council, the membership record is updated and then archived in the church’s deceased membership file."
 	+ ***Original outline***:
 		+ Main idea: The church's record-keeping system is accurate and reliable.
-		+ Point 1: The church congregation create new member record when he/she is baptized
+		+ Point 1: The church congregation create new member record when he/she is baptized.
 		+ Point 2: There is a lay clerk who updates these records.
-		+ Point 3: Member has an opportunity to review their membership once a year
-		+ Point 4: When a member dies, the membership record is archived
+		+ Point 3: Member has an opportunity to review their membership once a year.
+		+ Point 4: When a member dies, the membership record is archived.
 	+ ***Edit paragraph***:
 		> The church's record-keeping system is accurate and reliable (2). When a new member is baptized, the church congregation creates a member record that includes: name, date of birth, parents' names, current address, and dates of church ordinances. A lay clerk enters these records into a general church database and updates them to reflect dates of new ordinances (e.g. marriage), spouse name, changes of address, and date of death. Members may review their membership records once a year, which helps ensure accuracy. When a member dies, their membership record is archived.
 + **Practice 3:**
