@@ -10,8 +10,8 @@
 * [Notes](#Notes)
 
 ### 1. Active voice:
-+ Active voice is the natural way to talk and write.
-+ Passive voice is a way to avoid claiming responsibility for action.
++ Active voice is the natural way to talk and write
++ Passive voice is a way to avoid claiming responsibility for action
 + To turn the passive voice back to active: 
 	- Ask yourself => ***"WHO does what to whom?"***
 	- Be direct, into the point
@@ -106,26 +106,26 @@
 ### 6. A few grammar tips:
 + The word `data` is plural: `Data are`, not `Data is`
 + Affect vs. effect:
-	- `Affect` is the verb `to influence`. 
+	- `Affect` is the verb `to influence`
 		- *The class affected her.*
-	- `Effect` is the noun form of this influence.
+	- `Effect` is the noun form of this influence
 		- *The class had an effect on her.*
 + `Compared to` vs. `Compared with`
-	- `Compare to` = to point out similarities between different things.
-	- `Compare with` = to point out differences between similar things.
+	- `Compare to` = to point out similarities between different things
+	- `Compare with` = to point out differences between similar things
 + `That` vs. `which`
-	- That is the restrictive (defining) pronoun. 
-	- Which is the nonrestricted (non-defining) pronoun.
-	- Key question: ***Is your clause essential or not?***
-		- If essential, cannot be eliminated => That
-		- If not essential, can be ellimated => Which
+	- That is the restrictive (defining) pronoun
+	- Which is the nonrestricted (non-defining) pronoun
+	- Key question: Is your clause ***essential or not?***
+		- If **essential**, cannot be eliminated => That
+		- If **not essential**, can be ellimated => Which
 	- ***Examples***:
 		- *The vial that contained her RNA was lost.*
 			- ***The RNA is essential => Identifies which vial of many.***
 		- *The vial, which contained her RNA, was lost.*
 			- ***The RNA is not essential. There is only one vial.***
 + Singular antencedents:
-	- Do not use `they` or `their` when the subject is singular.
+	- Do not use `they` or `their` when the subject is singular
 	- To avoid gender choice, turn to a plural.
 	- ***Examples***:
 		- *Each student worries about their grade.*
