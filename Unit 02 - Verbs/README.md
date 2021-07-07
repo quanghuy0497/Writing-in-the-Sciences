@@ -126,7 +126,7 @@
 			- ***The RNA is not essential. There is only one vial.***
 + Singular antencedents:
 	- Do not use `they` or `their` when the subject is singular
-	- To avoid gender choice, turn to a plural.
+	- To avoid gender choice, turn to a plural
 	- ***Examples***:
 		- *Each student worries about their grade.*
 		- *Each student worries about her grade.*
