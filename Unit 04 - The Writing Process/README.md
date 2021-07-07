@@ -14,7 +14,7 @@
 	+ ***Original paragraph***: 
 		> "In assessing the quality of an instrument we distinguish three quality domains, i.e. reliability, validity, and responsiveness. Each domain contains one or more measurement properties. The domain reliability contains three measurement properties: internal consistency, reliability, and measurement error. The domain validity also contains three measurement properties: content validity, construct validity, and criterion validity. The domain responsiveness contains only one measurement property, which is also called responsiveness. The term and definition of the domain and measurement property responsiveness are actually the same, but they are distinguished in the taxonomy for reasons of clarity. Some measurement properties contain one or more aspects, that were defined separately: Content validity includes face validity, and construct validity include structural validity, hypotheses testing, and cross-cultural validity."
 	+ ***Original outline***:
-		+ The information actually is better presented as a table or tree diagram.
+		+ The information actually is better presented as a table or tree diagram:
 		![](Images/01.png)
 	+ ***Edit paragraph***:
 		> We assess each instrument based on reliability, validity, and responsiveness. These domains may be subdivided into measurement properties: Reliability includes internal consistency, reliability, and measurement error; validity includes content validity, construct validity, and criterion validity; responsiveness is both a domain and a measurement property. Some measurement properties additionally contain multiple aspects; for example, construct validity includes structural validity, hypotheses testing, and cross-cultural validity.
@@ -61,19 +61,19 @@
 		+ Get feedback from others
 + Time should spend (roughly!): 
 	+ Pre-writing: ***70%***
-		+ The majority of your time should be spent in the pre-writing stage.
+		+ The majority of your time should be spent in the pre-writing stage
 	+ Writing the first draft: ***10%***
-		+ Writing prose takes the most focus and energy.
-		+ So it's more efficient and less painful if spend less time in that step.
+		+ Writing prose takes the most focus and energy
+		+ So it's more efficient and less painful if spend less time in that step
 	+ Revision: ***20%***
 		+ Revision is where elegance happens in writing
-		+ We should spend more time revising than writing the first draft.
+		+ We should spend more time revising than writing the first draft
 
 ### 3. The pre-writing step
 + Tips for the pre-writing
 	+ **Get organized first!**
 	+ Don't try to write and gather information simultaneously!
-	+ Gather and organize information ***BEFORE*** writing the first draft.
+	+ Gather and organize information ***BEFORE*** writing the first draft
 + Organizing system:
 	+ Create one that suits you!
 	+ Spend more time organizing and less time writing. It's just plain less painful!
@@ -85,14 +85,14 @@
 		+ Just throw things into the Word document as they come along
 		+ Highlight favorite information, which could make it into the final article
 		+ Information comes with details about the day, name, details, examples...  
-		=> Make writing efficient.
+		=> Make writing efficient
 + Brainstorm while away from the computer
-	+ A lot of pre-writing can be done away from the computer while you're multitasking.
+	+ A lot of pre-writing can be done away from the computer while you're multitasking
 	+ Brainstorm when the brain is free
 		+ Utilize the exercising, driving, or waiting time when the brain just wanders 
 			+ Think about how a piece is gonna be structured
 			+ Think about what the main take-home messages are
-		+ Sometimes it comes up with new ideas or new connections.
+		+ Sometimes it comes up with new ideas or new connections
 	+ Work out take-home messages
 	+ Organize your paper
 	+ Write memorable lines  
@@ -173,8 +173,8 @@
 			+ Adverbs (e.g., `very`, `really`, `quite`, `basically`)
 	+ **Do an organizational review**
 		+ In the margins, tag each paragraph with a phrase or sentence that ***sums up the main point***
-		+ Then move paragraphs around to improve the ***logical flow*** and bring similar ideas together.
-		+ Even combine those paragraphs to reduce repetition.  
+		+ Then move paragraphs around to improve the ***logical flow*** and bring similar ideas together
+		+ Even combine those paragraphs to reduce repetition  
 		***=> Helps assess the logical flow***
 	+ **Get feedback from others**
 		+ Ask someoone outside to read the manuscript
@@ -204,15 +204,16 @@
 	+ Make sure to don't have "references to nowhere"
 		+ Reference ***does not contain*** the promised information that the authors indicated
 	+ Refenece does not provide the indicated information/fact
-		+ Authors ***misinterpreted or exxagerated*** the findings form the original source.
-		+ Reference ***cites a secondary source*** rather than a primary source => lose important pieces of information, things often get completely garbled
+		+ Authors ***misinterpreted or exxagerated*** the findings form the original source
+		+ Reference ***cites a secondary source*** rather than a primary source  
+			=> lose important pieces of information, things often get completely garbled
 		+ Author misnumbered the references, or put the right reference in the wrong place 
 	+ ***Always double-check the references***
 ***
 ### Notes
-+ It is okay for the first draft to violate many rules for good writing.
-	+ You can fix all of that later as long as **the ideas are clearly laid out** and you know **what you want to go** in each paragraph.
-	+ The sentence-level editing happens in the revision.
-+ Use [Thesaurus](http://www.thesaurus.com/) to find a good verb.
++ It is okay for the first draft to violate many rules for good writing
+	+ You can fix all of that later as long as **the ideas are clearly laid out** and you know **what you want to go** in each paragraph
+	+ The sentence-level editing happens in **the revision** step
++ Use [Thesaurus](http://www.thesaurus.com/) to find a good verb
 + Always cite/go back to the ***primary sources***!
 + Assume that other authors have made errors in citing sources!
