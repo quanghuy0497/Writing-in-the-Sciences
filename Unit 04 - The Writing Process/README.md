@@ -201,7 +201,7 @@
 	+ Does the numbers in the text ***match*** those in the tables/figures?
 	+ Does the numbers in each table/figure ***match*** those in other tables/figures?
 + **Check your references**
-	+ Make sure to don't have "references to nowhere"
+	+ Make sure to don't have any ***"reference to nowhere"***
 		+ Reference ***does not contain*** the promised information that the authors indicated
 	+ Refenece does not provide the indicated information/fact
 		+ Authors ***misinterpreted or exxagerated*** the findings form the original source
