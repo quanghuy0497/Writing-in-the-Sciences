@@ -214,6 +214,6 @@
 + It is okay for the first draft to violate many rules for good writing
 	+ You can fix all of that later as long as **the ideas are clearly laid out** and you know **what you want to go** in each paragraph
 	+ The sentence-level editing happens in **the revision** step
-+ Use [Thesaurus](http://www.thesaurus.com/) to find a good verb
++ Use [**Thesaurus**](http://www.thesaurus.com/) to find a good verb
 + Always cite/go back to the ***primary sources***!
 + Assume that other authors have made errors in citing sources!
