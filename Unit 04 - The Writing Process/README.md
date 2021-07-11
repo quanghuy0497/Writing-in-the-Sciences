@@ -224,4 +224,4 @@
 
 <br><br>
 <br><br>
-This notes were made by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021
+_This notes were made by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
