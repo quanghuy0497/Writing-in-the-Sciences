@@ -217,3 +217,11 @@
 + Use [**Thesaurus**](http://www.thesaurus.com/) to find a good verb
 + Always cite/go back to the ***primary sources***!
 + Assume that other authors have made errors in citing sources!
+
+
+
+
+
+<br><br>
+<br><br>
+These Notes were created by [quanghuy0497](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford) @2021
