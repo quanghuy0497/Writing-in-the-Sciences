@@ -104,3 +104,10 @@
 
 + _As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy._
   + ***Figure 2 shows a return kinetic energy less than 3.2 Up yields two electron trajectories.***
+
+
+
+
+<br><br>
+<br><br>
+These Notes were created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021
