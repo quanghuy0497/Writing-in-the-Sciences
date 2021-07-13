@@ -155,9 +155,12 @@
 		+ Explaining by picture rather than by complicated text
 		  ![](Images/15.png)
 		+ Give a hypothetical model
-		  ![](Images/16.png)
-		+ Visualize something people can't see (protein,...)
+		  ![](Images/16.png)  
+		  => This image presents data even better than using a boring table
+		+ Illustrate cause and effect or cycle relationships
 		  ![](Images/17.png)
+		+ Visualize something people can't see (protein,...)
+		  ![](Images/18.png)
 
 
 
