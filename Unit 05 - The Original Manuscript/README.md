@@ -125,15 +125,15 @@
 		![](Images/08.png)  
 		+ All the informations are explained in the legend
 	+ **_Graph_**
-		+ Line graphs
+		+ **Line graphs**
 			+ Trends over time, age, or dose
 			+ Can display group means or individual
 		  	  ![](Images/09.png)
-		+ Bar graphs
+		+ **Bar graphs**
 			+ Compare groups at one time point
 			+ Tell a quick visual story
 			  ![](Images/10.png)
-		+ Scatter plots
+		+ **Scatter plots**
 			+ Show relationships between two variables 
 			+ Allows reader to see individual dat points 
 			+ Show many information!
