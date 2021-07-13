@@ -27,18 +27,18 @@ Taught by Dr. `Kristin Sainani`
 + Describe the steps in the writing process.
 + Recognize the importance of spending sufficient time pre-writing.
 + Recognize that good writing requires extensive revision.
-### [Unit 5: Sections of a Scientific Manuscript]()
+### [Unit 5: The original Manuscript](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2005%20-%20The%20Original%20Manuscript)
 + Understand how to write the sections of an original scientific manuscript.
 + Critique poorly formatted tables and figures.
 + Practice writing strong Results and Introduction sections.
 + Summarize the elements of a Discussion
-### [Unit 6: Scientific Publishing]()
+### [Unit 6: Scientific Publishing](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2006%20-%20Scientific%20P)
 + Identify and avoid plagiarism
 + Understand the peer review process
 + Understand criteria for authorship
 + Recognize common pitfalls for new authors.
 + Recognize predatory journals
-### [Unit 7: Beyond Research Manuscripts]()
+### [Unit 7: Other Types of Writing in Science]()
 + Understand how to write review articles.
 + Become familiar with the grant-writing process.
 + Understand how to write a strong letter of recommendation.
