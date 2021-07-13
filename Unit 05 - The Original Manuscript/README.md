@@ -3,6 +3,8 @@
 ### Table of contents
 * [Recommened order for writing an original manuscript](Recommened-order-for-writing-an-original-manuscript)
 * [1. Tables and Figures](#1-Tables-and-Figures) 
+	* [1.1. Tables](#1-1-Tables)
+	* [1.2. Figures](#1-2-Figures)
 * [2. Results](#2-Results)
 * [3. Practice writing Results](#3-Practice-writing-Results)
 * [4. Methods](#4-Methods)
@@ -57,101 +59,104 @@
 		+ Give percise values
 		+ Display
 
-+ **Table**
-	+ Title:
-		+ Identify the specific topic or point of the table
-		+ Repeat the same key terms in the table title, the column headings and the main text of the paper
-		+ Keep it brief, concise!
-	+ Footnotes:
-		+ Use superscript symbols to identify footnotes (depend on the journal guidelines)
-		+ Use footnotes to explain statistically significant differences
-		+ Use footnoes to explain experimental details or abbreviations (aconym have to be define within the table)
-	+ Format:
-		+ Model the tables from already published tables!
-		+ Follow journal guidelines
-		+ Most journals used three horizontal lines (above the collumn headings, below the column heading, below the data)
-	+ **_Example Table_**:  
-		![](Images/01.png)  
-	  	+ Three horizontal lines
-		+ Simple clear point
-	  	+ Can quickly glean what different
-	+ **_Example to avoid_**:  
-	    ![](Images/02.png)  
-	  	+ Grid lines => Red flag to the reviewers
-	  	![](Images/03.png)  
-		+ Collums and data is misaligned. => make it line up
-	   	+ Some word begin with capital and some with lower case => unprofessional
-	    ![](Images/04.png)  
- 	    + Use a reasonable number of significant figures (i.e. decimal places)
-	    ![](Images/05.png)  
-	    + Give Units! => Essential
-	    ![](Images/06.png)  
-	    + Too many columns => detracts from the original nice, simple message => hard to read
-	    + The overall: the extra information => need to cut
-	    + The statistical significant (P-value) => can be indicated using subscripts and footnotes.
+####1.1. Table
++ Title:
+	+ Identify the specific topic or point of the table
+	+ Repeat the same key terms in the table title, the column headings and the main text of the paper
+	+ Keep it brief, concise!
++ Footnotes:
+	+ Use superscript symbols to identify footnotes (depend on the journal guidelines)
+	+ Use footnotes to explain statistically significant differences
+	+ Use footnoes to explain experimental details or abbreviations (aconym have to be define within the table)
++ Format:
+	+ Model the tables from already published tables!
+	+ Follow journal guidelines
+	+ Most journals used three horizontal lines (above the collumn headings, below the column heading, below the data)
++ **_Example Table_**:  
+	![](Images/01.png)  
+  	+ Three horizontal lines
+	+ Simple clear point
+  	+ Can quickly glean what different
++ **_Example to avoid_**:
+    + **Example 1**:
+    	![](Images/02.png)  
+    	+ Grid lines => Red flag to the reviewers
+    + **Example 2**:
+    	![](Images/03.png)  
+    	+ Collums and data is misaligned. => make it line up
+    	+ Some word begin with capital and some with lower case => unprofessional
+    + **Example 3**:
+    	![](Images/04.png)  
+     	+ Use a reasonable number of significant figures (i.e. decimal places)
+    + **Example 4**:
+    	![](Images/05.png)  
+    	+ Give Units! => Essential
+    + **Example 5**:
+    	![](Images/06.png)  
+    	+ Too many columns => detracts from the original nice, simple message => hard to read
+    	+ The overall: the extra information => need to cut
+    	+ The statistical significant (P-value) => can be indicated using subscripts and footnotes.
 
-+ **Figure**
-	+ Types:
-		+ Primary evidence
-			+ Photographs, slides, ect.
-			+ Indicates data quality
-			+ "Seeing is believing" => confidence to the results
-		+ Graphs
-			+ Line graphs, bar graphs, scatter plots, ect.
-		+ Drawings and diagrams
-			+ Illustrate an experimental set-up or work-flow
-			+ Indicate flow of participants
-			+ Illustrate cause and effect or cycles
-			+ Give a hypothetical model
-			+ Represent as cartoons
-	+ Legends
-		+ Allows the figure to stand alone
-		+ May contain:
-			+ Brief title
-			+ Essential experimental details
-			+ Definitions of symbols or line/bar patterns
-			+ Explanation of panels (A,B,C,D,...)
-			+ Statistical information (tests used, p-values)
-			![](Images/07.png)  
-	+ **Examples about Figures**	
-		+ Primary evidence
-			![](Images/08.png)  
-			+ All the informations are explained in the legend
-		+ Graph
-			+ Line graphs
-				+ Trends over time, age, or dose
-				+ Can display group means or individual
-			  	  ![](Images/09.png)
-			+ Bar graphs
-				+ Compare groups at one time point
-				+ Tell a quick visual story
-				  ![](Images/10.png)
-			+ Scatter plots
-				+ Show relationships between two variables 
-				+ Allows reader to see individual dat points 
-				+ Show many information!
-				  ![](Images/11.png)
-				+ Be careful, superimpose line can fool the eye
-					+ Clear version
-					  ![](Images/12.png)
-					+ Fool version
-					  ![](Images/13.png)
-		+ Some tips for Graphs:
+####1.2. Figure
++ Types:
+	+ Primary evidence
+		+ Photographs, slides, ect.
+		+ Indicates data quality
+		+ "Seeing is believing" => confidence to the results
+	+ Graphs
+		+ Line graphs, bar graphs, scatter plots, ect.
+	+ Drawings and diagrams
+		+ Illustrate an experimental set-up or work-flow
+		+ Indicate flow of participants
+		+ Illustrate cause and effect or cycles
+		+ Give a hypothetical model
+		+ Represent as cartoons
++ Legends
+	+ Allows the figure to stand alone
+	+ May contain:
+		+ Brief title
+		+ Essential experimental details
+		+ Definitions of symbols or line/bar patterns
+		+ Explanation of panels (A,B,C,D,...)
+		+ Statistical information (tests used, p-values)
+		![](Images/07.png)  
++ **Details about Figures**	
+	+ **Primary evidence**
+		![](Images/08.png)  
+		+ All the informations are explained in the legend
+	+ **Graph**
+		+ Line graphs
+			+ Trends over time, age, or dose
+			+ Can display group means or individual
+		  	  ![](Images/09.png)
+		+ Bar graphs
+			+ Compare groups at one time point
 			+ Tell a quick visual story
-			+ Keep it simple!
-			+ Make it easy to distinguish groups (square, triangle, diamond,...)
-			+ If it's too complex, put it to table
-			  ![](Images/14.png)  
-			  ![](Images/15.png)
-			  => Confusing
-			  => Better presented in Table
-		+ Diagrams and Drawings
-			+ Explaining by picture rather than by complicated text
-			  ![](Images/16.png)
-			+ Visualize some thing people can't see (protein,...)
-			  ![](Images/17.png)
-			  
-+ Besides tables and figures, there are also videos
+			  ![](Images/10.png)
+		+ Scatter plots
+			+ Show relationships between two variables 
+			+ Allows reader to see individual dat points 
+			+ Show many information!
+			  ![](Images/11.png)
+			+ Be careful, superimpose line can fool the eye
+				+ Clear version
+				  ![](Images/12.png)
+				+ Fool version
+				  ![](Images/13.png)
+	+ Some tips for Graphs:
+		+ Tell a quick visual story
+		+ Keep it simple!
+		+ Make it easy to distinguish groups (square, triangle, diamond,...)
+		+ If it's too complex, put it to table
+		  ![](Images/14.png)  
+		  ![](Images/15.png)  
+		  => Confusing
+		  => Better presented in Table
+	+ **Diagrams and Drawings**
+		+ Explaining by picture rather than by complicated text
+		  ![](Images/16.png)
+		+ Visualize some thing people can't see (protein,...)
+		  ![](Images/17.png)
 
 
 
