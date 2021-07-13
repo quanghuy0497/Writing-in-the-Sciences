@@ -55,7 +55,7 @@
 		+ Highlight a particular result (emphasize)
 	+ Talbles:
 		+ Give percise values
-		+ Display
+		+ Display many values/variables
 
 #### 1.1. Table
 + **Title**
