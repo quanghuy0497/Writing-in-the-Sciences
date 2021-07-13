@@ -3,8 +3,8 @@
 ### Table of contents
 * [Recommened order for writing an original manuscript](#Recommended-order-for-writing-an-original-manuscript)
 * [1. Tables and Figures](#1-Tables-and-Figures) 
-	* [1.1. Tables](#11-Tables)
-	* [1.2. Figures](#12-Figures)
+	* [1.1. Table](#11-Table)
+	* [1.2. Figure](#12-Figure)
 * [2. Results](#2-Results)
 * [3. Practice writing Results](#3-Practice-writing-Results)
 * [4. Methods](#4-Methods)
