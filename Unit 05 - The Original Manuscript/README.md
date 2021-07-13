@@ -15,21 +15,21 @@
 * [Notes](#8-Notes)
 
 ### Recommended order for writing an original manuscript
-**1. Tables and Figures**
+1. **Tables and Figures**
 	+ Come up with a beautiful, polished set of table/figures
 	+ Tables and figures tell a story of the manuscript
 	+ Each of them should have a clear point **=> joint together to tell a story**
 	+ Make them look professional
-**2. Results**
+2. **Results**
 	+ Gives a high-level summary of each table and figure
-**3. Method**
+3. **Method**
 	+ Could write it anytime
-**4. Introduction**
+4. **Introduction**
 	+ Write the Table, Figures and Results before to know how to frame the Introduction
-**5. Discussion**
+5. **Discussion**
 	+ Hardest to write
 	+ Involves the most writing, the most complex 
-**6. Abstract**
+6. **Abstract**
 	+ Always write the Abstract last 
 	+ Abstract is easy to write after finish other sections
 
