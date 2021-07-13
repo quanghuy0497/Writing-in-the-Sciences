@@ -70,12 +70,12 @@
 	+ Model the tables from already published tables!
 	+ Follow journal guidelines
 	+ Most journals used three horizontal lines (above the collumn headings, below the column heading, below the data)
-+ **_Example Professional Table_**:  
++ **_Example PROFESSIONAL Table_**:  
 	![](Images/01.png)  
   	+ Three horizontal lines
 	+ Simple clear point
   	+ Can quickly glean what different
-+ **_Example Unprofessional Tables**:
++ **_Example UNPROFESSIONAL Tables_**:
     + **Example 1**:
     	![](Images/02.png)  
     	+ Grid lines => Red flag to the reviewers
