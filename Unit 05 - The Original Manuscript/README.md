@@ -1,7 +1,7 @@
 ## Unit 5 - The Original Manuscript
 
 ### Table of contents
-* [Recommened order for writing an original manuscript](Recommened-order-for-writing-an-original-manuscript)
+* [Recommened order for writing an original manuscript](#Recommended-order-for-writing-an-original-manuscript)
 * [1. Tables and Figures](#1-Tables-and-Figures) 
 	* [1.1. Tables](#11-Tables)
 	* [1.2. Figures](#12-Figures)
