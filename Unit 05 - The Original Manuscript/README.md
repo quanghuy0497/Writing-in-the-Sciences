@@ -144,7 +144,9 @@
 	+ **_Some tips for Graphs_**
 		+ Tell a quick visual story
 		+ Keep it simple!
-		+ Make it easy to distinguish groups (square, triangle, diamond,...)
+		+ Make it easy to distinguish groups 
+			+ E.g.square, triangle, diamond,... symbols
+			+ Use different colors
 		+ If it's too complex, put it to table
 		  ![](Images/14.png)  
 		  => Confusing
