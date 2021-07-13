@@ -154,8 +154,11 @@
 	+ **_Diagrams and Drawings_**
 		+ Explaining by picture rather than by complicated text
 		  ![](Images/15.png)
-		+ Visualize something in cartoon
+		+ Give a hypothetical model
 		  ![](Images/16.png)
+		+ Visualize something people can't see (protein,...)
+		  ![](Images/17.png)
+
 
 
 
