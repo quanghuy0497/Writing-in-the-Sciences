@@ -59,7 +59,7 @@
 		+ Give percise values
 		+ Display
 
-####1.1. Table
+#### 1.1. Table
 + Title:
 	+ Identify the specific topic or point of the table
 	+ Repeat the same key terms in the table title, the column headings and the main text of the paper
@@ -97,7 +97,7 @@
     	+ The overall: the extra information => need to cut
     	+ The statistical significant (P-value) => can be indicated using subscripts and footnotes.
 
-####1.2. Figure
+#### 1.2. Figure
 + Types:
 	+ Primary evidence
 		+ Photographs, slides, ect.
