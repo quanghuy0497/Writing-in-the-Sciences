@@ -43,11 +43,9 @@
 + Each figure and table should make a **_clear point_**
 	+ We should know what point is.
 	+ We should stick to that point as much as possible.
-
 + **Tips:**
 	+ Use the fewest figures and tables needed to tell a story. **_Be concise and to the point_**
 	+ Do not present the same data in both a figure and a table.
-
 + **Tables vs. Figures:**
 	+ Figures:
 		+ Visual impact
