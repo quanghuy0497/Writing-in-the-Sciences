@@ -78,7 +78,7 @@
 + **_Example UNPROFESSIONAL Tables_**:
     + **Example 1**:
     	![](Images/02.png)  
-    	+ Grid lines => Red flag to the reviewers
+    	+ Grid lines => Red flag from the reviewers
     + **Example 2**:
     	![](Images/03.png)  
     	+ Collums and data is misaligned. => make it line up
