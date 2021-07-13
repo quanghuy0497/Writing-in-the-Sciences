@@ -132,9 +132,9 @@
 			+ Tell a quick visual story
 			  ![](Images/10.png)
 		+ **Scatter plots**
-			+ Show relationships between two variables 
-			+ Allows reader to see individual dat points 
-			+ Show many information!
+			+ Show relationships between two (or more) variables 
+			+ Allows reader to see individual data points 
+			+ Gives more information!
 			  ![](Images/11.png)
 			+ Be careful, superimpose line can fool the eye
 				+ Clear version
