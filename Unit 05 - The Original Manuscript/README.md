@@ -230,7 +230,7 @@
 	![](Images/21.png)  
 	=> Repetition, wordiness
 	
-+ **_Edited:_** _Seventy percent runners ran during pregnancy (n = 77) and almost one third ran during the third trimester (Table 2). On average, those who ran greatly curtained their training — running just 20.3+/-9.3 miles per week and cutting their intensity to about half of their non-pregnant runing effort. Three reported sustaining a running injury while pregnant. In the post-partum period, nearly one quarter resumed running by two weeks after giving birth; most resumed running by two month._  
++ **_Edited:_** _Seventy percent runners ran during pregnancy (n = 77) and almost one third ran during the third trimester (Table 2). On average, those who ran greatly curtailed their training — running just 20.3+/-9.3 miles per week and cutting their intensity to about half of their non-pregnant runing effort. Three reported sustaining a running injury while pregnant. In the post-partum period, nearly one quarter resumed running by two weeks after giving birth; most resumed running by two month._  
 	=> Concise, focus on relation and significant trends
 
 
