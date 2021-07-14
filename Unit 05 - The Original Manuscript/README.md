@@ -162,8 +162,68 @@
 		+ Visualize something people can't see (protein,...)
 		  ![](Images/18.png)
 
-
-
+### 2. Results
++ Results != Raw Data
++ The Results section should
+	+ **_Summarize_** what data show
+		+ Point out simple relationships
+		+ Describe big-picture trends
+		+ Cite figures and tables that present supporting data
+	+ Avoid simply repeating the numbers that already available in tables and figures
++ Always ask:
+	+ What is the take-home message of the table?
+	+ What do you want your readers to pay attention to?
++ **Examples of exemplar Results**:
+	- _"Over the course of treatment, topiramate was significantly more effective than placebo at improving drinking outcomes on drinks per day, drinks per drinking day, percentage of heavy drinking days, percentage of days abstinent, and log plasma - glutamyl transferase ratio (Table 3)."_
+	- _"The total suicide rate for Australian men and women did not change between 1991 and 2000 because marked decreases in older men and women (Table 1) were offset by increases in younger adults, especially younger men."_
++ **Analysis example**
+	+ Example of **what not to do** 
+		![](Images/19.png)  
+		=> Passive voice in the first sentence  
+		=> The author is literally just reading the table for the reader, line by line  
+	+ **Edited**:
+		![](Images/20.png)  
+		+ Don't waste a sentence point out the obvious ("Table 1 shows...")
+		  => Launched right into the take-home messages from "Table 1" and cite the table in the parentheses  
+		+ Point out how two groups differ at high level, without poiting out any numbers
+		  => The readers can refer to the table for specific numbers  
+		+ Include one or two key numbers to highlight for the reader
++ **Tips for writing Results**
+	+ Break into subsections, with headings (if needed)
+	+ Complement the information that is already in tables/figures
+		+ Give precise values that are not available in the figure
+		+ Report the percent change or percent difference if absolute values are given in the table
+		+ **_Example_**: _"The good witches do exercise 60 min per day while the bad witches do exercise 30 min per day"._
+			- **The good witches do exercise twice as long as bad witches.**
+	+ Repeat/highlight only the most important numbers
+	+ Don't forget to talk about negative and control results
+	+ Reserve the term **_"significant"_** for statistically significant
+	+ Reserve information about what you did for the Methods section
+		+ In particular, do not discuss the rationale for statistical analyses within the Results section **=> confuse reader**
+	+ Reserve comments on the meaning of your Results for the Discussion section
++ **Suitable Tense for the Results**
+	+ Use **past tense** for completed actions:
+		+ We **_found_** that...
+		+ The average reaction time **_was_**...
+		+ Women **_were_** more likely to...
+		+ Men **_smoked_** more cigarettes than...
+	+ Use the **present tense** for assertions that continue to be true
+		+ What the tables show
+			+ Figure 1 **_shows_**...
+		+ What you believe
+			+ We **_believe_** that this _shows_...
+		+ What the data suggest
+			+ The finding **_confirms_**...
+		+ **_Example_**:
+			_Information **was** available for 7799 current cigarette smokers. Of these, 1216 (16%) **were** classified as hardcore smokers. Table 1 **gives** characteristics of all the smokers. The most striking difference **was** that hardcore **were** about 10 years older on average and **tended** to be more dependent on tobacco. Significantly more hardcore smokers **had** manual occupations, **lived** in rented accommodation, and **had completed** their full-time education by the age of 16 years. There **was** no difference by sex._
+	+ Use the **active voice**!
+		+ More lively!
+		+ Since you can talk about the subjects of your experiments, "we" can be used sparingly while maintaining the active voice!
+		+ **_Example_**:
+			_To test whether it was appropriate to exclude a measure of cigarette dependence from our criteria for defining hardcore smoking, **we compared** attitudes and beliefs by dependence in hardcore and other smokers (table 4). For most items, **beliefs were** similar in low and high dependence hardcore smokers but strikingly different from those of other smokers. For example, almost 60% of both low and high-dependency non-hardcore **smokers agreed** that improved health would be a major benefit from quitting whereas among hardcore smokers only 27% of low dependency and 32% of high dependency smokers agreed. Similar **differentiation** in beliefs by hardcore smoking status, but not dependence level, **emerged** for other items, especially those related to health._  
+				=> Active voice, past tense  
+				=> Nice, lively, easy to read  
+				=> Only use subject "we" once.
 
 
 ***
@@ -173,7 +233,6 @@
 		+ **_Example:_**
 			+ My goal is to write 400 words today.
 			+ My goal is to write the first two paragraphs of the discussion section today.
-
 
 
 
