@@ -322,7 +322,7 @@
 				+ Your burning question/hypothesis/aim
 				+ Your experimental approach
 				+ Why your experimental approach fills in the gaps
-+ **Tips for Introduction:**
++ **Tips for writing Introduction:**
 	+ Keep paragraphs short
 	+ Write for general audience
 		+ Clear, concise, non-technical
