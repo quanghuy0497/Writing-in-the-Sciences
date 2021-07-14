@@ -215,12 +215,12 @@
 		+ What the data suggest
 			+ The finding **_confirms_**...
 		+ **_Example_**:
-			_Information **was** available for 7799 current cigarette smokers. Of these, 1216 (16%) **were** classified as hardcore smokers. Table 1 **gives** characteristics of all the smokers. The most striking difference **was** that hardcore **were** about 10 years older on average and **tended** to be more dependent on tobacco. Significantly more hardcore smokers **had** manual occupations, **lived** in rented accommodation, and **had completed** their full-time education by the age of 16 years. There **was** no difference by sex._
+			_"Information **was** available for 7799 current cigarette smokers. Of these, 1216 (16%) **were** classified as hardcore smokers. Table 1 **gives** characteristics of all the smokers. The most striking difference **was** that hardcore **were** about 10 years older on average and **tended** to be more dependent on tobacco. Significantly more hardcore smokers **had** manual occupations, **lived** in rented accommodation, and **had completed** their full-time education by the age of 16 years. There **was** no difference by sex."_
 	+ Use the **active voice**!
 		+ More lively!
 		+ Since you can talk about the subjects of your experiments, "we" can be used sparingly while maintaining the active voice!
 		+ **_Example_**:
-			_To test whether it was appropriate to exclude a measure of cigarette dependence from our criteria for defining hardcore smoking, **we compared** attitudes and beliefs by dependence in hardcore and other smokers (table 4). For most items, **beliefs were** similar in low and high dependence hardcore smokers but strikingly different from those of other smokers. For example, almost 60% of both low and high-dependency non-hardcore **smokers agreed** that improved health would be a major benefit from quitting whereas among hardcore smokers only 27% of low dependency and 32% of high dependency smokers agreed. Similar **differentiation** in beliefs by hardcore smoking status, but not dependence level, **emerged** for other items, especially those related to health._  
+			_"To test whether it was appropriate to exclude a measure of cigarette dependence from our criteria for defining hardcore smoking, **we compared** attitudes and beliefs by dependence in hardcore and other smokers (table 4). For most items, **beliefs were** similar in low and high dependence hardcore smokers but strikingly different from those of other smokers. For example, almost 60% of both low and high-dependency non-hardcore **smokers agreed** that improved health would be a major benefit from quitting whereas among hardcore smokers only 27% of low dependency and 32% of high dependency smokers agreed. Similar **differentiation** in beliefs by hardcore smoking status, but not dependence level, **emerged** for other items, especially those related to health."_  
 				=> Active voice, past tense  
 				=> Nice, lively, easy to read  
 				=> Only use subject "we" once.  
@@ -229,9 +229,192 @@
 + **_Original draft:_**
 	![](Images/21.png)  
 	=> Repetition, wordiness
-	
-+ **_Edited:_** _Seventy percent runners ran during pregnancy (n = 77) and almost one third ran during the third trimester (Table 2). On average, those who ran greatly curtailed their training — running just 20.3+/-9.3 miles per week and cutting their intensity to about half of their non-pregnant runing effort. Three reported sustaining a running injury while pregnant. In the post-partum period, nearly one quarter resumed running by two weeks after giving birth; most resumed running by two month._  
++ **_Edited:_** _"Seventy percent runners ran during pregnancy (n = 77) and almost one third ran during the third trimester (Table 2). On average, those who ran greatly curtailed their training — running just 20.3+/-9.3 miles per week and cutting their intensity to about half of their non-pregnant runing effort. Three reported sustaining a running injury while pregnant. In the post-partum period, nearly one quarter resumed running by two weeks after giving birth; most resumed running by two month."_  
 	=> Concise, focus on relation and significant trends
+
+### 4. Methods
++ Give a clear overview of what was done
++ Give enough information to replicate the study (like a recipe!)
++ Be complete, minimize the complexity for your reader!
+	1. Break into smaller sections with subheadings
+	2. Cite a reference for commonly used methods
+	3. Display in a flow diagram or table where possible
++ You _may_ use jargon and the passive voice more liberally in the Methods section.
++ Who, what, where, how and why questions are considered when writing the Methods section
+	![](Images/22.png)  
++ The methods section should provide **_sufficient details_** so that others can replicate the study.
++ **Methods structure**
+	+ Materials
+		+ Drugs, buffers, chemicals, gases, etc.
+		+ Give specific informations
+	+ Participants/subjects
+		+ Animals/Humans (does the research was approved by appropriate committee?)
+	+ Experimental protocol/study design
+	+ Measurements
+		+ How were the dependent and independent variables measured
+		+ Instruments (telescope, microscope, weighing scale, etc.)
+	+ Analyses
++  **Make life easy for the reader**
+	1. Break into subsections with informative subheadings
+		+ **_Example_**:
+			+ Subjects and experimental protocols
+			+ Hardware
+			+ Data processing
+			+ Measure evaluation
+	2. Cite a reference for commonly used methods or previously used methods rather than explaining all the details
+		+ **_Examples_**:
+			+  _"...with the used of the appropriate SVM approach, as previously described [1]."_
+			+ _"...as descrived previouslu (Nguyen et al., 2020"_
+	3. Use flow diagrams or tables to help simplify explanations of methods!
+		![](Images/23.png)  
+		=> Harder to read with text, also extremely boring  
++ **Grammar**
+	+ Report methods in **past tense**
+		+ We measured...
+		+ We applied...
+	+ Describe how data are presented in **_present tense_**
+		+ The data are summarized as means...
+	+ It's OK to use passive voice (or even a combination)
+		+ Passive voice:
+			+ Emphasize the method or variable. What was done rather than who did it,
+			+ The Methods section is already boring, no one reading it word by word.
+		+ Active voice:
+			+ More lively, but sacrifice having the method as the subject of the sentence
+			+ Requires creativity to avoid starting every sentence with "We"! (But it's not worth the effort) 
+	+ Also, the jargon and acronym are OK!
+	+ **_Example:_**
+		_**"We assessed** the number of spam emails received in each collection phase. Detailed analysis **was undertaken** of spam received in April 2014, June 2014, and April 2015. **The investigators rated** their spam invitations as being of no, low, medium, or high relevance to their academic careers. **We determined** the number of duplicate spam invitations. When possible, **we recorded** the publisher for journal invitations and organizing body for conference invitations. Finally, **we conducted** a qualitative analysis, focusing on memorable spam."_  
+		=> A lot of "We", but it reads well, easy to understand  
+
+### 5. Introduction
++ Follows a fairly standard format
+	+ Easier to write
++ Typically 3 paragraphs long
+	+ Recommended range: 2 to 5
++ It is **not** an exhaustive review of the general topic
+	+ Should focus on the specific question/hypothesis/aim of study
+	+ **_Example_**:
+		+ Topic: a study tested the association between brest cancer and smoking  
+		=> Intro:  
+			+ **_Not write_** background general information about breast cancer or smoking
+			+ **_Not discuss_** papers about how bad smoking or brest cancer in general
+			+ **_Write about_** the potential relationships between specifically smoking and breast cancer
+			+ **_Discuss about_** previous study that addressed this link
++ **Introduction format**
+	![](Images/24.png)  
+	+ Start with something general, then narrow down quickly to the specific study
+	+ **_One typical structure:_**
+		+ Briefly giving some context, background information about what is known on the topic
+		+ Pinpoint the gaps, flaws, and limitations of all previous studies
+		+ Narrow to the specific hypothesis or aim of statement
+			+ Make a statement of purpose, clearly  
+		+ Tell a little bit about the approach
+			+ Explain how the approach is new and better than previous studies
+			+ Explain how it fill the gaps and limitations
+	+ **_Another structure:_**
+		+ Paragraph 1:
+			+ What's known
+		+ Paragraph 2:
+			+ What's unknown
+				+ Limitations and gaps in previous studies
+		+ Paragraph 3:
+			+ The specific study
+				+ Your burning question/hypothesis/aim
+				+ Your experimental approach
+				+ Why your experimental approach fills in the gaps
++ **Tips for Introduction**
+	+ Keep paragraphs short
+	+ Write for general audience
+		+ Clear, concise, non-technical
+	+ Take the reader step by step from what is known to what is unknown. End with the specific question.
+		+ Known => Unknown => Question/Hypothesis
+	+ Emphasize how the study fills in the gaps
+	+ Explicitly state the research question/aim/hypothesis
+		+ We asked whether...
+		+ Our hypothesis was...
+		+ We tested the hypothesis that...
+		+ Our aim were...
+		+ We proposed...
+	+ Do not answer the research question (no results or implications)
+		+ Just set up the research question
+	+ Summarize at a high level! Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
+		+ Just tell the reader broadly what were the problems with previous studies
++ **_Examples_**:
+	+ **Simple introduction:**
+		>	_"Insolicited and unwanted (spam) electronic invitations to speak at or attend conferences, or to write for or edit journals are burgeoning aspects of academic life. Colleagues regard such invitations with wry amusement, intense frustration, or resignation. Two of us (AG, ND) have review travel grant applications from colleagues who received spam invitations to give conference presentations._
+		>  
+		> _Few studies have focused on academic spam. In the Academic Spam study we investigated the amount, relevance, content, and suppressibility of academic spam emails."_  
+
+		=> The first paragraphs about what was known  
+		=> The second paragraphs about the specific study  
+	+ **Complex introduction:**
+		![](Images/25.png)  
+		+ Paragraph 1:
+			+ Sentence 1: What's known 
+				+ Well-established relationship between obese and hearth disease    
+			+ Sentence 2: What's unknown 
+				+ How much does being overweight incease the risk of cancer?  
+				+ What individual cancers arre related to excess weight
+			+ Sentence 3: What's know
+				+ What we known for sure from the previous studies
+			+ Sentence 4: What's unknown 
+				+ Summarized a pile of studies in just one sentence (without telling the details)
+				+ They are scares inconsistent
+			+ Sentence 5: Gaps and limitations
+				+ Lack of consistency;Limited range and variable; Bias; ect.
+		+ Paragraph 2: Specific hypothesis
+			+ How this study will answer the questions with better methods
+				+ Aim of study
+				+ Clear scope
+				+ Messure metric
+	+ **Another complex example:**
+		![](Images/26.png)  
+		+ Paragraph 1:
+			+ What's known
+			+ What's unknown
+			+ The lit. review, quick summary
+		+ Paragraph 2:
+			+ Gaps in previous research
+		+ Paragraph 3:
+			+ Aim of the study
+			+ Main hypothesis statement
+
+### 6. Practice writing Introduction
++ **Example 1:**
+	+ Introduction:
+		![](Images/27.png)  
+	+ Analysis:
+		+ Paragraph 1:
+			+ Overview relationship (What's known)
+			+ Quick summary (What's known)
+			+ Limitations (What's known)
+			+ Gaps (What's unknown)
+		+ Paragraph 2:
+			+ Previous study review
+		+ Paragraph 3:
+			+ Limitations (What's known)
+			+ Gaps (What's unknown)
+			+ Aim statement
++ **Example 2:**
+	+ Introduction:
+		![](Images/28.png)  
+	+ Analysis:
+		+ Paragraph 1:
+			+ Overview relationship
+			+ Overall background
+		+ Paragraph 2:
+			+ Why it matter
+			+ Explanation 
+		+ Paragraph 3:
+			+ Pervious literature 
+		+ Paragraph 4:
+			+ Gaps and limitations (Unknown)
+			+ Aim statement
+			+ Examine how the gap has change over time
+
+
+
+
 
 
 
@@ -246,7 +429,8 @@
 		+ **_Example:_**
 			+ My goal is to write 400 words today.
 			+ My goal is to write the first two paragraphs of the discussion section today.
-
++ Introduction:
+	+ The past tense and active voice are appropriate for discussing previous results
 
 
 
