@@ -223,7 +223,20 @@
 			_To test whether it was appropriate to exclude a measure of cigarette dependence from our criteria for defining hardcore smoking, **we compared** attitudes and beliefs by dependence in hardcore and other smokers (table 4). For most items, **beliefs were** similar in low and high dependence hardcore smokers but strikingly different from those of other smokers. For example, almost 60% of both low and high-dependency non-hardcore **smokers agreed** that improved health would be a major benefit from quitting whereas among hardcore smokers only 27% of low dependency and 32% of high dependency smokers agreed. Similar **differentiation** in beliefs by hardcore smoking status, but not dependence level, **emerged** for other items, especially those related to health._  
 				=> Active voice, past tense  
 				=> Nice, lively, easy to read  
-				=> Only use subject "we" once.
+				=> Only use subject "we" once.  
+				
+### 3. Practice writing Results
++ **_Original draft:_**
+	![](Images/21.png)  
+	=> Repetition, wordiness
+	
++ **_Edited:_** _Seventy percent runners ran during pregnancy (n = 77) and almost one third ran during the third trimester (Table 2). On average, those who ran greatly curtained their training — running just 20.3+/-9.3 miles per week and cutting their intensity to about half of their non-pregnant runing effort. Three reported sustaining a running injury while pregnant. In the post-partum period, nearly one quarter resumed running by two weeks after giving birth; most resumed running by two month._  
+	=> Concise, focus on relation and significant trends
+
+
+
+
+
 
 
 ***
