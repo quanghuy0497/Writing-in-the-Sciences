@@ -58,24 +58,24 @@
 		+ Display many values/variables
 
 #### 1.1. Table
-+ **Title**
++ **Title:**
 	+ Identify the specific topic or point of the table
 	+ Repeat the same key terms in the table title, the column headings and the main text of the paper
 	+ Keep it brief, concise!
-+ **Footnotes**
++ **Footnotes:**
 	+ Use superscript symbols to identify footnotes (depend on the journal guidelines)
 	+ Use footnotes to explain statistically significant differences
 	+ Use footnoes to explain experimental details or abbreviations (aconym have to be define within the table)
-+ **Format**
++ **Format:**
 	+ Model the tables from already published tables!
 	+ Follow journal guidelines
 	+ Most journals used three horizontal lines (above the collumn headings, below the column heading, below the data)
-+ **_Example PROFESSIONAL Table_**:  
++ **_Example of PROFESSIONAL Table:_**:  
 	![](Images/01.png)  
   	+ Three horizontal lines
 	+ Simple clear point
   	+ Can quickly glean what different
-+ **_Example UNPROFESSIONAL Tables_**:
++ **_Example of UNPROFESSIONAL Tables:_**:
     + **Example 1**:
     	![](Images/02.png)  
     	+ Grid lines => Red flag from the reviewers
@@ -96,7 +96,7 @@
     	+ The statistical significant (P-value) => can be indicated using subscripts and footnotes.
 
 #### 1.2. Figure
-+ **Types of Figure**
++ **Types of Figure:**
 	+ Primary evidence
 		+ Photographs, slides, ect.
 		+ Indicates data quality
@@ -109,7 +109,7 @@
 		+ Illustrate cause and effect or cycles
 		+ Give a hypothetical model
 		+ Represent as cartoons
-+ **Legends**
++ **Legends:**
 	+ Allows the figure to stand alone
 	+ May contain:
 		+ Brief title
@@ -118,7 +118,7 @@
 		+ Explanation of panels (A,B,C,D,...)
 		+ Statistical information (tests used, p-values)
 		![](Images/07.png)  
-+ **Details about Figures**	
++ **Details about Figures:**	
 	+ **_Primary evidence_**
 		![](Images/08.png)  
 		+ All the informations are explained in the legend
@@ -176,7 +176,7 @@
 + **Examples of exemplar Results**:
 	- _"Over the course of treatment, topiramate was significantly more effective than placebo at improving drinking outcomes on drinks per day, drinks per drinking day, percentage of heavy drinking days, percentage of days abstinent, and log plasma - glutamyl transferase ratio (Table 3)."_
 	- _"The total suicide rate for Australian men and women did not change between 1991 and 2000 because marked decreases in older men and women (Table 1) were offset by increases in younger adults, especially younger men."_
-+ **Analysis example**
++ **Analysis example:**
 	+ Example of **what not to do** 
 		![](Images/19.png)  
 		=> Passive voice in the first sentence  
@@ -188,7 +188,7 @@
 		+ Point out how two groups differ at high level, without poiting out any numbers
 		  => The readers can refer to the table for specific numbers  
 		+ Include one or two key numbers to highlight for the reader
-+ **Tips for writing Results**
++ **Tips for writing Results:**
 	+ Break into subsections, with headings (if needed)
 	+ Complement the information that is already in tables/figures
 		+ Give precise values that are not available in the figure
@@ -201,7 +201,7 @@
 	+ Reserve information about what you did for the Methods section
 		+ In particular, do not discuss the rationale for statistical analyses within the Results section **=> confuse reader**
 	+ Reserve comments on the meaning of your Results for the Discussion section
-+ **Suitable Tense for the Results**
++ **Suitable Tense for the Results:**
 	+ Use **past tense** for completed actions:
 		+ We **_found_** that...
 		+ The average reaction time **_was_**...
@@ -243,7 +243,7 @@
 + Who, what, where, how and why questions are considered when writing the Methods section
 	![](Images/22.png)  
 + The methods section should provide **_sufficient details_** so that others can replicate the study.
-+ **Methods structure**
++ **Methods structure:**
 	+ Materials
 		+ Drugs, buffers, chemicals, gases, etc.
 		+ Give specific informations
@@ -254,7 +254,7 @@
 		+ How were the dependent and independent variables measured
 		+ Instruments (telescope, microscope, weighing scale, etc.)
 	+ Analyses
-+  **Make life easy for the reader**
++  **Make life easy for the reader:**
 	1. Break into subsections with informative subheadings
 		+ **_Example_**:
 			+ Subjects and experimental protocols
@@ -268,7 +268,7 @@
 	3. Use flow diagrams or tables to help simplify explanations of methods!
 		![](Images/23.png)  
 		=> Harder to read with text, also extremely boring  
-+ **Grammar**
++ **Grammar:**
 	+ Report methods in **past tense**
 		+ We measured...
 		+ We applied...
@@ -300,10 +300,10 @@
 			+ **_Not discuss_** papers about how bad smoking or brest cancer in general
 			+ **_Write about_** the potential relationships between specifically smoking and breast cancer
 			+ **_Discuss about_** previous study that addressed this link
-+ **Introduction format**
++ **Introduction format:**
 	![](Images/24.png)  
 	+ Start with something general, then narrow down quickly to the specific study
-	+ **_One typical structure:_**
+	+ **_Introduction structure 1:_**
 		+ Briefly giving some context, background information about what is known on the topic
 		+ Pinpoint the gaps, flaws, and limitations of all previous studies
 		+ Narrow to the specific hypothesis or aim of statement
@@ -311,7 +311,7 @@
 		+ Tell a little bit about the approach
 			+ Explain how the approach is new and better than previous studies
 			+ Explain how it fill the gaps and limitations
-	+ **_Another structure:_**
+	+ **_Introduction structure 2:_** (Similar to 1, actually)
 		+ Paragraph 1:
 			+ What's known
 		+ Paragraph 2:
@@ -322,7 +322,7 @@
 				+ Your burning question/hypothesis/aim
 				+ Your experimental approach
 				+ Why your experimental approach fills in the gaps
-+ **Tips for Introduction**
++ **Tips for Introduction:**
 	+ Keep paragraphs short
 	+ Write for general audience
 		+ Clear, concise, non-technical
@@ -339,7 +339,7 @@
 		+ Just set up the research question
 	+ Summarize at a high level! Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
 		+ Just tell the reader broadly what were the problems with previous studies
-+ **_Examples_**:
++ **_Examples:_**:
 	+ **Simple introduction:**
 		>	_"Insolicited and unwanted (spam) electronic invitations to speak at or attend conferences, or to write for or edit journals are burgeoning aspects of academic life. Colleagues regard such invitations with wry amusement, intense frustration, or resignation. Two of us (AG, ND) have review travel grant applications from colleagues who received spam invitations to give conference presentations._
 		>  
@@ -349,7 +349,7 @@
 		=> The second paragraphs about the specific study  
 	+ **Complex introduction:**
 		![](Images/25.png)  
-		+ Paragraph 1:
+		+ **_Paragraph 1_**:
 			+ Sentence 1: What's known 
 				+ Well-established relationship between obese and hearth disease    
 			+ Sentence 2: What's unknown 
@@ -362,20 +362,20 @@
 				+ They are scares inconsistent
 			+ Sentence 5: Gaps and limitations
 				+ Lack of consistency;Limited range and variable; Bias; ect.
-		+ Paragraph 2: Specific hypothesis
+		+ **_Paragraph 2_**: Specific hypothesis
 			+ How this study will answer the questions with better methods
 				+ Aim of study
 				+ Clear scope
 				+ Messure metric
 	+ **Another complex example:**
 		![](Images/26.png)  
-		+ Paragraph 1:
+		+ **_Paragraph 1_**:
 			+ What's known
 			+ What's unknown
 			+ The lit. review, quick summary
-		+ Paragraph 2:
+		+ **_Paragraph 2_**:
 			+ Gaps in previous research
-		+ Paragraph 3:
+		+ **_Paragraph 3_**:
 			+ Aim of the study
 			+ Main hypothesis statement
 
@@ -384,14 +384,14 @@
 	+ Introduction:
 		![](Images/27.png)  
 	+ Analysis:
-		+ Paragraph 1:
+		+ **_Paragraph 1_**:
 			+ Overview relationship (What's known)
 			+ Quick summary (What's known)
 			+ Limitations (What's known)
 			+ Gaps (What's unknown)
-		+ Paragraph 2:
+		+ **_Paragraph 2_**:
 			+ Previous study review
-		+ Paragraph 3:
+		+ **_Paragraph 3_**:
 			+ Limitations (What's known)
 			+ Gaps (What's unknown)
 			+ Aim statement
@@ -399,15 +399,15 @@
 	+ Introduction:
 		![](Images/28.png)  
 	+ Analysis:
-		+ Paragraph 1:
+		+ **_Paragraph 1_**:
 			+ Overview relationship
 			+ Overall background
-		+ Paragraph 2:
+		+ **_Paragraph 2_**
 			+ Why it matter
 			+ Explanation 
-		+ Paragraph 3:
+		+ **_Paragraph 3_**:
 			+ Pervious literature 
-		+ Paragraph 4:
+		+ **_Paragraph 4_**:
 			+ Gaps and limitations (Unknown)
 			+ Aim statement
 			+ Examine how the gap has change over time
