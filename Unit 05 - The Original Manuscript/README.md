@@ -412,7 +412,100 @@
 			+ Aim statement
 			+ Examine how the gap has change over time
 
+### 7. Discussion
++ Gives you the most freedom
++ Gives you the most chance to put good writing on display
++ Is the most challenging to write
++ Follow the rules for good writing
++ **Discussion structure:** 
+	+ Invert the cone of Introduction
+		![](Images/29.png)  
+		=> Start with the most narrow piece of information, then broaden
+	+ The Introduction section ends with the question asked  
+	+ The Discussion starts by answering that question 
+	+ Then support the answer with own data and with other people's data from the literature
+		+ Prove how the results fit into the context of the literature
+	+ Defense the conclusion
+		+ This is the obligatory limitations sections
+		+ Anticipate the reader's criticisms and defense against it
+	+ Give the "big-picture" implications of the research
+		+ What do the results mean?
+		+ Why should anyone care?  
+		=> Make sure the outsiders understand that: "Why this study is matter?"
++ **Discussion organization:**
+	![](Images/30.png)  
++ **Tips for writing Discussion**
+	+ Showcase good writing
+		+ Use the active voice
+		+ Tell it like a story
+	+ Start and end with the main finding
+		+ Begin with something likes "We found that..."
+		+ End by restating that finding...
+		+ It's okay to repeat => emphasize the reader
+	+ Don't travel too far from the data
+		+ Focus on what the data **_actually do prove_**, not what you have hoped your data would prove
+		+ Don't discuss things that don't have data on
+	+ Focus on the limitations that matter, not the generic limitations
+		+ Thinking about all the potential holes the paper might have
+		+ Then try to address all of that in the limitations section
+			+ It's okay to don't have good answers for those limitations, just point out that these limitations are well recognized
+	+ Make sure the "take-home message" is clear and consistent
 
++ **_Examples_**
+	+ **_Example 1_**:
+		+ **Introduction**:
+			> _In the Academic Spam Study we investigated the amount, relevance, content, and suppressibility of academic spam emails._  
+
+		+ **Discussion**:  
+			> _The Academic Spam Study shows that mid-career academics in New Zealand receive on average 2.1 spam invitations each day to publish papers and attend conferences. Unsubscribing had a modest and short-lived effect on the quantity of received spam. Sixteen percent of spam invitations were duplicates, and 83% were of little or no relevance to the recipient. Some organizations send spam invitations without an unsubscribe option, or persist despite recipients requesting unsubscription._ **(Discussion)**  
+			>
+			> _Our study has limitations. Some invitations were removed by the institutional spam filter, so we might have underestimated the amount of spam. Our sample of researchers was too small to be representative of the academic community. New Zealand is a small, remote country that might not be targeted by the academic spam distributors, even though we have held the Rugby World Cup since 2011, and the "Lord of the Rings" movies were filmed here. We received a similar number of spam invitations to colleagues in Poland and Canada who assessed journal invitations, however.**2,3**_ **(Strengths and  weaknesses of this study)**  
+			>
+			> _Published research on academic spam is limited. Some senders of spam journal invitations are bad eggs,**4** who misrepresent their locations and are usually open-access publishers.**2 5** Spam invitations are often issued by predatory organizations,**2 3** the modus operandi of which threatens academic integrity.**5 6** Vigorous responses to spam invitations might generate humorous outcomes by not stop the invitations.**7** Attempts to unsubscribe from spam invitations are only moderately successful, but stringent email filtering**3** or threatening recidivist organizations with legal action**8** might stop further communications._ **(Comparison with other studies)**  
+			>  
+			> _We suggest further research on academic spam:..._ **(Implications and future research)**  
+
+	+ **_Example 2_**:
+		+ **Introduction**:
+			![](Images/31.png)  
+		+ **The Discussion**:
+			![](Images/32.png)  
+				=> Directly answer the first question of the introduction  
+			![](Images/33.png)  
+				=> Answer the second question  
+			![](Images/34.png)  
+				=> Adressing the limitation  
+			![](Images/35.png)  
+				=> Another key limitation
+			![](Images/36.png)  
+				=> Restate the key-finding  
+				=> Present the big picture with caution  
+				=> Stating the take-home message (there are still questions to be answered)  
+	+ **_Example 3_**:
+		+ **Introduction**:
+			![](Images/37.png)  
+		+ **Discussion**:
+			![](Images/38.png)  
+				=> What they found  
+			![](Images/39.png)  
+				=> Context, possible mechanisms  
+			![](Images/40.png)  
+				=> Limitations  
+			![](Images/41.png)  
+				=> Implications, ending with the big picture  
++ **Do not start the Discussion with the limitation**:  
+	+ **_Example:_** _This meta-analysis is subject to a number of **limitations**. The estimates of risk for melanoma subsequent to using sunlamps/sunbeds are based on published data in a series of 10 articles over a period of 20 years. A pooled analysis of orginal observations taken in the 10 studies would have provide a more powerful approach..._  
+	+ Just start with "We found...", "This study shows...".
+	+ Then burry the limitations with several paragraphs down
++ **Verb Tense**
+	+ **_Past tenses_** when referring to study details, results, analyses, and background research:
+		+ We _found_ that
+		+ Subjects _may have experienced_
+		+ Miller et al. _found_
+	+ **_Present tenses_** when talking about what the data suggest
+		+ The greater weight loss _suggests_
+		+ The explanation for this differences _is_ not clear
+		+ Potential explanations _include_
 
 
 
