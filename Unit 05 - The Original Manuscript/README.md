@@ -538,8 +538,6 @@
 + Abstracts may be structured (with subheadings) or free-form — depended on the journal
 	+ **_Example of structured abstract_**
 		![](Images/42.png)
-		![](Images/43.png)    
-
 
 
 
