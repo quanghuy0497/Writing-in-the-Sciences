@@ -53,7 +53,7 @@
 		+ Tell a quick story (single big point)
 		+ Tell a whole story 
 		+ Highlight a particular result (emphasize)
-	+ Talbles:
+	+ Tables:
 		+ Give percise values
 		+ Display many values/variables
 
@@ -508,13 +508,44 @@
 		+ The explanation for this differences _is_ not clear
 		+ Potential explanations _include_
 
+### 8. Abstract
++ After writing the paper, it should be fairly easy to write the Abstract
++ Abstracts (_ab_=out, _trahere_=pull; "to pull out")
+	+ Overview of the main story
+	+ Gives highlights from each section of the paper
+	+ Limited length (100-300 words, typically)
+	+ Stands on its own
+	+ Most often, the only part people read 
++ Always writing the Abstract, **last**
++ **Structure of the abstract**
+	1. Background  
+		+ One-sentence statement, give reader some context
+	2. Question/aim/hypothesis  
+		+ Just like the end of Introduction
+		+ "We asked whether", "We hypothesized that",...
+	3. Experiment(s)  
+		+ Quick summary of key materials and methods
+		+ Gives overview, make it minimal
+	4. Results  
+		+ Key results found
+		+ Minimal raw data (prefer summaries)
+	5. Conclusion  
+		+ The answer to the question asked/take-home message
+	6. Implication, speculation, or recommendation  
+		+ Go a little beyond and give readers the:
+			+ Why should they care?
+			+ What's the implication?
+			+ Why does this research matter?
++ Abstracts may be structured (with subheadings) or free-form — depended on the journal
+	+ **_Example of structured abstract_**
+		![](Images/42.png)
+		![](Images/43.png)    
 
 
 
 
 
 
-
-
-
+<br><br>
+<br><br>
 _This notes were made by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
