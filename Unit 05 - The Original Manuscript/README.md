@@ -12,7 +12,6 @@
 * [6. Practice writing Introduction](#6-Practice-writing-Introduction)
 * [7. Discussion](#7-Discussion)
 * [8. Abstract](#8-Abstract)
-* [Notes](#8-Notes)
 
 ### Recommended order for writing an original manuscript
 1. **Tables and Figures**
@@ -510,20 +509,6 @@
 
 
 
-
-
-
-
-
-***
-### Notes
-+ One more tip on making writing easier:
-	+ Break the writing task into small, reasonable, and realistic goals:
-		+ **_Example:_**
-			+ My goal is to write 400 words today.
-			+ My goal is to write the first two paragraphs of the discussion section today.
-+ Introduction:
-	+ The past tense and active voice are appropriate for discussing previous results
 
 
 
