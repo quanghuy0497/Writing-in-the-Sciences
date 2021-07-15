@@ -469,30 +469,31 @@
 		+ **Introduction**:
 			![](Images/31.png)  
 		+ **The Discussion**:
-			![](Images/32.png)  
-				=> Directly answer the first question of the introduction  
-			![](Images/33.png)  
-				=> Answer the second question  
-			![](Images/34.png)  
-				=> Adressing the limitation  
-			![](Images/35.png)  
-				=> Another key limitation
-			![](Images/36.png)  
-				=> Restate the key-finding  
-				=> Present the big picture with caution  
-				=> Stating the take-home message (there are still questions to be answered)  
+			+ Directly answer the first question of the introduction 
+				![](Images/32.png)    
+			+ Answer the second question
+				![](Images/33.png)    
+			+ Adressing the limitation
+				![](Images/34.png)  
+			+ Another key limitation
+				![](Images/35.png)  
+			+ Big-picture implication
+				![](Images/36.png)  
+					=> Restate the key-finding  
+					=> Present the big picture with caution  
+					=> Stating the take-home message (there are still questions to be answered)  
 	+ **_Example 3_**:
 		+ **Introduction**:
 			![](Images/37.png)  
 		+ **Discussion**:
-			![](Images/38.png)  
-				=> What they found  
-			![](Images/39.png)  
-				=> Context, possible mechanisms  
-			![](Images/40.png)  
-				=> Limitations  
-			![](Images/41.png)  
-				=> Implications, ending with the big picture  
+			+ What they found 
+				![](Images/38.png)  
+			+ Context, possible mechanisms
+				![](Images/39.png)    
+			+ Limitations
+				![](Images/40.png)  
+			+ Implications, ending with the big picture
+				![](Images/41.png)   
 + **Do not start the Discussion with the limitation**:  
 	+ **_Example:_** _This meta-analysis is subject to a number of **limitations**. The estimates of risk for melanoma subsequent to using sunlamps/sunbeds are based on published data in a series of 10 articles over a period of 20 years. A pooled analysis of orginal observations taken in the 10 studies would have provide a more powerful approach..._  
 	+ Just start with "We found...", "This study shows...".
