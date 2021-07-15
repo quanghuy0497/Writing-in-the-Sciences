@@ -217,7 +217,11 @@
 + Use [**Thesaurus**](http://www.thesaurus.com/) to find a good verb
 + Always cite/go back to the ***primary sources***!
 + Assume that other authors have made errors in citing sources!
-
++ One more tip on making writing easier:
+	+ Break the writing task into small, reasonable, and realistic goals:
+		+ **_Example:_**
+			+ My goal is to write 400 words today.
+			+ My goal is to write the first two paragraphs of the discussion section today.
 
 
 
