@@ -12,7 +12,6 @@
 * [6. Practice writing Introduction](#6-Practice-writing-Introduction)
 * [7. Discussion](#7-Discussion)
 * [8. Abstract](#8-Abstract)
-* [Notes](#8-Notes)
 
 ### Recommended order for writing an original manuscript
 1. **Tables and Figures**
