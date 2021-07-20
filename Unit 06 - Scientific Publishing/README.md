@@ -257,7 +257,7 @@ _"The lesson of optogenetics is that the old, the fragile, and the rare——eve
 	+ If Google returns the same sentence in another paper **=> plagiarism**
 + Separate yourself from the critiques, don't take the critiques personally, change your perspective, and view it as an opportunity to improve and learn
 + The first one of doing peer review will take you a really long time
-+ [**List of predatory journal**](https://predatoryjournals.com/journals/)
++ [**List of predatory journals**](https://predatoryjournals.com/journals/)
 
 
 
