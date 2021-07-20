@@ -33,7 +33,7 @@
 	+ Abstract is easy to write after finish other sections
 
 ### 1. Tables and Figures
-+ Table and Figures is t**he most important part** of a manuscript
++ Table and Figures is **the most important part** of a manuscript
 + Table and Figures form **_the foundation of the story_** in the manuscript.
 + Editors, reviewers, and readers may look  **_first_** (and maybe only) at Titles, Abstract, Table and Figures!
 	+ Some reviewers skim the abstract just to get a sense of what the paper is about
