@@ -1,7 +1,6 @@
 ## Unit 6 - Scientific Publishing
 
 ### Table of contents
-* [Recommened order for writing an original manuscript](#Recommended-order-for-writing-an-original-manuscript)
 * [1. Plagiarism](#1-Plagiarism)
 * [2. Authorship](#2-Authorship)
 * [3. The Submission Process](#3-The-Submission-Process)
