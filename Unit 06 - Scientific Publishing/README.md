@@ -34,7 +34,6 @@
 		+ You should understand the material well enough
 	+ Draw your own conclusions
 	+ Do not **mimic the original author's sentence structure** or just **re-arrange** the original author's words
-	
 	+ **_Example:_**
 		+ Original passage (Klibanski et al. 1995): _"Our data demonstrate that, despite its usefulness in perimenopausal women, estrogen and progestin administration does not reverse the profound osteopenia seen in all young women with anorexia nervosa. Trabecular bone loss is severe and may progress despite estrogen therapy."_
 		+ Plagiarized passage (Munoz et al. 2002): _"In conclusion, our data demonstrate that, despite its usefulness in perimenopausal women, estrogen and progestin administration does not reverse the profound osteopenia seen in all young women with AN. Trabecular bone loss is severe and may progress despite estrogen therapy."_
@@ -69,7 +68,7 @@
 	+ Guest or "honorary" authors: Academic researchers who are minimally involved in a paper, but "lend" their name as an author (often first author!) to bolster the paper's credibility
 
 ### 3. The Submission Process
-+ Submission process
++ **Submission process**
 	1. Identify a journal for submission (ideally before writing!)  
 		+ What is the appropriate journal
 		+ Who is the audience that's going to care about my data
@@ -145,30 +144,31 @@
 	+ Post-publication Peer Review
 		+ Blog, online comment, etc. More formal systems for post-publication vetting are merging, such as PubMed Commons.
 + **Suggested process for peer review**  
-	**_1. Scan the abstract_**    
-	**_2. Jump to the data: review the tables and figure first_**      
+	1. **_Scan the abstract_**    
+	2. **_Jump to the data: review the tables and figure first_**  
 		+ Draw your own conclusions  
 		+ Do the tables and figures stand on their own?  
 		+ Are there any obvious statistical errors?
 		+ Is there repetitive information?  
-	**_3. Read the paper once through_**   
+	3. **_Read the paper once through_**   
 		+ Do the authors' conclusions match their data?  
 		+ Is the paper clearly written, or did you struggle to get through it? You should not have to struggle!  
   		+ Is the length of the paper justified given the amount of new information that the data provide?  
-	**_4. Read the introduction carefully_**   
+	4. **_Read the introduction carefully_**   
 		+ Is it sufficiently succinct?  
 		+ Does it roughly follow: know => unknown => research question/hypothesis?  
 		+ Is there a clear statement of the hypotheses or aim of the study?  
 		+ Is there information about _what was done_ that belongs in the Methods?   
 		+ Is there information about _what was found_ that belongs in the Results?  
-		+ This there distracting information about previous studies or mechanisms that are not directly relevant to the hypothesis being tested? If so, it should be moved to the discussion  
+		+ This there distracting information about previous studies or mechanisms that are not directly relevant to the hypothesis being tested?
+			+ If so, it should be moved to the discussion  
 		+ Do the authors tell you what gaps in the literature they are trying to fill-in?  
-	**_5. Read the methods carefully_**    
+	5. **_Read the methods carefully_**    
 		+ Scan this section to find answers to your questions about the data
 		+ Were things measured objectively or subjectively? What instruments were used?  
 		+ Are there flaws in the study design, such as no control group?  
 		+ Read the statistics section carefully  
-	**_6. Read the results carefully_**   
+	6. **_Read the results carefully_**   
 		+ Read this section with the tables and figures in front of you  
 		+ Does each section roughly correspond to one table or figure?  
 		+ Do the authors summarize the main trends and themes from the table, or do they just repeat what is in the table?  
@@ -176,7 +176,7 @@
 		+ Are the authors honest or do they try to draw your eye to what they want you to see?  
 		+ Do the authors over-interpret statistical significance, by ignoring the fact that the magnitude is small or by ignoring the fact that they have done multiple subgroup analyses?  
 		+ Is this section unnecessarily long?  
-	**_7. Look at each table and figure_**  
+	7. **_Look at each table and figure_**  
 		+ Did the authors choose the correct statistics?  
 		+ Are there multiple tables or figures that tell the same story?  
 		+ Is there evidence of cherry-picking or purposefully omitting data?  
@@ -184,7 +184,7 @@
 		+ Is the "treatment" group always compared with a proper control/placebo group?
 		+ Are there inconsistencies in the data they present from one table to the next?  
 		+ Did the authors make transcribing errors when going from the data in tables/results to the abstract?  
-	**_8. Read the discussion carefully_**  
+	8. **_Read the discussion carefully_**  
 		+ Does the first paragraph succinctly and clearly tell you what was found and what is new?  
 		+ Are the authors' conclusions justified or are they overreacting?  
 		+ Do they clearly distinguish hypothesis-driven conclusions and exploratory conclusions?  
@@ -233,7 +233,7 @@
 			+ Accept with minor revisions
 			+ Accept
 		+ Give a succinct overall statement to the editors that justifies your ranking. Be frank with the editors about your opinion and concerns.
-+ Just review unto the other as you would want to be reviewed. Be kind, be positive.
++ **Just review unto the other as you would want to be reviewed. Be kind, be positive.**
 
 ### 8. Predatory Journals
 + **Predatory Journals**
@@ -250,7 +250,7 @@
 	+ Use common sense, as you would when shopping online: if something looks fishy, looks like spam, proceed with caution.
 
 ### Example of good writing!
-> _"The lesson of optogenetics is that the old, the fragile, and the rare——event cells from pond scum or from harsh Saharan salt can be crucial to comprehension of ourselves and our modern world. The story behind this technology underscores the value of protecting rare environmental niches and the importance of supporting true basic science. We should never forget that we do not know where the long march of science is taking us or what will be needed to illuminate our path."_ — Karl Deiseroth, "Controlling the Brain with Light", 2010
+> _"The lesson of optogenetics is that the old, the fragile, and the rare——event cells from pond scum or from harsh Saharan salt can be crucial to comprehension of ourselves and our modern world. The story behind this technology underscores the value of protecting rare environmental niches and the importance of supporting true basic science. We should never forget that we do not know where the long march of science is taking us or what will be needed to illuminate our path."_ **— Karl Deiseroth, "Controlling the Brain with Light", 2010**
 
 ### Notes
 + Check plagiarism: take a random full sentence from the suspect material and put it to quotes and search it on Google
