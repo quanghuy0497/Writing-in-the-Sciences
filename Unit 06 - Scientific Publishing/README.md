@@ -95,7 +95,7 @@
 	+ Look carefully, it might lead you to find something that was wrong and fix it before going to publication.
 	+ The faster you see the reviewer critiques as an opportunity to learn and to improve the paper, the easier your life is going to be
 + Resubmission cover Letter/Response to Reviewers.
-	> _Dear Dr. Editor_
+	> _Dear Dr. Editor,_
 	>
 	> _We appreciate your helpful comments and those of the reviewers. We feel that the manuscript is now greatly improved._
 	>
