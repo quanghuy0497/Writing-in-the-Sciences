@@ -4,9 +4,9 @@
 * [1. Plagiarism](#1-Plagiarism)
 * [2. Authorship](#2-Authorship)
 * [3. The Submission Process](#3-The-Submission-Process)
-* [4. Interview 1](#4-Interview-1)
-* [5. Interview 2](#5-Interview-2)
-* [6. Interview 3](#6-Interview-3)
+* [4. Advice from expert 1](#4-Advice-from-expert-1)
+* [5. Advice from expert 2](#5-Advice-from-expert-2)
+* [6. Advice from expert 3](#6-Advice-from-expert-3)
 * [7. Doing a peer review](#7-Doing-a-peer-review)
 * [8. Predatory Journals](#8-Predatory-Journals)
 * [Example of good writing](#7-Example-of-good-writing)
@@ -116,11 +116,139 @@
 + _"About 60% of reviewers' criticisms pertain to the quality of the writing or tables and graphs; and about 40% pertain to the quality of the scientific work."_ - Robert Iles. Guidebook to better medical writing
 + **Good writing** and **good data presentation** are the central keys to getting published
 
-### 4. Interview 1
+### 4. Advice from expert 1
++ Key elements that journal editors are looking for:
+	+ Make paper pleasant to read
+	+ Tell the reader early on what the paper is about
+	+ Write in a way that is understandable to a reasonably educated reader
+	+ Include some element of surprise
+	+ Make your paper easy to read and you will vastly increase your chances of success
++ The number one mistake that scientists make when submitting their paper:
+	+ Failing to carefully match the paper to the most appropriate journal
+	+ Including heavy notation and dense material that slow the reader down
+	+ Being vague about the goals and methods of the paper
+		+ You should clearly say what you're going to do
+		+ The abstract and the first introduction are crucial
+		+ What editors mainly look at is the very beginning of the paper **=> Pay attention**
++ Other tips for increasing the chances of publication:
+	+ Craft or get permission to use good graphics because they help a lot!
+	+ Choose an appropriate and attractive format
+	+ Space out equations, graphics, and definitions
+	+ Organize information with bullet points where appropriate
+	+ Use the introduction to built momentum and engage readers
+	+ Avoid "clunky" language that distracts or slows down readers
+		+ Every time you have a sentence that is sort of hard to decode, you hurt the reader and they'll stop pretty soon
++ As scientists often worry that if they use more simple, clear language, they will "dumb down" the science and lose precision:
+	+ Dumbing it down is a good thing!
+	+ Most people don't know as must about your topic as you do 
+		+ They will appreciate it if you make it easy for them to understand
+	+ Don't try to impress anybody with fancy technical material, especially at the beginning of the paper
+	+ Read classic papers to find style examples
+	+ Don't be fancy
++ First-time authors advice:
+	+ Note in the submission that you are a first-time author
++ Tips for respond revise and resubmit paper:
+	+ Decide if you want to resubmit to that journal or submit to another 
+	+ Pay close attention to the reviewer comments
+	+ Attempt to make the paper shorter and clearer
+	+ Again, determine if you are trying to publish in the best journal of your work
++ Encouragement for young scientists who have incurred their paper rejection:
+	+ Even the most experienced writers still have their paper rejection
+	+ The publishing system is not perfect. Sometimes fresh ideas are rejected by tradition-minded referees
+	+ Don't take it too seriously. Papers get rejected all the time, doesn't mean that you had a bad idea
++ Another tip:
+	+ People is writing far too many papers and it doesn't help you get promoted to have a very long list of papers
+		+ Authors and organizations should value the quality of their ideas over the number of papers they have published
+		+ Be fewer and better
+	+ Take the writing and thinking part very seriously, but don't take the submission and acceptance and rejection part so seriously
 
-### 5. Interview 2
+### 5. Advice from expert 2
++ Key elements are journal editors looking for in a paper:
+	+ Content that best fits what the journal likes to publish and meets the author's goals
++ Trust the editorial process! It's harder to get an article out of print than to get it in print
++ The number one mistake that scientists make when submitting their paper:
+	+ Submitting an article to journals poorly suited to that piece
+	+ Writing an article that is too long
+	+ Ignoring the instructions for authors
+	+ **Drawing conclusions that go beyond the data**
++ Other tips for increasing the chances of publication:
+	+ Be appropriately humble
+	+ Be willing to take chances
+	+ Be ambitious, yet also realistic
+	+ Find the right journal for your work
+	+ Follow the instructions for authors
+	+ Allow time for editing and collaboration.
++ Advice for first paper submission
+	+ Respect the process, but maintain your confidence
++ Encouragement for young scientists who have incurred their paper rejection:
+	+ It happens to everyone!
+	+ High-impact journals reject unsolicited manuscripts at a rate of 95%
++ How often does a manuscript get accepted outright in a good journal?
+	+ Almost never, and usually only if it was solicited by the editor
++ What is the editor looking for in a resubmission? What are some tips for responding to reviewers?
+	+ Be grateful that the journal is interested
+	+ Carefully consider the reviewers' comments
+		+ The author doesn't have to do everything the reviewers say. Because the author may disagree strongly with some points
+	+  Either make the changes or argue effectively as to why you did not do what the reviewers say
+	+ Respond via a cover letter for the revised manuscript
+		+ Takes every reviewer comment and indicates how it was dealt with
+		+ Specific, item by item
+	+ Address the reviewers' comments even if you are submitting to a new journal
++ Another tip:
+	+ Avoid self-publishing
+	+ Follow the instructions
+	+ Choose a journal that fits your study
+	+ Do what the editor wants you to do
+	+ Rely on collaborators that you trust
 
-### 6. Interview 3
+### 6. Advice from expert 3
++ Key elements are journal editors looking for in a paper:
+	+ **Novelty** - Avoid repeating findings that are already well known
+	+ Interest to readers
+	+ Suitability for the specific journal
+	+ Good writing/Good American English
+	+ Concise writing
+	+ The "samali" problem
+		+ Research that is sliced too thinly
+		+ **_Example:_** had a study that involves both men and women, but published two papers, effect on men and effect on women.
++ The number one mistake that scientists make when submitting their paper:
+	+ Over-valuation of one's paper. Over-confidence
+	+ Persist and submit
+	+ Don't assume that other people will place your project as high priority as you do
++ Advice for writing style:
+	+ Be clear and concise
+	+ Avoid repetition
+	+ Avoid wordiness
+	+ Keep the introduction brief
+		+ Don't try to put too much (detail) on it
+	+ Don't repeat numerical information from the Tables in the Results section
++ As scientists often worry that if they use more simple, clear language, they will "dumb down" the science and lose precision:
+	+ You won't dumb down the science
+	+ You should avoid jargon and things that are really hard to understand
+	+ Papers should be understandable to an educated audience
+	+ Editors welcome readable papers
++ Advice for first-time authors:
+	+ A paper should not read like a thesis
+	+ Write like a senior scientist
+		+ You don't have to explain everything
+	+ State only the important strengths and limitations relevant to the study
+	+ When a paper ends with _"further research is needed"_
+		+ Be specific as to what is needed based on the findings of your study
++ What is the editor looking for in a resubmission? What are some tips for responding to reviewers?
+	+ By encouraged by the opportunity to resubmit
+	+ List and respond to every comment separately
+	+ Fix the problem or explain why you didn't fix it
+	+ Show the editor where you made the changes
+	+ Be polite!
++ Encouragement for young scientists who have incurred their paper rejection:
+	+ Fix it and submit it elsewhere
+	+ Don't take the rejection personally
+	+ Understand that reviewers may be from a different discipline
+	+ Remember that reviewers can have a bad day, too!
++ Another tip:
+	+ Negative findings would be more valued
+	+ Authors should rarely refuse to peer review when asked
+	+ Please accept the responsibility of being a reviewer as well as the author
 
 ### 7. Doing a peer review
 + In the first time you're asked to do a peer review:
