@@ -9,7 +9,7 @@
 * [6. Advice from expert 3](#6-Advice-from-expert-3)
 * [7. Doing a peer review](#7-Doing-a-peer-review)
 * [8. Predatory Journals](#8-Predatory-Journals)
-* [Example of good writing](#7-Example-of-good-writing)
+* [Example of good writing](#Example-of-good-writing)
 * [Notes](#Notes)
 
 ### 1. Plagiarism
