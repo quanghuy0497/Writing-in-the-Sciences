@@ -38,7 +38,7 @@ Taught by Dr. `Kristin Sainani`
 + Understand criteria for authorship
 + Recognize common pitfalls for new authors.
 + Recognize predatory journals
-### [Unit 7: Other Types of Writing in Science](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2007%20-%20Other%20Types%20of%20Writing%20in%20Science)
+### [Unit 7: Beyond the Research Manuscript](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2007%20-%20Beyond%20the%20Research%20Manuscript)
 + Understand how to write review articles.
 + Become familiar with the grant-writing process.
 + Understand how to write a strong letter of recommendation.
