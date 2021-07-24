@@ -32,18 +32,18 @@ Taught by Dr. `Kristin Sainani`
 + Critique poorly formatted tables and figures.
 + Practice writing strong Results and Introduction sections.
 + Summarize the elements of a Discussion
-### [Unit 6: Scientific Publishing](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2006%20-%20Scientific%20P)
+### [Unit 6: Scientific Publishing](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2006%20-%20Scientific%20Publishing)
 + Identify and avoid plagiarism
 + Understand the peer review process
 + Understand criteria for authorship
 + Recognize common pitfalls for new authors.
 + Recognize predatory journals
-### [Unit 7: Other Types of Writing in Science]()
+### [Unit 7: Other Types of Writing in Science](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2007%20-%20Other%20Types%20of%20Writing%20in%20Science)
 + Understand how to write review articles.
 + Become familiar with the grant-writing process.
 + Understand how to write a strong letter of recommendation.
 + Understand how to write a strong personal essay.
-### [Unit 8: Communication with broader audiences]()
+### [Unit 8: Communication with broader audiences](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2008%20-%20Communication%20with%20of%20broader%20audiences)
 + Recognize the importance of communicating science with broader audiences.
 + Be prepared to be interviewed by a journalist.
 + Recognize the difference between writing for scientific audiences and writing for lay audiences.
