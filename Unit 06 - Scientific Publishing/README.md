@@ -388,9 +388,14 @@ _"The lesson of optogenetics is that the old, the fragile, and the rare——eve
 + The first one of doing peer review will take you a really long time
 + [**List of predatory journals**](https://predatoryjournals.com/journals/)
 
+***
+
+
+
 
 
 
 <br><br>
 <br><br>
 _This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+
