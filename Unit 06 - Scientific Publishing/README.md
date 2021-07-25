@@ -380,6 +380,7 @@
 ### Example of good writing!
 _"The lesson of optogenetics is that the old, the fragile, and the rare——event cells from pond scum or from harsh Saharan salt can be crucial to comprehension of ourselves and our modern world. The story behind this technology underscores the value of protecting rare environmental niches and the importance of supporting true basic science. We should never forget that we do not know where the long march of science is taking us or what will be needed to illuminate our path."_ **— Karl Deiseroth, "Controlling the Brain with Light", 2010**
 
+***
 ### Notes
 + Check plagiarism: take a random full sentence from the suspect material and put it to quotes and search it on Google
 	+ If Google returns the same sentence in another paper **=> plagiarism**
