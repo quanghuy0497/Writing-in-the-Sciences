@@ -228,4 +228,4 @@
 
 <br><br>
 <br><br>
-_This notes were made by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+_This note was created made by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
