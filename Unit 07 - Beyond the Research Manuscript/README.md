@@ -2,9 +2,9 @@
 
 ### Table of contents
 * [1. Writing a Review Article](#1-Writing-a-Review-Article)
-* [2. Writing for Grants part I - Tips for Writing Proposals](#2-Writing-for-Grants-part-I-Tips-for-Writing-Proposals)
-* [3. Writing for Grants part II - The Specific Aims](#3-Writing-for-Grants-part-II-The-Specific-Aims)
-* [4. Writing for Grants part III - The Research Plan](#4-Writing-for-Grants-part-III-The-Research-Plan)
+* [2. Writing for Grants part I - Tips for Writing Proposals](#2-Writing-for-Grants-part-I---Tips-for-Writing-Proposals)
+* [3. Writing for Grants part II - The Specific Aims](#3-Writing-for-Grants-part-II---The-Specific-Aims)
+* [4. Writing for Grants part III - The Research Plan](#4-Writing-for-Grants-part-III---The-Research-Plan)
 * [5. Writing Letters of Recommendations](#5-Writing-Letters-of-Recommendations)
 * [6. Writing Personal Statements](#6-Writing-Personal-Statements)
 * [Notes](#Notes)
