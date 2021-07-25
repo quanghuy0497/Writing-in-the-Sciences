@@ -540,6 +540,9 @@
 	+ **_Example of structured abstract_**
 		![](Images/42.png)
 
+***
+
+
 
 
 
