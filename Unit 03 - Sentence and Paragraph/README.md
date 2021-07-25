@@ -188,6 +188,9 @@
 	+ Editing paragraph: the outline is needed to think through the logic carefully in head
 + Sometimes, use synonym leads the reader to think you are referring to a different instrument, model, group, variable
 
+***
+
+
 
 
 
@@ -195,3 +198,4 @@
 <br><br>
 <br><br>
 _This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+
