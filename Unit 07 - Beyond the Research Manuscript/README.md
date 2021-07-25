@@ -443,10 +443,119 @@
 			+ Provide them with your CV, SoP,...
 		+ Offer to meet with them (office hour)
 			+ Make a connection with them, make them remember you
-		+ Give them clear and easy instructions on how to submit the letter, also deadline
+		+ Give them clear and easy instructions on:
+			+ How to submit the letter, also deadline
 			+ Provide a link to information about the position or award
 			+ Put those at their fingertips
 
+# 6. Writing Personal Statements
++ **Tips for Personal Statements**
+	1. Make it **_personal_**  
+		+ Speak from the heart
+		+ Reveal **_who you are_**, authentically
+			+ It should feel a little risky to write, to reveal who you are
+			+ Reveal a part of yourself, and tie it with your purpose
+		+ Strive for flair, not "blah"
+			+ Don't just a stilt list of accomplishments
+			+ Show flair and personality
+	2. Give specific examples and stories  
+		+ **_Show, don't tell_**
+		+ Readers don't remember abstractions. They remember stories
+	3. Don't read your CV line by line  
+		+ Highlight the **_most important aspects_**
+		+ Show relevant experiences, especially as it applies to the specific position or award you're competing for
+	4. Avoid big words you don't understand and avoid clichés  
+		+ Use the right word, in the right content
+	5. Show interest in/flatter your readers   
+		+ Tell them **_why you love their institution/program_**
+		+ Be specific about why the specific program/institution/award appeals to you
+			+ Tell them how you—as a person—fit in with the program's mission
+		+ Do your homework
+			+ **_Name some professors_** and their research (even you have just read their works or seen them give a talk)
+	6. Explain gaps and failures  
+		+ It just likes the limitation of a manuscript
+			+ **_Anticipate the reviewers' concerns, then address them_**. That speaks volumes
+			+ That proves you are self-aware enough to realize your own limitations and to learn from your mistakes
+		+ Don't ignore these in hopes that reviewers won't notice the issue!
+		+ A good explanation and show of growth might actually get your statement noticed
+			+ Remember: **_Everyone likes a good story_** about overcoming obstacles or unconventional background
+	7. Never lie, embellish or make things up  
+		+ That is unethical
++ **Opening/Lead of the statement**
+	+ Start strong!
+		+ Start with a strong opening paragraph, a strong lead
+		+ Be compelling and memorable
+		+ Don't be afraid to sprawl a little
+	+ Be creative
+	+ Be descriptive or **_tell a story_**
+		+ Impart **_who you are_** and **_what matters to you_**
+	+ Some memorable personal essays start with a story or a scene
+		+ One started by _"describing the heat in the African country, where that candidate was doing a semester abroad and she described how this doctor was treating a patient and he was the only doctor around who could do the procedure and the patient was tearful with joy"_.
+		+ Another one where _"the candidate had been a crew athlete in college and she described being out on the river, rowing in the early morning."_
+	+ **_Compelling Examples:_**
+		+ _"Growing up in Tanzania, I heard a lot about HIV/AIDS and its effects on our population, but it was not until my cousin contracted the virus and subsequently passed it on to her newborn baby that it really hit home. At age 10, I was shattered by the terrible news and promise myself that one day, I would do something to tackle the epidemic and help those affected..."_
+		+ _"I was recently re-reading an autobiography that I wrote in fourth grade. I had to list my favorite things to do. My top four were running, solving puzzles, reading, and writing. The foresight of children is amazing...Not surprisingly, my passion for writing has also resurfaced. When I was a child, I did not dream of being a doctor or a scientist; I dreamed of being a writer. I have been steered toward the hard sciences all my life. I have pondered careers in biochemistry, genetics, and biostatistics. Yet, unfailingly, I find myself drawn back to my childhood whim. When I am asked what I am going to do when I fishing my epidemiology Ph.D., I always answer, laughingly, 'Actually, I am going to be a writer.'..."_
+	+ Don't be boring!!
+		+ **_Boring example:_**
+			+ _"Inspired by the courses I have taken at X college, I have decided that I want to pursue a doctoral degree in Y. As a double major in A and B at X college, I gained excellent skills in C, D, and E. Thus, I am well-prepared for doctoral studies and to pursue a career in academia."_  
+				=> Safe, boring. Do not tell anything about the applicant. 
+	+ It's OK if it's a little longer if it's **_compelling_**!
+	+ Don't be afraid to take the risk and be more personal
++ **Body of the statement**
+	+ Where do you want to go?
+		+ What are your short-term/long-term ambitions?
+	+ What experiences have led you to this point?
+		+ Give some personal history that shows what's motivated you
+	+ What makes you a strong candidate?
+		+ Be specific and illustrate your strengths with stories
+		+ Don't just list your accomplishments
+		+ Address weaknesses, and turn them into strengths
+			+ Turn them into obstacles you've overcome
+	+ Do your homework:
+		+ Why this **_specific_** program/institution/fellowship?
+		+ How you are specifically interested in their program?
+	+ You may give one/two paragraphs per item
+	+ **_Compelling Examples:_**
+		+ **_Where do you want to go?_** _"My interest in epidemiology and clinical research stems from an interest in neglected tropical disease——a group of diseases that infect over a billion of the world's poorest people despite existing treatments that cost less than $1.00. There is a startlingly large gap in scientific knowledge concerning fundamental questions about neglected diseases, from basic concepts in disease transmission to optimal treatment delivery strategies. As a graduate student and future academic, I hope to provide solutions to these questions..."_
+			+ Knows very clearly what he is going to do
+		+ **_What experiences have led you to this point?_** _"There, I saw many children suffering from AIDS and opportunistic infections such as tuberculosis. This environment was scary at times because it was my first time witnessing children in the advanced stage of HIV infection. It was painful to watch little kids suffer from various opportunistic infections and not be able to help them. However, I turned this experience into a motivating factor to pursue a career path in HIV/AIDS prevention and research."_
+			+ Compelling writing. It's moving
+			+ Clearly show why this person has chosen this particular career path
+		+ **_What experiences have led you to this point?_** _"Despite thinking of myself as a hard-core mathematician during my high school years, the amount of love, compassion, and care I experienced during my voluntary work at an institute for adults with learning disabilities were more than enough to sway me towards medicine."_
+			+ This person conveying his strong math ability, which is essential to this application in medicine
+		+ **_What makes you a strong candidate?_** _"I'm a bit of an outdoor-adventure seeker. In June 2000, I packed up my camping gear and touring bike, flew to France, and biked from Paris to Barcelona, Spain. I was also a competitive distance runner for many years, and this taught me to always seek adventure, even if it's hard. Incidentally, I traveled so much for competitions in college that I developed an excellent knack for writing on buses, planes, and trains——I expected this would extend easily to ships." (For a science writing internship on a research ship)_
+			+ Highlighting strength
+			+ Also, the author also suddenly conveying a bunch of other qualities, including _adaptable, high achievers, focus, dedicated_ without saying any of those words.
+				+ Showing, not telling
+		+ **_Why this specific program/institution/award?_** _"The far-reaching implications of Prof. Jones' work, the untapped potential of using statistical methods to explore large databases of information, the opportunity to rediscover my old passion for mathematics through medicine, and the driven as well as welcoming people I met at Stanford created a priceless educational experience. Within three weeks, I had learned how to program in R and had produced, under the guidance of Dr. Smith, a paper on..."_
+			+ Praised Standford, particular the people at Stanford
+			+ Showed a specific interest and knowledge
+			+ Slipped some accomplishments  
+			=> Richer than just listing the volume of publications  
+	+ **_Boring example:_**
+		+ Don't: **_What makes you a strong candidate?_** _"I have submitted or published three first-author publications, and I am a co-author on nine additional publications. I have presented independent research at five conferences and participated in the implementation of six different research projects."_
+			+ Although publications are important, listing them off is boring, and reviewers can easily see for themselves by glancing at the CV
+		+ Instead: _"Dr. Smith and I are currently drafting a manuscript reporting our findings for journal submission. My work at IU has been invaluable as it helped me gain insights on challenges associated with recruitment and retention of vulnerable patients into a study."_
+			+ The author does slip in the fact that this work is going to publish
+			+ But he spends more time talking about the experiences and what he gained from it
+		+ It would be better to highlight one of the first author publications:
+			+ Tell the reader about the experience
+			+ How did it feel doing that research?
+			+ Was it exciting?
+			+ How did it motivate you?
+			+ Were the findings interesting?
+			+ Did you come across any challenges that you had to figure out how to overcome?
+		+ **Show, don't tell**
+			+ You can get across the fact that you are competent, hardworking, persistent, a problem solver and you have first all the publications directly without saying any of this by showing through stories
++ **Conclusion**
+	+ End strong!
+	+ Summarize your interest in the program or opportunity
+	+ Consider circling back to your opening story of description
+	+ It's okay to be lofty and aspirational here
+	+ **_Example:_**
+		+ _"The opportunity to work with your team would put me smack in the middle of one of the most exciting research labs on the planet; it would give me a wealth of experience that would not only inspire beautiful writing, but would forever be woven into my future tales."_
+
+***
 
 
 
