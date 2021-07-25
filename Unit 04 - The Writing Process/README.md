@@ -223,9 +223,14 @@
 			+ My goal is to write 400 words today.
 			+ My goal is to write the first two paragraphs of the discussion section today.
 
+***
+
+
+
 
 
 
 <br><br>
 <br><br>
-_This note was created made by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+
