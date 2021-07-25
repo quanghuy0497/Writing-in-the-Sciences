@@ -3,8 +3,8 @@
 ### Table of contents
 * [1. Writing a Review Article](#1-Writing-a-Review-Article)
 * [2. Writing for Grants part I - Tips for Writing Proposals](#2-Writing-for-Grants-part-I---Tips-for-Writing-Proposals)
-* [3. Writing for Grants part II - The Specific Aims](#3-Writing-for-Grants-part-II---The-Specific-Aims)
-* [4. Writing for Grants part III - The Research Plan](#4-Writing-for-Grants-part-III---The-Research-Plan)
+* [3. Writing for Grants part II - The Specific Aims](#3-Writing-for-Grants-part---II-The-Specific-Aims)
+* [4. Writing for Grants part III - The Research Plan](#4-Writing-for-Grants-part---III-The-Research-Plan)
 * [5. Writing Letters of Recommendations](#5-Writing-Letters-of-Recommendations)
 * [6. Writing Personal Statements](#6-Writing-Personal-Statements)
 * [Notes](#Notes)
@@ -63,7 +63,8 @@
 		+ What gaps remain in the literature? What future studies would help fill in these gaps?
 	+ References
 + **Examples:**
-	+ **_Theme and thesis 1:_** _"Eating disorders in athletes have distinct etiologies and require specialized approaches to measurement, diagnosis, prevention and treatment...This chapter will critically review the latest research on ED in athletes, including: (1) issues in measurement, (2) sport and gender-specific prevalences, (3) risk and protective factors, (4) short and long-term sequelae, (5) prevention strategies, and (6) treatment strategies."_ 
+	+ **_Theme and thesis 1:_**
+		> _"Eating disorders in athletes have distinct etiologies and require specialized approaches to measurement, diagnosis, prevention and treatment...This chapter will critically review the latest research on ED in athletes, including: (1) issues in measurement, (2) sport and gender-specific prevalences, (3) risk and protective factors, (4) short and long-term sequelae, (5) prevention strategies, and (6) treatment strategies."_   
 	+ **_Logical structure 1:_**
 		+ _Abstract_
 		+ _Introduction_
@@ -76,7 +77,8 @@
 		+ _Treatment_
 		+ _Conclusion_
 		+ _References_
-	+ **_Theme and thesis 2:_** _"We review the history of CRISPSR (clustered regularly interspaced palindromic repeat) biology from its initial discovery through the elucidation of the CRISPR-Cas9 enzyme mechanism, which has set the stage for remarkable developments using this technology to modify, regulate, or mark genomic loci in a wide variety of cells and organisms from all three domains of life."_ 
+	+ **_Theme and thesis 2:_**
+		> _"We review the history of CRISPSR (clustered regularly interspaced palindromic repeat) biology from its initial discovery through the elucidation of the CRISPR-Cas9 enzyme mechanism, which has set the stage for remarkable developments using this technology to modify, regulate, or mark genomic loci in a wide variety of cells and organisms from all three domains of life."_   
 	+ **_Logical structure 2:_**
 		+ _Abstract_
 		+ _CRISPR-cas: A revolution in genome engineering_
@@ -88,7 +90,8 @@
 		+ _Further development of the technologu_
 		+ _Conclusion and perspectives_
 		+ _References and Notes_
-	+ **_Theme and thesis 3:_** _"A thorough undersanding of the dynamics of Ebola virus prersistence and shedding in the diverse body compartments and fluids is essential to estimating and mutigating risk of transmission form EVD survivors. We review here the present evidence on the subject and discuss the potential risk of transmission from persistent Ebola virus infection"_ 
+	+ **_Theme and thesis 3:_**
+		>	_"A thorough undersanding of the dynamics of Ebola virus prersistence and shedding in the diverse body compartments and fluids is essential to estimating and mutigating risk of transmission form EVD survivors. We review here the present evidence on the subject and discuss the potential risk of transmission from persistent Ebola virus infection."_  
 	+ **_Logical structure 3:_**
 		+ _Abstract_
 		+ _Methods (Search strategy)_
@@ -206,21 +209,22 @@
 		> _List succinctly the **specific objectives** of the research proposed, e.g., to test a stated hypothesis, create a novel design, solve a specific problem, challenge an existing paradigm or clinical practice, address a critical barrier to progress in the field, or develop new technology._
 		>
 		> _Specific Aims are limited to **one page**"._  
-
-	+ Key questions that need to answer:
-		![](Images/01.png)  
-		+ Is the research question important?
-			+ Can it tackle any particular gaps?
-			+ Significant advanced on the field
-		+ What is the overall goal?
-			+ The purpose of the proposal
-			+ Fill in the gap delineated by addressing the first question
-		+ What specifically will be done?
-			+ Your working hypothesis
-			+ Your approach to objectively test the hypothesis
-		+ What is the expected payoff?
++ **Key questions that need to answer**
+	+ _Is the research question important?_
+		+ Can it tackle any particular gaps?
+		+ Significant advanced on the field
+	+ _What is the overall goal?_
+		+ The purpose of the proposal
+		+ Fill in the gap delineated by addressing the first question
+	+ _What specifically will be done?_
+		+ Your working hypothesis
+		+ Your approach to objectively test the hypothesis
+	+ _What is the expected payoff?_
+		+ Expected outcomes
+		+ Research impact
+	![](Images/01.png)  
 	+ These questions must be specifically aligned, just like gears
-		+ You really need to take a big picture look to make sure each of your answers are **_perfectly alligned_** with other answers
+	+ You really need to take a big picture look to make sure each of your answers are **_perfectly alligned_** with other answers
 	+ Use the answers to the 4 key questions to organize the Specific Aims document!
 + **Structure**
 	1) Is the question important?  
@@ -259,7 +263,7 @@
 			![](Images/02.png)  
 		+ Another structure:
 			![](Images/03.png)  
-+ Remember: **Feedback is critial**
++ Remember: **Feedback is critical**
 	+ STOP! Get Feedback throughtout the process!
 
 ### 4. Writing for Grants part III - The Research Plan
@@ -341,4 +345,4 @@
 
 <br><br>
 <br><br>
-_This notes were made by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
