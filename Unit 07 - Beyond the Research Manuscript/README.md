@@ -3,11 +3,10 @@
 ### Table of contents
 * [1. Writing a Review Article](#1-Writing-a-Review-Article)
 * [2. Writing for Grants part I - Tips for Writing Proposals](#2-Writing-for-Grants-part-I---Tips-for-Writing-Proposals)
-* [3. Writing for Grants part II - The Specific Aims](#3-Writing-for-Grants-part---II-The-Specific-Aims)
-* [4. Writing for Grants part III - The Research Plan](#4-Writing-for-Grants-part---III-The-Research-Plan)
-* [5. Writing Letters of Recommendations](#5-Writing-Letters-of-Recommendations)
+* [3. Writing for Grants part II - The Specific Aims](#3-Writing-for-Grants-part-II---The-Specific-Aims)
+* [4. Writing for Grants part III - The Research Plan](#4-Writing-for-Grants-part-III---The-Research-Plan)
+* [5. Writing Letters of Recommendation](#5-Writing-Letters-of-Recommendation)
 * [6. Writing Personal Statements](#6-Writing-Personal-Statements)
-* [Notes](#Notes)
 
 ### 1. Writing a Review Article
 + **Goals of writing a Review Article**
@@ -336,7 +335,118 @@
 	[](Images/04.png)  
 	+ Your job is to bridge is gaps between the need and the payoff
 
-### Notes
+### 5. Writing Letters of Recommendation
++ **Things to consider**
+	+ It's OK to decline if you cannot write a strong letter
+	+ Take into account the competitiveness of the position or award
+	+ Never ask students to draft their own letters
++ **The candidate should provide**
+	+ CV or resume
+	+ Information about the position or award
+	+ The deadline
+	+ Specific information about how to submit the letter
++ **Formatting**
+	+ Format it like an old-fashioned letter (date, address of the committee, etc.)
+	+ Use letterhead (or the electronic version of that)
+	+ Avoid generic greetings such as "to whom it may concern". Rather, address it to a person (if known) or "XX admissions committee" or "XX scholarship committee"
++ **Introduction (first paragraph)**
+	+ _"I am pleased/delighted/thrilled to recommend XX for YY."_; _"It's a pleasure to recommend XX for YY."_
+	+ How do you know the candidate? How long have you known the candidate?
+	+ 1-2 sentence overview
+		+ _"He is one of the most brilliant and accomplished students that I have taught to date."_ **_(highest praise)_**
+			+ There is a hidden language of the LoR, this is one example
+		+ _"I've found her to be a diligent student and researcher. I'm confident that she would be an asset to your research team."_ **_(typical praise)_**
++ **Body of the letter**
+	+ Use clear, concise, engaging language!
+		+ Using all the good writing techniques
+		+ Sometimes the committee wants to interview a candidate just because an engaging and beautifully written letter
+	+ The length of the letter matters! _(the hidden language)_
+		+ The length of the letter is one indication of the letter writer's enthusiasm for a candidate
+		+ If you think a candidate is particularly strong, you always make sure to go on to a second page
+		+ If a candidate receives several short one page letters, then perhaps this is the signal to rate the candidate less highly
+	+ Address qualities relevant to the position/award, such as:
+		+ Quantitative skills
+		+ Communication skills
+		+ Ability to work with others
+		+ Initiative
+		+ Ability to prioritize tasks
+		+ Creativity
+	+ If the candidate is weak in some areas, you need to point this out
+		+ But remember, using the positive langue (i.e. _"the person is working on that..."_ or _"has made progress in that area"_)
+	+ Give specific memorable examples and stories. **"Show, don't tell"**
+		+ _"I sent her request for edits at 10 am in the morning, and she turned around the revision by 3 pm the same day."_
+		+ _"Her story stood out. It was funny, witty, and memorable (it's the only one I remember vividly from the class)."_
+		+ _"He is also a good citizen and goes out of his way to help others. For example, before he was a TA, he spent several hours a week helping one of our students who was struggling with the fall quarter course in statistics."_
+	+ Quantify and compare
+		+ Provide some guideposts to the review committee
+			+ It helps quantify and compare
+		+ _"She is among the top ten percent of MS students I have taught at Stanford."_
+	+ Point out extenuating circumstances (if applicable)
+		+ _The candidate has had to deal with major family issues or a challenging background_ 
+		+ Helpful if a student has a weaker academic record
+		+ Reviewer values candidates who have overcome unusual obstacles or who have unconventional backgrounds
+	+ Bold/underline/italicize to add emphasis
+	+ If possible, quote others (colleagues, students)
+		+ _"One of my students wrote this in an unsolicited email:"_
+			+ _"You've probably heard already that XX has been a fantastic TA..."_
++ **Concluding paragraph**
+	+ Gives your final parting message
+	+ _"In sum, XX is a star in all aspects. If there's anything else I can do to support her application, please don't hesitate to contact me."_ **_(highest praise)_**
+	+ _"I highly recommend XX for this position. If you have any further questions, I would be happy to expand further on my comments."_ **_(typical praise)_**
++ **Be cautious**
+	+ When a letter focuses more on the recommender, class, or project than on the candidate, this is a red flag
+		+ This shows the readers that you don't have much to say about the candidate and aren't giving them a particularly high recommendation
+	+ It's OK to highlight strengths from the student's CV, but don't simply repeat what's on CV
+		+ You can have plenty to write about candidates without even mentioning their awards, honors, experiences
+			+ If so, you can come to the end of the letter, listed some of those accolades, and wrote something like this:
+			+ _"These are items I would have highlighted at the beginning of any other student's recommendation letter. The fact that I nearly forgot to include this list speaks volumes."_
++ **Language**
+	+ Again, there is a hidden language for the LoR
+	+ Choose your word carefully
+	+ There is a hierarchy of praise. 
+		+ **_For example_**  
+			_"Though not the top student in the class, he held his own among an extremely gifted and experienced group."_  
+				=> He is a good student (positive), but not an outstanding student (negative)  
+			**vs**  
+			_"He was one of the best students in my class of 50."_  
+				=> This is a very solid student, but not the best even in this one class  
+			**vs**  
+			_"He was the best student in my class of 50."_  
+				=> This is an outstanding student, but not the best I've ever encountered  
+			**vs**  
+			_"He is one of the best students I've had in my career at Stanford."_  
+				=> This is the language that you reserve for one student **every few years**. The reviewers look for these kinds of bold statements.  
+	+ You have to be honest, and only reserve that language for the truly exceptional candidates.
+	+ **_Another example:_**
+		+ _"I have confidence in her ability."_  
+		**vs**  
+		_"I have no doubt that she will go on to do first-rate research."_  
+		+ _"She is the most enthusiastic student I've ever worked with."_  
+		**vs**  
+		_"She is one of the most talented students I've ever worked with."_  
+	+ Note:
+		+ _"Enthusiastic"_ is a great quality. But an enthusiastic student does not mean he/she is an effective researcher nor a high performer.
+		+ If there is a letter where the **highest praise** is that the candidate is _"enthusiastic"_, _"hardworking"_, or a _"team player"_. The reviewers may infer that this means the recommendee is not a top performer.
+	+ Be aware of the subtle language of recommendations especially when you are new to writing them
++ **Tips for recommendee**
+	+ Be very respectful of your letter writer's time
+		+ Approach potential letter writers at least several weeks in advance of the deadline
+	+ Choose your recommenders **_carefully_**
+		+ Pick people who know you well and who you think have a high opinion of you
+	+ Take "no" for an answer, don't be persistent
+		+ That can be a subtle hint that they do not feel capable of writing **_a strong letter of recommendation_** for you
+	+ Avoid recommenders who ask you to draft your own letter
+		+ This person isn't going to take the time writing for you a strong letter
+		+ Also, this is **_unfair_** and **_unethical_**
+	+ Make life easy for your letter writer, be proactive
+		+ Give them information that will help writing the strongest letter possible
+			+ Provide them with your CV, SoP,...
+		+ Offer to meet with them (office hour)
+			+ Make a connection with them, make them remember you
+		+ Give them clear and easy instructions on how to submit the letter, also deadline
+			+ Provide a link to information about the position or award
+			+ Put those at their fingertips
+
 
 
 
