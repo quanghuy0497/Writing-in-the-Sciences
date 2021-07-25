@@ -136,9 +136,5 @@
 + Be careful with "hedge" words (`no appreciable change`, `it is suppected that`,...). They often unnecessary and raise all sorts of questions.
 + Wise word: ***`"Careful writers, watchful for small conveniences, go which-hunting, remove the defining whiches, and by doing so improve their work."`*** - Strunk and White
 
+***
 
-
-
-<br><br>
-<br><br>
-_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
