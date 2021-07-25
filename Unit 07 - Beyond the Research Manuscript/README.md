@@ -494,7 +494,10 @@
 		+ Another one where _"the candidate had been a crew athlete in college and she described being out on the river, rowing in the early morning."_
 	+ **_Compelling Examples:_**
 		+ _"Growing up in Tanzania, I heard a lot about HIV/AIDS and its effects on our population, but it was not until my cousin contracted the virus and subsequently passed it on to her newborn baby that it really hit home. At age 10, I was shattered by the terrible news and promise myself that one day, I would do something to tackle the epidemic and help those affected..."_
+			+ Took a risk sharing personal details like this, but it's so moving and draws you into the essay
+			+ You immediately feel like you know the writer, you are rooting for him to succeed in his quest
 		+ _"I was recently re-reading an autobiography that I wrote in fourth grade. I had to list my favorite things to do. My top four were running, solving puzzles, reading, and writing. The foresight of children is amazing...Not surprisingly, my passion for writing has also resurfaced. When I was a child, I did not dream of being a doctor or a scientist; I dreamed of being a writer. I have been steered toward the hard sciences all my life. I have pondered careers in biochemistry, genetics, and biostatistics. Yet, unfailingly, I find myself drawn back to my childhood whim. When I am asked what I am going to do when I fishing my epidemiology Ph.D., I always answer, laughingly, 'Actually, I am going to be a writer.'..."_
+			+ Long opener, revealing who she is, why she want to go to the science writing program
 	+ Don't be boring!!
 		+ **_Boring example:_**
 			+ _"Inspired by the courses I have taken at X college, I have decided that I want to pursue a doctoral degree in Y. As a double major in A and B at X college, I gained excellent skills in C, D, and E. Thus, I am well-prepared for doctoral studies and to pursue a career in academia."_  
