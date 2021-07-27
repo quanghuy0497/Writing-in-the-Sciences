@@ -159,7 +159,7 @@
 			+ Narrow down and focus your list through discussion with colleagues, mentors, and key researchers 
 		+ Make sure to relevant and appropriate for the mission of the funding opportunity announcement
 	4. **Use your Specific Aims document as your Roadmap**  
-		+ Detail in [**section 3**](#3-Writing-for-Grants-part-II---The-Specific-Aims))
+		+ Detail in [**section 3**](#3-Writing-for-Grants-part-II---The-Specific-Aims)
 	5. **Build a First-rate Team of Mentors**   
 		+ Leverage the strengths and expertise of collaborators (Team Science)
 			+ Helpful to study a complex problem 
