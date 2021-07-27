@@ -73,7 +73,7 @@
 		+ What is the appropriate journal
 		+ Who is the audience that's going to care about my data
 		+ Ask the senior to find the appropriate journal
-	2. 	Follow the online "instructions for authors" for writing and formatting the manuscript  
+	2. 	Follow the online _"instructions for authors"_ for writing and formatting the manuscript  
 	3. Submit the manuscript online (corresponding author)  
 		+ All authors must fill out and sign copyright transfer and conflict of interest forms
 	4. Possible outcomes: accepted; accepted pending minor revisions; rejected be re-submission possible; no resubmission possible  
@@ -208,7 +208,7 @@
 	+ Suitability for the specific journal
 	+ Good writing/Good American English
 	+ Concise writing
-	+ The "samali" problem
+	+ The _"samali"_ problem
 		+ Research that is sliced too thinly
 		+ **_Example:_** had a study that involves both men and women, but published two papers, effect on men and effect on women.
 + The number one mistake that scientists make when submitting their paper:
@@ -332,7 +332,7 @@
 				+ _"Table 4 contains unnecessary information (for example...), and a Pearson's correlation coefficient may not be appropriate here. The authors should consider revising or omitting the table."_ **=> Focusing on the problem rather than criticizing the authors**
 		+ Avoid generalizations, point out specific errors.
 		+ Use positive instead of negative language where possible: _"The paper is poorly written."_ vs _"The writing and presentation could be improved. For example..."_
-		+ Avoid "lecturing" to the authors
+		+ Avoid _"lecturing"_ to the authors
 	+ **_Comments to authors_**
 		1. Start with one-paragraph "general overview"  
 			+ State what you think is the major finding and importance of the work
