@@ -421,7 +421,7 @@
 		+ Show the public what scientists are thinking and doing, what their lives are like
 	+ To pull that off, know who you are talking to
 	+ And know why those people would follow you
-	+ And finally: Engage, don't teach
+	+ And finally: **_Engage, don't teach_**
 
 ***
 
