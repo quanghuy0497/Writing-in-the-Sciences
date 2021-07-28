@@ -160,8 +160,7 @@
 			+ It isn't difficult, but it's not the way that we're used to writing in science
 				+ In science, we usually start with the background and then built-up to the take-home message
 				+ When writing for the general audience, we have to flip it
-			+ **_Example:_**
-				![](Images/01.png)  
+			![](Images/01.png)  
 	2. **Recognize and avoid jargon**
 		+ This includes not just technical terms, but also "scientist-speak"
 			+ A lot of the way we talk in science sound unfamiliar to lay audiences
