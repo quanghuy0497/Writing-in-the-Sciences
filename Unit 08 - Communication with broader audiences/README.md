@@ -94,10 +94,10 @@
 	+ If you don't give journalists the right numbers, they're likely to just report the most dramatic ones from your paper
 
 ### 2. Panel Interview
-+ How did the medial learn about your's study?
++ **How did the medial learn about your's study?**
 	+ Press realizes from in-house press office or journals
 	+ **_Tip:_** Build a relationship with your press office!
-+ What did you do to prepare for your interview?
++ **What did you do to prepare for your interview?**
 	+ Do practice interviews with a partner
 	+ Identify and document the critical information that you want to communicate
 	+ **_Tip:_** It is useful to have a one-page document written out ideas, things you want to be quoted
@@ -105,25 +105,25 @@
 	+ Learn about who will be interviewing you, their style, and the type of questions they may ask
 	+ Ask for the questions in advance
 	+ Ask if there is a predetermined "angle" for the article
-+ Are there times when you might want to turn down an interview?
++ **Are there times when you might want to turn down an interview?**
 	+ Number of requests may be overwhelming
 	+ Work with your press office to prioritize requests
-+ What was the most surprising thing about the interview experience?
++ **What was the most surprising thing about the interview experience?**
 	+ An interview is over very quickly
 	+ The amount of time you will have to express your thoughts will vary based on the interview format
 	+ Much of the interview is prepared ahead of time
 	+ Stay focused on your research and be prepared to redirect questions back to your work
-+ What would you do differently to prepare for your next interview?
++ **What would you do differently to prepare for your next interview?**
 	+ Prepare ways to redirect questions to the topics you want to talk about
 	+ Practice the key topics you plan to talk about
 	+ Make your point and then wait for the next question
 	+ help your interviewer stay accurate by pausing or speaking slowly
 	+ Prepare a "take-away" statement that reinforces your main point
-+ What tips or advice for young scientists?
++ **What tips or advice for young scientists?**
 	+ Imagine you are talking to "Uncle Bob" and let yourself use more conversational language
 	+ Keeping in mind your audience make it very general
 	+ Remember to do mock interviews
-+ **_Other tips:_**
++ **Other tips:**
 	+ Make sure to review the press release to confirm the accuracy
 	+ Get to know your press office contact
 	+ Prepare and practice for your interview!
@@ -160,7 +160,8 @@
 			+ It isn't difficult, but it's not the way that we're used to writing in science
 				+ In science, we usually start with the background and then built-up to the take-home message
 				+ When writing for the general audience, we have to flip it
-			![](Images/01.png)  
+			+ **_Example:_**
+				![](Images/01.png)  
 	2. **Recognize and avoid jargon**
 		+ This includes not just technical terms, but also "scientist-speak"
 			+ A lot of the way we talk in science sound unfamiliar to lay audiences
@@ -303,13 +304,124 @@
 		=> Implication of the fact that we still carry Stone Age Gene (circle back to the Lead)  
 		=> End with a nice quote. Put the "Parham says." in the middle of the quote => more engaging  
 + Go out and read some science news stories in the NY Times, Nature News, Scientific America and identify these key elments of writing a news story.
-	
 
+### 5. Interviewing a scientist	
++ **Challenge**
+	![](Images/21.png)  
+	+ Understanding the science
+	+ Trying to get the scientist to speak in a way that the general public would understand
++ **Why can't scientists leg go of jargon?**
+	+ It's how they talk
+	+ Don't want to be imprecise
+	+ Don't really understand what people do and don't know
+		+ Some of these words and concepts are so fundamental to them, in their work, that they don't realize the outsider doesn't know about it at all
+	+ Don't care if people understand their work
++ **Why do you need the scientist to speak well?**
+	+ You want to quote them
+	+ You need their analogies/descriptions
+	+ You want the scientists to seem like real people
++ Scientists don't use lay language with other scientists so... you can appear to be a scientist (check your ego at the door)
++ **What questions elicited those quotes?**
+	+ What is the significance of this work?
+	+ Who will benefit from this work?
+	+ What did you think when you got the result?
+	+ Were they excited, were they confused, were they surprised?
+		+ Get some emotion in this work
+	+ What made you look into this question?
+		+ Get some backstory => help to understand the importance of this research
+	+ In the interview, not only you want to ask questions that help you understand the science, but also ask questions that get at the significance in the emotion
++ Anatomy of an interview
+	![](Images/22.png)  
+	+ Can you describe the key finding?
+		+The first question always asked is something really big picture
+		+ Helps the scientist take a step back and begin thinking kind of big picture
+		+ You might read the paper prior
+	+ Why it is important?
+		+ Help you get some content
+			+ Help you think about how you're going to frame the story for readers
+	+ How does it work?
+		+ Make sure you understand the science well enough to write about it
+	+ Is there anything you want to add?
+		+ Perhaps the most important question in the interview
+			+ This is where the person you interviewing takes a minute to think about interesting, important, or side comments about their research that maybe didn't fit in the paper
+			+ Maybe it's perspectives on the research that you wouldn't have thought of, but they had
+		+ You often get really interesting answers. Let the magic happen
++ **Using the quote**
+	+ Use a quote exactly as it was said, but be polite, tidy up the quote (erase words, i.e., "um", "really",...; add punctuation;...)
+		+ Make the quote make sense, and mean exactly what the person meant it to mean
+	![](Images/23.png)  
+	+ Be truthful
+		+ Quotes should be faithful to the words and intended meaning of the speaker. Your goal is not to trap a source into making a mistake. It is to make public a meaningful statement
+		+ Don't edit the quote in a way that makes it seem different than it really was
+	+ Adding language to quotes is more dangerous than taking stuff out, although both can distort the meaning
+		+ Distortion by subtraction is necessary in the very selection of quotes. Distortion by addition can get you fired
+	+ Because of language prejudice on race and class, be careful with slang and dialect
+	+ The American language is a great treasure
+		+ Listen to NPR to get a feel of how skilled reporters and editors reveal the diversity of American speech
+	+ Be polite
++ **Q&A: Not exactly one long quote**
+	+ A Q&A is a good option when:
+		+ You have a scientist who speaks very well
+		+ The person is the story
+		+ The point of the story is to get that person's opinion
+		+ You don't have a lot of time (Q&A eliminates the need to write a lead, nut graf, clever analogies, etc.)
+		+ You want to help your readers understand a new process or decision
+	+ What a Q&A is not:
+		+ A literal transcript of the answers (Because people aren't actually  that interesting)
+	+ What a Q&A is:
+		+ A more succinct, more engaging version of what the person actually said
++ **Interviewing for a Q&A**
+	+ Like any other interview except:
+		+ You should write the questions out in advance, and have a sense of what your story arc is going to be
+			+ Allow you to end up with a Q&A that tells a bit of a story
+		+ Have more questions prepared than what you will eventually use
+			+ Prepare to dumb some interested-questions turn out to be not interested
+		+ Be open to detours, but be thinking about they fit into your arc
+		+ Be listening to make sure the person answers the full question. You won't be able to write in context or fill in details
+		+ A Q&A is not one long quote. Writers must use the interviewee's words and stay true to the intended meaning, but may condense material and move it around to make a more coherent, succinct, and interesting story.   
+		![](Images/24.png)  
 
-
-
-
-
+### 6. Social media
++ **Social media by the numbers**
+	+ Twitter: Huge
+	+ FB/Insta: Moderate
+	+ Blog/Medium: Small
++ **Why engage?**
+	+ Reputation of a school or institute
+	+ Promote your cause
+	+ Show thought leadership
+	+ Engage people in a topic
+	+ Drive traffic to a website or blog
+	+ Promote a personal brand
+	+ Connect with like-minded people  
+	=> Know what you want to achieve before starting to engage (as it takes time). THEN figure out how you are going to measure success
++ **Twitter**
+	+ Tweets and retweets (limited to 150 words)
+	+ Keep your friends close and your enemies closer in a Tweetdeck column
+	+ Twitter is incredibly powerful, you can reach an incredible number of people (it seems Americans prefer to use Twitter) 
+		+ You can spend an extraordinary amount of time following people, and seeing what people are saying
+		+ It is powerful and time-consuming
++ **Facebook**
+	+ Organizations use it to retain and engage existing friends
+	+ It's a less effective way of reaching a general audience
+	+ Very image/video-driven
+	+ Hard to use as a way of spreading science content
+	+ Can educate existing friends on a personal page
++ **Blogs**
+	+ Who blogs about science
+		+ Individual scientists blogging about their work or their field
+		+ Scientific organization blog about the science they fund
+		+ New outlets run blogs to fill in background on longer stories, or to cover other topics (Nature Jobs)
+		+ Groups of scientists might start a blog on a field of research (NeuWrite West)
+	+ If you have a blog, you need a Twitter account to drive the traffic in
+	+ Blogs also take a lot of time and they are very hard to get a following for
++ **Social media roundup**
+	+ Think about what you are trying to achieve before drive-in
+	+ If drive-in, be real (because if you are trying too hard it shows)
+		+ Show the public what scientists are thinking and doing, what their lives are like
+	+ To pull that off, know who you are talking to
+	+ And know why those people would follow you
+	+ And finally: Engage, don't teach
 
 ***
 
