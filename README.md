@@ -43,7 +43,7 @@ Taught by Dr. `Kristin Sainani`
 + Become familiar with the grant-writing process.
 + Understand how to write a strong letter of recommendation.
 + Understand how to write a strong personal essay.
-### [Unit 8: Communication with broader audiences](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2008%20-%20Communication%20with%20of%20broader%20audiences)
+### [Unit 8: Communication with broader audiences](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2008%20-%20Communication%20with%20broader%20audiences)
 + Recognize the importance of communicating science with broader audiences.
 + Be prepared to be interviewed by a journalist.
 + Recognize the difference between writing for scientific audiences and writing for lay audiences.
