@@ -161,8 +161,7 @@
 				+ In science, we usually start with the background and then built-up to the take-home message
 				+ When writing for the general audience, we have to flip it
 			+ **_Example:_**
-				+ Original: _"Atmospheric water is a resource equivalent to ~10% of all fresh water in lakes on earth. However, an efficient process for capturing and delivering water from air, especially at low humidity levels (down to 20%), has not been developed. **We report the design and demonstration of a device**..."_
-				+ Lay summary: _**Scientists have created a device that can pull water out of air...**_
+				![](Images/00.png)
 	2. **Recognize and avoid jargon**
 		+ This includes not just technical terms, but also "scientist-speak"
 			+ A lot of the way we talk in science sound unfamiliar to lay audiences
