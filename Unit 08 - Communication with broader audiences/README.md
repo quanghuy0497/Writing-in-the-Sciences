@@ -155,14 +155,14 @@
 		+ **_Lay summary:_**
 			> _Scientists have created a device that can pull water out of air. Water-harvesting devices have been built before, but they were impractical for everyday use because they only worked on extremely moist air or required high amounts of energy to run. The new device contains a porous crystal (called a metal-organic framework) that soaks up water vapor like a sponge; a small solar panel provides the energy needed to condense the water into liquid. A prototype containing two pounds of the crystal extracted 12 cups of water from desert air in one day using only sunlight to power._  
 + **Writing for lay audiences**
-	1. **Start with the take-home messages**  
+	1. **_Start with the take-home messages_**  
 		+ Tell readers upfront why they should care! Tell them the most important thing first
 			+ It isn't difficult, but it's not the way that we're used to writing in science
 				+ In science, we usually start with the background and then built-up to the take-home message
 				+ When writing for the general audience, we have to flip it
 			+ **_Example:_**
 				![](Images/01.png)  
-	2. **Recognize and avoid jargon**
+	2. **_Recognize and avoid jargon_**
 		+ This includes not just technical terms, but also "scientist-speak"
 			+ A lot of the way we talk in science sound unfamiliar to lay audiences
 		+ This is hard for scientists, as we are so immersed into science, we don't event recognize half of the jargon we use
@@ -170,7 +170,7 @@
 			![](Images/02.png)  
 			![](Images/03.png)  
 			![](Images/04.png)  
-	3. **Unpack the science**
+	3. **_Unpack the science_**
 		+ You cannot assume any prior scientific knowledge
 			+ Your audience may be unfamiliar with basic scientific concepts that you take for granted.
 		+ You need to explain the science——without handwaving!
@@ -183,7 +183,7 @@
 			+ Sometime, even the writer doesn't even know what the jargon is:
 				![](Images/07.png)  
 				=> "neural projection", that is a fancy way of saying "axon"
-	4. **Filter out unnecessary details**  
+	4. **_Filter out unnecessary details_**  
 		+ Prioritize details
 		+ Lay audiences don't need to know all the nitty-gritty scientific details
 			+ They are just not meaningful or relevant for a lay audience
@@ -202,7 +202,7 @@
 				=> In the short lay summary, we don't need detail about the amount of water in the air  
 				=> The lay reader doesn't think in humidity level. We just say the air is dry or desert, that's more meaningful to them  
 				=> Of course, they doesn't need to know the chemical formula, or the unit of sun  
-	5. **Get to the point faster**
+	5. **_Get to the point faster_**
 		+ In the journal article science, we tend to take our time getting to the point
 			+ Something was done => What was done => What was found => What it all means
 		+ In lay audience writing, you should trust your reader
@@ -212,7 +212,7 @@
 			![](Images/10.png)   
 			![](Images/11.png)  
 			=> The edited version (one last sentence) contains information about _what was found_. The audience can imply about _what was done_ and _what it all means_.
-	6. **Tell a story**
+	6. **_Tell a story_**
 		+ Use story-telling techniques to set a scene, (appeal to the 5 scenses——taste, touch, feel, sight, hearing), focus on characters (human beings!), follow a plot (drama and suspense)
 		+ **_Example:_**
 			![](Images/12.png)
@@ -237,7 +237,7 @@
 	+ Kicker
 	+ Typically, news stories are about 500-800 words long, but it can be shorter or longer
 + **Structure**
-	+ The Lead
+	+ **_The Lead_**
 		+ Encompasses the first paragraph 
 			+ The hardest part of the story to write
 			+ Coming for the lead takes time, thought and creativity
@@ -250,17 +250,19 @@
 			+ Use the main verb to carry the main news, and use action verbs to make it engaging
 			+ Give complementary, but different information than the headline
 			+ Provide some, but not necessarilyy all, of the 5W's and 1H  
-		![](Images/14.png)  
-		=> The author just giving a flavor for what the story is about and enticing the reader to read on  
-	+ Nut Graf (Nut Paragraph)
+		+ **_Example:_**  
+			![](Images/14.png)  
+			=> The author just giving a flavor for what the story is about and enticing the reader to read on  
+	+ **_Nut Graf (Nut Paragraph)_**
 		+ Usually contained in one paragraph
 			+ Athough it occasionally extends over multiple paragraphs
 		+ The Nut Graf gives the nut/heart of the story
 			+ Flushes out the 5W's and 1H
 		+ Occasionally, the Nut Graf is hidden——contained within the lead or strewn throughout several paragraphs. But usually, it's identifiable  
-		![](Images/15.png)  
-		=> That basically the what, why and how. The when is 2010, and the who is Prof. Parham.  
-	+ Quotes
+		+ **_Example:_**  
+			![](Images/15.png)  
+			=> That basically the what, why and how. The when is 2010, and the who is Prof. Parham.  
+	+ **_The First Quotes_**
 		+ The fun part of news writing! The interview doesn't involve any 'writing' on your part——just elicting good quotes and strategic placement
 		+ Quotes =>
 			+ Give a human dimension to the story
@@ -269,18 +271,19 @@
 			+ Provide color and flavor
 			+ Flush out the main idea
 			+ Move the story along
-		+ First quote——often gives _"big picture"_  
-		![](Images/16.png)  
-		=> Tell the big picture significant of the paper  
+		+ First quote——often gives _"big picture"_ 
+		+ **_Example:_**   
+			![](Images/16.png)  
+			=> Tell the big picture significant of the paper  
 		+ Attribution
 			+ The name (noun) goes before the verb (said or says)
-				+ "Blah, blah, blah, blah," Professor Smith said (or says).
-				+ NOT: "Blah, blah, blah, blah," said Professor Smith.
-				+ UNLESS we have a long description after the name: "Blah, blah, blah, blah," said Professor Smith, the really boring professor that we all had to take English from (long attribution——sounds awkward to say Prof.Smith, the really boring professor that we all had to take English from, said!)
+				+ _"Blah, blah, blah, blah," Professor Smith said_ (or says).
+				+ NOT: _"Blah, blah, blah, blah," said Professor Smith._
+				+ UNLESS we have a long description after the name: _"Blah, blah, blah, blah," said Professor Smith, the really boring professor that we all had to take English from_ (long attribution——sounds awkward to say _Prof.Smith, the really boring professor that we all had to take English from, said!_)
 			+ Prefer "said" (or "says") to most other possibilities, such as "noted" and "remarked", which have particular connotations...
 				+ _"Noted"_ implies that whatever the person's statement was fact
 				+ _"Remarked"_ implies that someone is saying something casually
-	+ Body of the story
+	+ **_Body of the story_**
 		+ Long or shot depending on the overall length of the article
 		+ Fushes out the story——walk the reader through the important parts of the research
 			+ What was done before
@@ -291,19 +294,21 @@
 			+ Outside commentary (if room)
 			+ Implications (if room)
 		+ Filter out less important details
-		+ Use quotes to add flavor and break upp the story!  
-		![](Images/17.png)  
-		![](Images/18.png)  
-		![](Images/19.png)
-	+ The kicker
+		+ Use quotes to add flavor and break upp the story!
+		+ **_Example:_**  
+			![](Images/17.png)  
+			![](Images/18.png)  
+			![](Images/19.png)
+	+ **_The kicker_**
 		+ The ending
 		+ Leaves the reader feeling satisfied
 		+ Often circles back to the Lead
 		+ A quote can be effective  
-		![](Images/20.png)
-		=> Implication of the fact that we still carry Stone Age Gene (circle back to the Lead)  
-		=> End with a nice quote. Put the "Parham says." in the middle of the quote => more engaging  
-+ Go out and read some science news stories in the NY Times, Nature News, Scientific America and identify these key elments of writing a news story.
+		+ **_Example:_**  
+			![](Images/20.png)
+			=> Implication of the fact that we still carry Stone Age Gene (circle back to the Lead)  
+			=> End with a nice quote. Put the "Parham says." in the middle of the quote => more engaging  
++ Go out and read some science news stories in the [NY Times](https://www.nytimes.com/), [Nature News](https://www.nature.com/news), [Scientific American](https://www.scientificamerican.com/) and identify these key elments of writing a news story.
 
 ### 5. Interviewing a scientist	
 + **Challenge**
@@ -320,7 +325,7 @@
 	+ You want to quote them
 	+ You need their analogies/descriptions
 	+ You want the scientists to seem like real people
-+ Scientists don't use lay language with other scientists so... you can appear to be a scientist (check your ego at the door)
++ Scientists don't use lay language with other scientists so... you can't appear to be a scientist (check your ego at the door, feel like you can ask stupid questions)
 + **What questions elicited those quotes?**
 	+ What is the significance of this work?
 	+ Who will benefit from this work?
@@ -347,18 +352,21 @@
 			+ Maybe it's perspectives on the research that you wouldn't have thought of, but they had
 		+ You often get really interesting answers. Let the magic happen
 + **Using the quote**
-	+ Use a quote exactly as it was said, but be polite, tidy up the quote (erase words, i.e., "um", "really",...; add punctuation;...)
+	+ Edit the quote:
+		+ The rule of thumb: Use a quote exactly as it was said
+		+ But be polite, tidy up the quote (erase words, i.e., "um", "really", "you know",...; add punctuation; etc.)
 		+ Make the quote make sense, and mean exactly what the person meant it to mean
-	![](Images/23.png)  
-	+ Be truthful
-		+ Quotes should be faithful to the words and intended meaning of the speaker. Your goal is not to trap a source into making a mistake. It is to make public a meaningful statement
-		+ Don't edit the quote in a way that makes it seem different than it really was
-	+ Adding language to quotes is more dangerous than taking stuff out, although both can distort the meaning
-		+ Distortion by subtraction is necessary in the very selection of quotes. Distortion by addition can get you fired
-	+ Because of language prejudice on race and class, be careful with slang and dialect
-	+ The American language is a great treasure
-		+ Listen to NPR to get a feel of how skilled reporters and editors reveal the diversity of American speech
-	+ Be polite
+		![](Images/23.png)  
+	+ Tips for editing quotes:
+		+ Be truthful
+			+ Quotes should be faithful to the words and intended meaning of the speaker. Your goal is not to trap a source into making a mistake. It is to make public a meaningful statement
+			+ Don't edit the quote in a way that makes it seem different than it really was
+		+ Adding language to quotes is more dangerous than taking stuff out, although both can distort the meaning
+			+ Distortion by subtraction is necessary in the very selection of quotes. Distortion by addition can get you fired
+		+ Because of language prejudice on race and class, be careful with slang and dialect
+		+ The American language is a great treasure
+			+ Listen to [NPR](https://www.npr.org/) to get a feel of how skilled reporters and editors reveal the diversity of American speech
+		+ Be polite
 + **Q&A: Not exactly one long quote**
 	+ A Q&A is a good option when:
 		+ You have a scientist who speaks very well
@@ -366,6 +374,10 @@
 		+ The point of the story is to get that person's opinion
 		+ You don't have a lot of time (Q&A eliminates the need to write a lead, nut graf, clever analogies, etc.)
 		+ You want to help your readers understand a new process or decision
+	+ Edit the Q&A:
+		+ The rule of thumb: same as edit the quote
+		+ However, you do not need to use the entire answer, as it was said, you can edit it lightly
+			+ But it should accurately reflect what that person intended to say
 	+ What a Q&A is not:
 		+ A literal transcript of the answers (Because people aren't actually  that interesting)
 	+ What a Q&A is:
@@ -375,11 +387,11 @@
 		+ You should write the questions out in advance, and have a sense of what your story arc is going to be
 			+ Allow you to end up with a Q&A that tells a bit of a story
 		+ Have more questions prepared than what you will eventually use
-			+ Prepare to dumb some interested-questions turn out to be not interested
+			+ Prepare to dumb some questions if they turn out to be not interested
 		+ Be open to detours, but be thinking about they fit into your arc
 		+ Be listening to make sure the person answers the full question. You won't be able to write in context or fill in details
 		+ A Q&A is not one long quote. Writers must use the interviewee's words and stay true to the intended meaning, but may condense material and move it around to make a more coherent, succinct, and interesting story.   
-		![](Images/24.png)  
+			![](Images/24.png)  
 
 ### 6. Social media
 + **Social media by the numbers**
@@ -396,15 +408,28 @@
 	+ Connect with like-minded people  
 	=> Know what you want to achieve before starting to engage (as it takes time). THEN figure out how you are going to measure success
 + **Twitter**
-	+ Tweets and retweets (limited to 150 words)
+	+ People often use Twitter for news, information, news outlet (rather than Facebook)
+	+ Twitter has
+		+ Hashtag (i.e. #deeplearning): easy to follow news and people related on the same topic
+		+ Handout (i.e., @computervision): follow people without letting them know
+		+ Image, video, URL link
+		+ Tweets and retweets (limited to 150 words)
+		+ People to follow (journalist, scientist, science organization,...)
 	+ Keep your friends close and your enemies closer in a Tweetdeck column
-	+ Twitter is incredibly powerful, you can reach an incredible number of people (it seems Americans prefer to use Twitter) 
+	+ When you start thinking about tweeting
+		+ Think about how you can be you, a real person tweeting
+	+ Posting a scientific tweet is just like writing a lay summary recap (with 1-2 sentences)
+		+ Or just write a catching title (with an URL link)
+	+ A case story:
+		![](Images/25.png)  
+	+ Twitter is incredibly powerful, you can reach an incredible number of people without knowing them
 		+ You can spend an extraordinary amount of time following people, and seeing what people are saying
 		+ It is powerful and time-consuming
 + **Facebook**
 	+ Organizations use it to retain and engage existing friends
 	+ It's a less effective way of reaching a general audience
 	+ Very image/video-driven
+		+ If you don't have good images or videos, your FB post will not go far
 	+ Hard to use as a way of spreading science content
 	+ Can educate existing friends on a personal page
 + **Blogs**
@@ -415,6 +440,8 @@
 		+ Groups of scientists might start a blog on a field of research (NeuWrite West)
 	+ If you have a blog, you need a Twitter account to drive the traffic in
 	+ Blogs also take a lot of time and they are very hard to get a following for
+		+ On the one hand, it a great way to convey a large chunk of information to people
+		+ On the other hand, you need to think hard about how you're going to drive people to that blog
 + **Social media roundup**
 	+ Think about what you are trying to achieve before drive-in
 	+ If drive-in, be real (because if you are trying too hard it shows)
